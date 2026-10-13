@@ -61629,5 +61629,11 @@
     "kind": "document",
     "bytes": 6894,
     "sha256": "6968622175fa916aab6dda8de31cf9ffe24001999a20db4e7b8374f4d8ba28c2"
+  },
+  {
+    "path": "PAYWALLS.md",
+    "kind": "document",
+    "bytes": 4132,
+    "sha256": "d1a2b6bf1e4ad187e53977b2095db7ede84707a0b27861ad3bc24c05f0e76354"
   }
 ]

@@ -2,6 +2,23 @@
 
 Start here for paywall comparison. Prices and offers describe the captured state; they are not a current price list.
 
+## Restored user-recording evidence
+
+See [the detailed corrections](UPDATES-2026-10-13.md) for prices, trial terms and evidence limits. The rows below have different roles; they are not eight interchangeable paywall designs.
+
+| App | State | Role | Screenshot |
+|---|---|---|---|
+| Buddyfit | U03-0123, 72s | Annual offer | [PNG](onboarding/frames/buddyfit/U03-0123.png) |
+| Buddyfit | U03-0127, 81.5s | Monthly selection | [PNG](onboarding/frames/buddyfit/U03-0127.png) |
+| Buddyfit | U03-0129, 90.5s | Annual offer and terms | [PNG](onboarding/frames/buddyfit/U03-0129.png) |
+| Buddyfit | U03-0131, 93s | System purchase confirmation | [PNG](onboarding/frames/buddyfit/U03-0131.png) |
+| Buddyfit | U03-0171, 147.5s | Purchase success | [PNG](onboarding/frames/buddyfit/U03-0171.png) |
+| Buddyfit | U03-0183, 153.5s | Post-purchase onboarding | [PNG](onboarding/frames/buddyfit/U03-0183.png) |
+| Buddyfit | U03-0831, 763s | Subscription management | [PNG](onboarding/frames/buddyfit/U03-0831.png) |
+| Technogym | U12-0636 / V10 19:48 | Plus entry; no price shown | [PNG](onboarding/frames/technogym/U12-0636.png) |
+
+## Catalog screenshots
+
 | App | Screen ID | Screenshot |
 |---|---|---|
 | MacroFactor | `pay_lxt3u` | [PNG](MacroFactor/pay_lxt3u.png) |
