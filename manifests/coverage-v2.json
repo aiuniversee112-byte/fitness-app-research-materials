@@ -1,0 +1,367 @@
+{
+  "version": 2,
+  "date": "2026-10-13",
+  "apps": [
+    {
+      "app_slug": "fitbod",
+      "app": "Fitbod",
+      "states": 54,
+      "questions": 20,
+      "source_types": {
+        "static": 17,
+        "mcp_video": 22,
+        "user_video": 15
+      }
+    },
+    {
+      "app_slug": "gymverse",
+      "app": "Gymverse",
+      "states": 70,
+      "questions": 20,
+      "source_types": {
+        "static": 34,
+        "mcp_video": 36
+      }
+    },
+    {
+      "app_slug": "muscle-booster",
+      "app": "Muscle Booster",
+      "states": 127,
+      "questions": 50,
+      "source_types": {
+        "static": 41,
+        "mcp_video": 49,
+        "user_video": 37
+      }
+    },
+    {
+      "app_slug": "fitify",
+      "app": "Fitify",
+      "states": 134,
+      "questions": 51,
+      "source_types": {
+        "static": 59,
+        "mcp_video": 75
+      }
+    },
+    {
+      "app_slug": "fiton",
+      "app": "FitOn",
+      "states": 45,
+      "questions": 14,
+      "source_types": {
+        "static": 21,
+        "mcp_video": 24
+      }
+    },
+    {
+      "app_slug": "smartgym",
+      "app": "SmartGym",
+      "states": 44,
+      "questions": 11,
+      "source_types": {
+        "static": 16,
+        "mcp_video": 28
+      }
+    },
+    {
+      "app_slug": "macrofactor",
+      "app": "MacroFactor",
+      "states": 90,
+      "questions": 27,
+      "source_types": {
+        "static": 35,
+        "mcp_video": 46,
+        "user_video": 9
+      }
+    },
+    {
+      "app_slug": "strava",
+      "app": "Strava",
+      "states": 49,
+      "questions": 14,
+      "source_types": {
+        "static": 20,
+        "mcp_video": 29
+      }
+    },
+    {
+      "app_slug": "bodi",
+      "app": "BODi",
+      "states": 27,
+      "questions": 8,
+      "source_types": {
+        "static": 10,
+        "mcp_video": 17
+      }
+    },
+    {
+      "app_slug": "lyfta",
+      "app": "Lyfta",
+      "states": 82,
+      "questions": 19,
+      "source_types": {
+        "static": 32,
+        "mcp_video": 50
+      }
+    },
+    {
+      "app_slug": "strong",
+      "app": "Strong Workout Tracker Gym Log",
+      "states": 12,
+      "questions": 5,
+      "source_types": {
+        "static": 5,
+        "mcp_video": 7
+      }
+    },
+    {
+      "app_slug": "jefit",
+      "app": "JEFIT",
+      "states": 96,
+      "questions": 27,
+      "source_types": {
+        "static": 39,
+        "mcp_video": 57
+      }
+    },
+    {
+      "app_slug": "muscle-monster",
+      "app": "Muscle Monster",
+      "states": 90,
+      "questions": 23,
+      "source_types": {
+        "static": 44,
+        "mcp_video": 46
+      }
+    },
+    {
+      "app_slug": "shred",
+      "app": "SHRED",
+      "states": 88,
+      "questions": 25,
+      "source_types": {
+        "static": 37,
+        "mcp_video": 51
+      }
+    },
+    {
+      "app_slug": "symmetry",
+      "app": "Symmetry",
+      "states": 101,
+      "questions": 25,
+      "source_types": {
+        "static": 46,
+        "mcp_video": 55
+      }
+    },
+    {
+      "app_slug": "gravl",
+      "app": "Gravl",
+      "states": 88,
+      "questions": 21,
+      "source_types": {
+        "static": 35,
+        "mcp_video": 53
+      }
+    },
+    {
+      "app_slug": "peloton",
+      "app": "Peloton",
+      "states": 22,
+      "questions": 6,
+      "source_types": {
+        "static": 8,
+        "mcp_video": 14
+      }
+    },
+    {
+      "app_slug": "mci",
+      "app": "MCI – Personal Training AI",
+      "states": 128,
+      "questions": 55,
+      "source_types": {
+        "static": 30,
+        "mcp_video": 35,
+        "user_video": 63
+      }
+    },
+    {
+      "app_slug": "trx",
+      "app": "TRX",
+      "states": 26,
+      "questions": 20,
+      "source_types": {
+        "user_video": 26
+      }
+    },
+    {
+      "app_slug": "befit",
+      "app": "BeFit",
+      "states": 61,
+      "questions": 22,
+      "source_types": {
+        "user_video": 61
+      }
+    },
+    {
+      "app_slug": "buddyfit",
+      "app": "Buddyfit",
+      "states": 29,
+      "questions": 16,
+      "source_types": {
+        "user_video": 29
+      }
+    },
+    {
+      "app_slug": "gymdone",
+      "app": "Gymdone",
+      "states": 42,
+      "questions": 18,
+      "source_types": {
+        "user_video": 42
+      }
+    },
+    {
+      "app_slug": "technogym",
+      "app": "Technogym",
+      "states": 37,
+      "questions": 25,
+      "source_types": {
+        "user_video": 37
+      }
+    },
+    {
+      "app_slug": "smartworkout",
+      "app": "SmartWorkout",
+      "states": 37,
+      "questions": 18,
+      "source_types": {
+        "user_video": 37
+      }
+    },
+    {
+      "app_slug": "ifit",
+      "app": "iFIT",
+      "states": 11,
+      "questions": 14,
+      "source_types": {
+        "user_video": 11
+      }
+    }
+  ],
+  "total_states": 1590,
+  "static_states": 529,
+  "mcp_video_states": 694,
+  "user_video_states": 367,
+  "questions": 554,
+  "icons": 261,
+  "mcp_videos": 35,
+  "missing_frame_paths": [],
+  "questions_with_empty_source_ids": [],
+  "unresolved_question_step_ids": [],
+  "formerly_v1_plate_covered_corpus_states": [
+    "U01-0205",
+    "U05-0222",
+    "U07-0321",
+    "U07-0324",
+    "U10-0180",
+    "U10-0191",
+    "U10-0194",
+    "U10-0196",
+    "U10-0205",
+    "U02-0003",
+    "U02-0006",
+    "U02-0009",
+    "U02-0024",
+    "U02-0037",
+    "U02-0041",
+    "U02-0043",
+    "U02-0062",
+    "U02-0069",
+    "U02-0070",
+    "U02-0085",
+    "U11-0201",
+    "U11-0203",
+    "U11-0218",
+    "U11-0219",
+    "U11-0221",
+    "U11-0222",
+    "U11-0223",
+    "U11-0438",
+    "U03-0092",
+    "U03-0104",
+    "U03-0106",
+    "U03-0123",
+    "U03-0127",
+    "U03-0129",
+    "U03-0131",
+    "U03-0171",
+    "U03-0183",
+    "U03-0186",
+    "U03-0188",
+    "U03-0196",
+    "U03-0244",
+    "U03-0249",
+    "U03-0831",
+    "U06-0114",
+    "U06-0125",
+    "U06-0131",
+    "U06-0138",
+    "U06-0145",
+    "U12-0002",
+    "U12-0004",
+    "U12-0009",
+    "U12-0012",
+    "U12-0018",
+    "U12-0020",
+    "U12-0033",
+    "U12-0039",
+    "U12-0041",
+    "U12-0045",
+    "U12-0050",
+    "U12-0052",
+    "U12-0064",
+    "U12-0066",
+    "U12-0073",
+    "U12-0075",
+    "U12-0077",
+    "U12-0088",
+    "U12-0636",
+    "U04-step-024",
+    "U04-step-025",
+    "U04-step-026",
+    "U04-step-027",
+    "U04-step-030",
+    "U04-step-031",
+    "U04-step-032",
+    "U04-step-033",
+    "U04-step-034",
+    "U09-step-002",
+    "U09-step-003",
+    "U09-step-004",
+    "U09-step-005",
+    "U09-step-007",
+    "U09-step-008",
+    "U09-step-009",
+    "U09-step-010"
+  ],
+  "external_screenshot_claims": {
+    "claimed_missing_onboarding_rows": 124,
+    "claimed_plate_covered_rows": 93,
+    "claimed_missing_mcp_rows": 26,
+    "claimed_blank_frame_rows": 5,
+    "external_row_ids_not_provided": true,
+    "note": "These counts describe the other agent's table. They are not directly interchangeable with this corpus's states or question counts. Reconcile by app, step ID, video ID and timestamp."
+  },
+  "excluded_unavailable": [
+    "Gravl Monthly report: no captured source; excluded by user instruction",
+    "A/B paywall proposal mockups: no such design files in the supplied research; not competitor evidence",
+    "Gymmate: no matched source in the existing corpus; do not invent screens"
+  ],
+  "E040": {
+    "path": "v2-contrast-method.py",
+    "sample_count": 12,
+    "exact_match_to_E041": true
+  }
+}

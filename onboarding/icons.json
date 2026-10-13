@@ -1,0 +1,5719 @@
+[
+  {
+    "screen_id": "spl_9dwou",
+    "label": "Fitbod wordmark и слоган",
+    "bbox": [
+      165,
+      1068,
+      930,
+      1272
+    ],
+    "note": "Растровый кроп логотипа, не исходный вектор.",
+    "source_local_file": "apps/fitbod/screens/welcome-screen-002-spl_9dwou.webp",
+    "size": [
+      765,
+      204
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "fitbod",
+    "path": "onboarding/icons/fitbod/001-Fitbod-wordmark.png",
+    "bytes": 66028,
+    "sha256": "b745016897c856ceb0d57046f6abfe11954e85db697f0fc5850cd6363f39f944"
+  },
+  {
+    "screen_id": "onb_klap0",
+    "label": "Три упражнения и мини-карты мышц",
+    "bbox": [
+      111,
+      1380,
+      977,
+      1732
+    ],
+    "note": "Группа фото с мышечными пиктограммами; изображения принадлежат источнику.",
+    "source_local_file": "apps/fitbod/screens/onboarding-011-onb_klap0.webp",
+    "size": [
+      866,
+      352
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "fitbod",
+    "path": "onboarding/icons/fitbod/002-icon.png",
+    "bytes": 252789,
+    "sha256": "cc1f07f9c8da08e79ce6e20a0452589359974c2cfb548211381329368c93304b"
+  },
+  {
+    "screen_id": "pay_oa5kx",
+    "label": "Розовый шестиугольный check",
+    "bbox": [
+      115,
+      840,
+      195,
+      925
+    ],
+    "note": "Пример повторяющегося маркера преимуществ.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "apps/fitbod/screens/paywall-001-pay_oa5kx.webp",
+    "size": [
+      80,
+      85
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "fitbod",
+    "path": "onboarding/icons/fitbod/003-check.png",
+    "bytes": 3136,
+    "sha256": "4b8438264d1fee4946e519ee9d7739b05581baf468d4550266a1f3e592061195"
+  },
+  {
+    "source_id": "U01-0091",
+    "label": "Анатомическая иконка плеч",
+    "bbox": [
+      270,
+      276,
+      460,
+      476
+    ],
+    "note": "Иконка пустого состояния.",
+    "source_local_file": "user-videos/U01/candidates/0091-00139.00s.jpg",
+    "size": [
+      190,
+      200
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "fitbod",
+    "path": "onboarding/icons/fitbod/004-icon.png",
+    "bytes": 25031,
+    "sha256": "22efc5bb202cc3644c2ccef964c5f2f024b37db64a830edfbb6345a7dd033353"
+  },
+  {
+    "source_id": "U01-0425",
+    "label": "Фото планки с картой мышц",
+    "bbox": [
+      60,
+      537,
+      180,
+      699
+    ],
+    "note": "Композит миниатюры упражнения.",
+    "source_local_file": "user-videos/U01/candidates/0425-00465.00s.jpg",
+    "size": [
+      120,
+      162
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "fitbod",
+    "path": "onboarding/icons/fitbod/005-icon.png",
+    "bytes": 25584,
+    "sha256": "54d434a3deb989b9766cdf14f82801bb577825e62359caca05b29a09a0f3efc5"
+  },
+  {
+    "screen_id": "spl_weits",
+    "label": "Монограмма и wordmark Gymverse",
+    "bbox": [
+      285,
+      833,
+      825,
+      1215
+    ],
+    "note": "Знак на заставке.",
+    "source_local_file": "apps/gymverse/screens/welcome-screen-002-spl_weits.webp",
+    "size": [
+      540,
+      382
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gymverse",
+    "path": "onboarding/icons/gymverse/001-wordmark-Gymverse.png",
+    "bytes": 79636,
+    "sha256": "f811049bc20d5a9787049c1ea4e9136cc044bcc737fc910751d250dfd465b5e3"
+  },
+  {
+    "screen_id": "onb_kd0b0",
+    "label": "Фото Adjustable Bench",
+    "bbox": [
+      84,
+      870,
+      278,
+      1075
+    ],
+    "note": "Один образец предметной пиктограммы инвентаря.",
+    "source_local_file": "apps/gymverse/screens/onboarding-012-onb_kd0b0.webp",
+    "size": [
+      194,
+      205
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gymverse",
+    "path": "onboarding/icons/gymverse/002-Adjustable-Bench.png",
+    "bytes": 27254,
+    "sha256": "ddc766d901f49129fd88b1af535b254df3e6becb838ee575b77b087429130246"
+  },
+  {
+    "screen_id": "onb_wls4j",
+    "label": "Связь Gymverse и Apple Health",
+    "bbox": [
+      159,
+      727,
+      909,
+      1018
+    ],
+    "note": "Композит двух app icons со стрелками.",
+    "source_local_file": "apps/gymverse/screens/onboarding-016-onb_wls4j.webp",
+    "size": [
+      750,
+      291
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gymverse",
+    "path": "onboarding/icons/gymverse/003-Gymverse-Apple-Health.png",
+    "bytes": 54225,
+    "sha256": "b855461b33a792a57c55016c73cedf7a7df6c074323f43ea40289ba8235224b4"
+  },
+  {
+    "screen_id": "pay_v90of",
+    "label": "Карточка Gymverse Pro",
+    "bbox": [
+      138,
+      343,
+      1030,
+      895
+    ],
+    "note": "Промо-иллюстрация membership card, координаты исходника 1170×2532.",
+    "source_local_file": "apps/gymverse/screens/paywall-001-pay_v90of.webp",
+    "size": [
+      892,
+      552
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gymverse",
+    "path": "onboarding/icons/gymverse/004-Gymverse-Pro.png",
+    "bytes": 221528,
+    "sha256": "f8381cdc7cf25a5fd3aee97ef8ad839f88a2286247f3aa8ad72fda3fd84a11c5"
+  },
+  {
+    "screen_id": "spl_kelw7",
+    "label": "Знак Muscle Booster",
+    "bbox": [
+      448,
+      996,
+      639,
+      1172
+    ],
+    "note": "Фирменная монограмма.",
+    "source_local_file": "apps/muscle-booster/screens/welcome-screen-002-spl_kelw7.webp",
+    "size": [
+      191,
+      176
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "muscle-booster",
+    "path": "onboarding/icons/muscle-booster/001-Muscle-Booster.png",
+    "bytes": 16445,
+    "sha256": "a81d6fdaee46cb0f00416477278057ff4d651501786e4f572af099a35f4ddc2e"
+  },
+  {
+    "screen_id": "onb_qioso",
+    "label": "Карта тела с целевыми зонами",
+    "bbox": [
+      39,
+      548,
+      1040,
+      1510
+    ],
+    "note": "Иллюстрация с выносками, пригодная для изучения анатомической навигации.",
+    "source_local_file": "apps/muscle-booster/screens/onboarding-008-onb_qioso.webp",
+    "size": [
+      1001,
+      962
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "muscle-booster",
+    "path": "onboarding/icons/muscle-booster/002-icon.png",
+    "bytes": 345952,
+    "sha256": "8d0289ed26f1fa184f3dfa7c1cf74bc8e2ec02ead1cdf3a891191ab3cf20692e"
+  },
+  {
+    "screen_id": "onb_f1w2l",
+    "label": "Пиктограмма сердца и пульса",
+    "bbox": [
+      952,
+      579,
+      1020,
+      648
+    ],
+    "note": "Образец белой смысловой иконки в карточке мотивации.",
+    "source_local_file": "apps/muscle-booster/screens/onboarding-010-onb_f1w2l.webp",
+    "size": [
+      68,
+      69
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "muscle-booster",
+    "path": "onboarding/icons/muscle-booster/003-icon.png",
+    "bytes": 2636,
+    "sha256": "62278a214c170b0c671c0711f7bd2ab74fb7df2b8e206b411ae820883042e839"
+  },
+  {
+    "screen_id": "onb_yosam",
+    "label": "Линейные пиктограммы duration/goal/level",
+    "bbox": [
+      62,
+      723,
+      139,
+      1140
+    ],
+    "note": "Три функциональных маркера в одной вертикальной полосе.",
+    "source_local_file": "apps/muscle-booster/screens/onboarding-036-onb_yosam.webp",
+    "size": [
+      77,
+      417
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "muscle-booster",
+    "path": "onboarding/icons/muscle-booster/004-duration-goal-level.png",
+    "bytes": 24509,
+    "sha256": "7d40d1b9d240be11406c09d489b4e9aa12574735f0c95829f66295f97f013575"
+  },
+  {
+    "screen_id": "onb_24bax",
+    "label": "Сравнение фигуры Now/Goal",
+    "bbox": [
+      48,
+      477,
+      1040,
+      1735
+    ],
+    "note": "Рекламный пример трансформации; не реальное измерение пользователя.",
+    "source_local_file": "apps/muscle-booster/screens/onboarding-037-onb_24bax.webp",
+    "size": [
+      992,
+      1258
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "muscle-booster",
+    "path": "onboarding/icons/muscle-booster/005-Now-Goal.png",
+    "bytes": 536235,
+    "sha256": "0c1531d2744602c549e484320a06dad9e7db357d923d29d94264b2832f03690e"
+  },
+  {
+    "source_id": "U05-0070",
+    "label": "Карта тела с целевыми зонами",
+    "bbox": [
+      35,
+      485,
+      690,
+      1305
+    ],
+    "note": "24-шаговая ветка,подпись CHEST.",
+    "qa_note": "Final visual crop correction.",
+    "source_local_file": "user-videos/U05/candidates/0070-00292.50s.jpg",
+    "size": [
+      655,
+      820
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "muscle-booster",
+    "path": "onboarding/icons/muscle-booster/006-icon.png",
+    "bytes": 222890,
+    "sha256": "c84f0fba16193d4729bcf89cc7f1f5ad8038642ef322c5330fe1d6a4f9cf4ee0"
+  },
+  {
+    "source_id": "U05-0154",
+    "label": "Документы и замок условий",
+    "bbox": [
+      208,
+      479,
+      516,
+      744
+    ],
+    "note": "Иллюстрация юридического согласия.",
+    "source_local_file": "user-videos/U05/candidates/0154-00511.50s.jpg",
+    "size": [
+      308,
+      265
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "muscle-booster",
+    "path": "onboarding/icons/muscle-booster/007-icon.png",
+    "bytes": 38558,
+    "sha256": "0632a264439b16c24ff869ea771b6099ed98a406e42730bd1de00cead57c3050"
+  },
+  {
+    "source_id": "U05-0209",
+    "label": "Анатомическая промографика пейволла",
+    "bbox": [
+      0,
+      140,
+      720,
+      450
+    ],
+    "note": "Декоративное объяснение упражнений;не доказательство результата.",
+    "source_local_file": "user-videos/U05/candidates/0209-00569.50s.jpg",
+    "size": [
+      720,
+      310
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "muscle-booster",
+    "path": "onboarding/icons/muscle-booster/008-icon.png",
+    "bytes": 183656,
+    "sha256": "afab7efff05dc59083f2efd01cf19d8a723d20dc5a5abe0541602ce440218c56"
+  },
+  {
+    "screen_id": "spl_lpfoy",
+    "label": "Wordmark Fitify",
+    "bbox": [
+      337,
+      1080,
+      768,
+      1240
+    ],
+    "note": "Чёрный текстовый логотип.",
+    "source_local_file": "apps/fitify/screens/welcome-screen-002-spl_lpfoy.webp",
+    "size": [
+      431,
+      160
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "fitify",
+    "path": "onboarding/icons/fitify/001-Wordmark-Fitify.png",
+    "bytes": 16807,
+    "sha256": "606c096f1984b6468dc9e3835397e04592313180c8614250cb22ad3c0000b205"
+  },
+  {
+    "screen_id": "onb_tjecz",
+    "label": "AI-орбита с тематическими иконками",
+    "bbox": [
+      48,
+      624,
+      1023,
+      1544
+    ],
+    "note": "Композит иллюстрации адаптации.",
+    "source_local_file": "apps/fitify/screens/onboarding-020-onb_tjecz.webp",
+    "size": [
+      975,
+      920
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "fitify",
+    "path": "onboarding/icons/fitify/002-AI.png",
+    "bytes": 519682,
+    "sha256": "2475b3dcfa3b01ba1b06b408d9f009fa545b630ab1ad4f0e99736abf60cbdbf9"
+  },
+  {
+    "screen_id": "onb_b5kaz",
+    "label": "Сканирование блюда с нутриентами",
+    "bbox": [
+      69,
+      625,
+      1002,
+      1774
+    ],
+    "note": "Промо-иллюстрация функции питания, подписи нутриентов неоднозначны.",
+    "source_local_file": "apps/fitify/screens/onboarding-028-onb_b5kaz.webp",
+    "size": [
+      933,
+      1149
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "fitify",
+    "path": "onboarding/icons/fitify/003-icon.png",
+    "bytes": 542245,
+    "sha256": "63be81e1ec9b6b428d4dc253154391a9931051cc828b74b2c5e3ceb27a07a2a8"
+  },
+  {
+    "screen_id": "onb_hn7ot",
+    "label": "Группа людей в кольцах с иконками",
+    "bbox": [
+      79,
+      624,
+      1025,
+      1643
+    ],
+    "note": "Иллюстрация wellness-выгод.",
+    "source_local_file": "apps/fitify/screens/onboarding-038-onb_hn7ot.webp",
+    "size": [
+      946,
+      1019
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "fitify",
+    "path": "onboarding/icons/fitify/004-icon.png",
+    "bytes": 696498,
+    "sha256": "e2a0b7e72820acf2842b1e4d44b2e8fcf602693a148d95d0bd9214952fddf997"
+  },
+  {
+    "screen_id": "pay_wblga",
+    "label": "Badge Editor's Choice",
+    "bbox": [
+      49,
+      1030,
+      576,
+      1220
+    ],
+    "note": "Маркер доверия; не подтверждение официального статуса за пределами кадра.",
+    "source_local_file": "apps/fitify/screens/paywall-001-pay_wblga.webp",
+    "size": [
+      527,
+      190
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "fitify",
+    "path": "onboarding/icons/fitify/005-Badge-Editor-s-Choice.png",
+    "bytes": 27569,
+    "sha256": "478ee2561744cf8e5c9c36e6ab358533f2e033af8be964ae42e0b49e3d194539"
+  },
+  {
+    "screen_id": "pay_wblga",
+    "label": "Синий shield-check",
+    "bbox": [
+      258,
+      2315,
+      326,
+      2385
+    ],
+    "note": "Пиктограмма под платёжной кнопкой; исходник 1170×2532.",
+    "source_local_file": "apps/fitify/screens/paywall-001-pay_wblga.webp",
+    "size": [
+      68,
+      70
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "fitify",
+    "path": "onboarding/icons/fitify/006-shield-check.png",
+    "bytes": 1917,
+    "sha256": "0d45147c4dda283d6b53b3c4f76cbd3d6e5b1bc3030074b0cbf331fdc2620a3e"
+  },
+  {
+    "screen_id": "spl_ha6g8",
+    "label": "fiton-wordmark",
+    "bbox": [
+      281,
+      397,
+      821,
+      526
+    ],
+    "note": "Фирменный логотип; фон содержит кадр видео. Bbox в пикселях исходного файла.",
+    "source_local_file": "apps/fiton/screens/welcome-screen-003-spl_ha6g8.webp",
+    "size": [
+      540,
+      129
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "fiton",
+    "path": "onboarding/icons/fiton/001-fiton-wordmark.png",
+    "bytes": 47481,
+    "sha256": "d07175e199980ca1b8ca0d0312c52a6c7a10ca9d7c5afa1ac33c26efd63e9dea"
+  },
+  {
+    "screen_id": "onb_692ey",
+    "label": "trainer-collage",
+    "bbox": [
+      0,
+      724,
+      1080,
+      1601
+    ],
+    "note": "Коллаж тренеров; полезен как референс композиции, а не отдельный вектор. Bbox в пикселях исходного файла.",
+    "source_local_file": "apps/fiton/screens/onboarding-003-onb_692ey.webp",
+    "size": [
+      1080,
+      877
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "fiton",
+    "path": "onboarding/icons/fiton/002-trainer-collage.png",
+    "bytes": 1105695,
+    "sha256": "a6a4b9e643de9a4869a1fb31b8d188e03780e69a39bebfec46a19720205a15c9"
+  },
+  {
+    "screen_id": "onb_qxoai",
+    "label": "energy-boost-cover",
+    "bbox": [
+      189,
+      701,
+      896,
+      1426
+    ],
+    "note": "Обложка рекомендованной программы. Bbox в пикселях исходного файла.",
+    "source_local_file": "apps/fiton/screens/onboarding-017-onb_qxoai.webp",
+    "size": [
+      707,
+      725
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "fiton",
+    "path": "onboarding/icons/fiton/003-energy-boost-cover.png",
+    "bytes": 193470,
+    "sha256": "714266e6ce65771755dc6f7b142c76231caa40549fe1802d05633151c8fe44fd"
+  },
+  {
+    "screen_id": "pay_ddy74",
+    "label": "beginner-fitness-cover",
+    "bbox": [
+      269,
+      506,
+      913,
+      1152
+    ],
+    "note": "Обложка платной программы. Bbox в пикселях исходного файла.",
+    "source_local_file": "apps/fiton/screens/paywall-002-pay_ddy74.webp",
+    "size": [
+      644,
+      646
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "fiton",
+    "path": "onboarding/icons/fiton/004-beginner-fitness-cover.png",
+    "bytes": 82401,
+    "sha256": "3ebf583d02ee2beec4dd64b201e1273acfaa6f3b0f88c1d094d29a9ecf97f93d"
+  },
+  {
+    "screen_id": "pay_rzvsf",
+    "label": "device-logo-grid",
+    "bbox": [
+      70,
+      1696,
+      1112,
+      1912
+    ],
+    "note": "Сетка логотипов совместимости. Кроп включает несколько товарных знаков. Bbox в пикселях исходного файла.",
+    "source_local_file": "apps/fiton/screens/paywall-003-pay_rzvsf.webp",
+    "size": [
+      1042,
+      216
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "fiton",
+    "path": "onboarding/icons/fiton/005-device-logo-grid.png",
+    "bytes": 39172,
+    "sha256": "9f0c57801e2d8af9db7414f032a579e8acf0958a09f1d3cdda99813130e8c460"
+  },
+  {
+    "screen_id": "spl_z1hrm",
+    "label": "neon-dumbbell",
+    "bbox": [
+      162,
+      467,
+      907,
+      1262
+    ],
+    "note": "Неоновый символ гантели. Координаты исходного изображения.",
+    "source_local_file": "apps/smartgym/screens/welcome-screen-002-spl_z1hrm.webp",
+    "size": [
+      745,
+      795
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "smartgym",
+    "path": "onboarding/icons/smartgym/001-neon-dumbbell.png",
+    "bytes": 179633,
+    "sha256": "4c0b6d180366fabe5b516212088ad7aad2bfc94a7d8dfd9404bd1fef643dc0f7"
+  },
+  {
+    "screen_id": "onb_h697b",
+    "label": "trainer-icon",
+    "bbox": [
+      454,
+      432,
+      637,
+      654
+    ],
+    "note": "Голубой человек со штангой. Координаты исходного изображения.",
+    "source_local_file": "apps/smartgym/screens/onboarding-002-onb_h697b.webp",
+    "size": [
+      183,
+      222
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "smartgym",
+    "path": "onboarding/icons/smartgym/002-trainer-icon.png",
+    "bytes": 26595,
+    "sha256": "3e0059e08943350e6f4b1f39d1fa20940cb2f73bc0c01aae81ef468720bb7776"
+  },
+  {
+    "screen_id": "onb_h697b",
+    "label": "ai-plan-icon",
+    "bbox": [
+      97,
+      1121,
+      259,
+      1296
+    ],
+    "note": "Синяя иконка Smart Trainer. Координаты исходного изображения.",
+    "source_local_file": "apps/smartgym/screens/onboarding-002-onb_h697b.webp",
+    "size": [
+      162,
+      175
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "smartgym",
+    "path": "onboarding/icons/smartgym/003-ai-plan-icon.png",
+    "bytes": 16652,
+    "sha256": "b1baaed361880d43cdd829c8e239bb29455bb1fa9e2cffd2e7bb82d46b340ffc"
+  },
+  {
+    "screen_id": "onb_h697b",
+    "label": "manual-plan-icon",
+    "bbox": [
+      102,
+      1540,
+      245,
+      1685
+    ],
+    "note": "Бирюзовая иконка ручного плана. Координаты исходного изображения.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "apps/smartgym/screens/onboarding-002-onb_h697b.webp",
+    "size": [
+      143,
+      145
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "smartgym",
+    "path": "onboarding/icons/smartgym/004-manual-plan-icon.png",
+    "bytes": 17303,
+    "sha256": "d873df562f2d0848c6ef619c5ca9421bbbfc70e6ea15cd13ce88aaaf31329ae4"
+  },
+  {
+    "screen_id": "onb_6ncqc",
+    "label": "equipment-barbell",
+    "bbox": [
+      75,
+      1390,
+      292,
+      1515
+    ],
+    "note": "Иллюстрация штанги на выбранной строке. Координаты исходного изображения.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "apps/smartgym/screens/onboarding-004-onb_6ncqc.webp",
+    "size": [
+      217,
+      125
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "smartgym",
+    "path": "onboarding/icons/smartgym/005-equipment-barbell.png",
+    "bytes": 18911,
+    "sha256": "0c2e3a0fae2ffae6466f649b860490b5572fd1d8c6fbbb068024afc143178110"
+  },
+  {
+    "screen_id": "onb_6ncqc",
+    "label": "equipment-dumbbells",
+    "bbox": [
+      67,
+      1680,
+      298,
+      1865
+    ],
+    "note": "Иллюстрация гантелей. Координаты исходного изображения.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "apps/smartgym/screens/onboarding-004-onb_6ncqc.webp",
+    "size": [
+      231,
+      185
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "smartgym",
+    "path": "onboarding/icons/smartgym/006-equipment-dumbbells.png",
+    "bytes": 43994,
+    "sha256": "53f49b76d9465bc90e431178d5e75ead5df3ed5bdec6eff1285785ef4f8c6a87"
+  },
+  {
+    "screen_id": "onb_819j9",
+    "label": "health-symbols",
+    "bbox": [
+      227,
+      502,
+      853,
+      1110
+    ],
+    "note": "Набор четырёх смысловых иконок Health. Координаты исходного изображения.",
+    "source_local_file": "apps/smartgym/screens/onboarding-011-onb_819j9.webp",
+    "size": [
+      626,
+      608
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "smartgym",
+    "path": "onboarding/icons/smartgym/007-health-symbols.png",
+    "bytes": 117895,
+    "sha256": "f014e9d37ce0bdefa23753664319bde22053d68b97084e90cf252c8485d8ebde"
+  },
+  {
+    "screen_id": "onb_4erwx",
+    "label": "notifications-symbol",
+    "bbox": [
+      248,
+      467,
+      896,
+      1121
+    ],
+    "note": "Абстрактный символ уведомления. Координаты исходного изображения.",
+    "source_local_file": "apps/smartgym/screens/onboarding-012-onb_4erwx.webp",
+    "size": [
+      648,
+      654
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "smartgym",
+    "path": "onboarding/icons/smartgym/008-notifications-symbol.png",
+    "bytes": 43230,
+    "sha256": "ccfa38b188209391cf4fb23736a5abac9e91eb4bc0c43db233df033e20c6e5bb"
+  },
+  {
+    "screen_id": "pay_nf07y",
+    "label": "award-badges",
+    "bbox": [
+      41,
+      1937,
+      1123,
+      2279
+    ],
+    "note": "Два бейджа наград; надписи сохранены для контекста. Координаты исходного изображения.",
+    "source_local_file": "apps/smartgym/screens/paywall-002-pay_nf07y.webp",
+    "size": [
+      1082,
+      342
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "smartgym",
+    "path": "onboarding/icons/smartgym/009-award-badges.png",
+    "bytes": 179713,
+    "sha256": "77dea46cd30f7b85b20b5dd697190b4005b22e7da7379ef0b98e59c3e828ed80"
+  },
+  {
+    "screen_id": "spl_qafbw",
+    "label": "food-camera-preview",
+    "bbox": [
+      184,
+      479,
+      886,
+      1893
+    ],
+    "note": "Макет съёмки еды. Bbox в исходных пикселях; приблизительные визуальные границы.",
+    "source_local_file": "apps/macrofactor/screens/welcome-screen-002-spl_qafbw.webp",
+    "size": [
+      702,
+      1414
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "macrofactor",
+    "path": "onboarding/icons/macrofactor/001-food-camera-preview.png",
+    "bytes": 666258,
+    "sha256": "26838244359b48f9179e7e18969139103beed1040c945355aa50c72aa14cf57d"
+  },
+  {
+    "screen_id": "onb_k922v",
+    "label": "body-fat-grid",
+    "bbox": [
+      11,
+      596,
+      1064,
+      1870
+    ],
+    "note": "Полная сетка из девяти торсов и процентных диапазонов. Bbox в исходных пикселях; приблизительные визуальные границы.",
+    "source_local_file": "apps/macrofactor/screens/onboarding-011-onb_k922v.webp",
+    "size": [
+      1053,
+      1274
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "macrofactor",
+    "path": "onboarding/icons/macrofactor/002-body-fat-grid.png",
+    "bytes": 347098,
+    "sha256": "aa4f68c0735f668c83642cb09993bcaf6bfc36e9d11740287f84b8a8c6e06511"
+  },
+  {
+    "screen_id": "onb_h9m4g",
+    "label": "sedentary-icon",
+    "bbox": [
+      81,
+      689,
+      184,
+      795
+    ],
+    "note": "Иконка дивана. Bbox в исходных пикселях; приблизительные визуальные границы.",
+    "source_local_file": "apps/macrofactor/screens/onboarding-013-onb_h9m4g.webp",
+    "size": [
+      103,
+      106
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "macrofactor",
+    "path": "onboarding/icons/macrofactor/003-sedentary-icon.png",
+    "bytes": 3829,
+    "sha256": "713d70dff35b98414078469788228c2502f230751bd2e8b07a61f1f2811da2a7"
+  },
+  {
+    "screen_id": "onb_h9m4g",
+    "label": "steps-icon",
+    "bbox": [
+      81,
+      993,
+      184,
+      1098
+    ],
+    "note": "Иконка следов. Bbox в исходных пикселях; приблизительные визуальные границы.",
+    "source_local_file": "apps/macrofactor/screens/onboarding-013-onb_h9m4g.webp",
+    "size": [
+      103,
+      105
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "macrofactor",
+    "path": "onboarding/icons/macrofactor/004-steps-icon.png",
+    "bytes": 6292,
+    "sha256": "ef96522bd890edfc603ee11ba355fd59735ddd41671b98675ab3ad2ccff42646"
+  },
+  {
+    "screen_id": "onb_h9m4g",
+    "label": "active-icon",
+    "bbox": [
+      81,
+      1285,
+      184,
+      1426
+    ],
+    "note": "Иконка активного движения. Bbox в исходных пикселях; приблизительные визуальные границы.",
+    "source_local_file": "apps/macrofactor/screens/onboarding-013-onb_h9m4g.webp",
+    "size": [
+      103,
+      141
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "macrofactor",
+    "path": "onboarding/icons/macrofactor/005-active-icon.png",
+    "bytes": 5126,
+    "sha256": "58fd518045d997d3f02744d2581d0ab78d9a1dafb7c8f5d30a41c8bc25c8e888"
+  },
+  {
+    "screen_id": "onb_1qmef",
+    "label": "macro-orbits",
+    "bbox": [
+      113,
+      432,
+      1015,
+      1367
+    ],
+    "note": "Орбитальная иллюстрация расчёта. Bbox в исходных пикселях; приблизительные визуальные границы.",
+    "source_local_file": "apps/macrofactor/screens/onboarding-030-onb_1qmef.webp",
+    "size": [
+      902,
+      935
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "macrofactor",
+    "path": "onboarding/icons/macrofactor/006-macro-orbits.png",
+    "bytes": 195836,
+    "sha256": "1e6f9de0ca9e6660b067fa1fc8b7924cea457cd3addf5b9a36be453c2592c9ec"
+  },
+  {
+    "screen_id": "onb_ofpsm",
+    "label": "macro-week-chart",
+    "bbox": [
+      27,
+      449,
+      1056,
+      1309
+    ],
+    "note": "Цветовая кодировка недели макропитания. Bbox в исходных пикселях; приблизительные визуальные границы.",
+    "source_local_file": "apps/macrofactor/screens/onboarding-031-onb_ofpsm.webp",
+    "size": [
+      1029,
+      860
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "macrofactor",
+    "path": "onboarding/icons/macrofactor/007-macro-week-chart.png",
+    "bytes": 265474,
+    "sha256": "241a896a8da67b55e4d9c0de4e29a7ecb4e6a48cafcdbd45e9d345cc942c8ec1"
+  },
+  {
+    "screen_id": "pay_lxt3u",
+    "label": "annual-medal",
+    "bbox": [
+      913,
+      924,
+      1065,
+      1114
+    ],
+    "note": "Синяя медаль годового тарифа. Bbox в исходных пикселях; приблизительные визуальные границы.",
+    "source_local_file": "apps/macrofactor/screens/paywall-001-pay_lxt3u.webp",
+    "size": [
+      152,
+      190
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "macrofactor",
+    "path": "onboarding/icons/macrofactor/008-annual-medal.png",
+    "bytes": 2789,
+    "sha256": "8f63a413938f308ea1cb2e72fc07671077abfa8d71a3c68122b6f093834bbc98"
+  },
+  {
+    "screen_id": "onb_50ds1",
+    "label": "calorie-warning",
+    "bbox": [
+      84,
+      1010,
+      184,
+      1122
+    ],
+    "note": "Иконка предупреждения низкого порога; сохранять контекст значения. Bbox в исходных пикселях; приблизительные визуальные границы.",
+    "source_local_file": "apps/macrofactor/screens/onboarding-026-onb_50ds1.webp",
+    "size": [
+      100,
+      112
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "macrofactor",
+    "path": "onboarding/icons/macrofactor/009-calorie-warning.png",
+    "bytes": 3697,
+    "sha256": "e35c10f218afec947f55ddb2059dd7a5c474c4a0b83e51b85014afa1871e9b53"
+  },
+  {
+    "label": "tutorial-key",
+    "bbox": [
+      50,
+      660,
+      100,
+      700
+    ],
+    "note": "Ключ карточки Expenditure. Координаты720px кадра.",
+    "source_local_file": "user-videos/U07/candidates/0023-00013.00s.jpg",
+    "size": [
+      50,
+      40
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "macrofactor",
+    "path": "onboarding/icons/macrofactor/010-tutorial-key.png",
+    "bytes": 2656,
+    "sha256": "5b3ad198bfd514c77bac1dd86517373ba0fa996a1d03b304a0382c741e1c32a7"
+  },
+  {
+    "label": "tutorial-bulb",
+    "bbox": [
+      53,
+      763,
+      92,
+      809
+    ],
+    "note": "Лампочка Weight Trend. Координаты720px кадра.",
+    "source_local_file": "user-videos/U07/candidates/0038-00022.00s.jpg",
+    "size": [
+      39,
+      46
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "macrofactor",
+    "path": "onboarding/icons/macrofactor/011-tutorial-bulb.png",
+    "bytes": 2319,
+    "sha256": "8c10a7b70944584ad8668d12465cf399ade18a13213bcfd15baed345414171cf"
+  },
+  {
+    "label": "tutorial-adjustments",
+    "bbox": [
+      54,
+      834,
+      100,
+      877
+    ],
+    "note": "Символ корректировок цели. Координаты720px кадра.",
+    "source_local_file": "user-videos/U07/candidates/0068-00044.00s.jpg",
+    "size": [
+      46,
+      43
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "macrofactor",
+    "path": "onboarding/icons/macrofactor/012-tutorial-adjustments.png",
+    "bytes": 2735,
+    "sha256": "6e8c76795e787de57aec1fad461b5ee2d3285cfedd25928e789954629db1a550"
+  },
+  {
+    "label": "steps-icon",
+    "bbox": [
+      52,
+      1275,
+      98,
+      1330
+    ],
+    "note": "Footprints у Daily Step Count. Координаты720px кадра.",
+    "source_local_file": "user-videos/U07/candidates/0156-00121.00s.jpg",
+    "size": [
+      46,
+      55
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "macrofactor",
+    "path": "onboarding/icons/macrofactor/013-steps-icon.png",
+    "bytes": 3916,
+    "sha256": "d14c1869b80556b3e141493487b1374362cb68f6f140b525c61fdf4b3b8dfb9d"
+  },
+  {
+    "screen_id": "spl_xqijz",
+    "label": "strava-wordmark",
+    "bbox": [
+      270,
+      175,
+      810,
+      351
+    ],
+    "note": "Белый wordmark на фото. Bbox в пикселях исходного файла.",
+    "source_local_file": "apps/strava/screens/welcome-screen-002-spl_xqijz.webp",
+    "size": [
+      540,
+      176
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "strava",
+    "path": "onboarding/icons/strava/001-strava-wordmark.png",
+    "bytes": 74107,
+    "sha256": "a80d4ad945cffbb30bd0461d3e5c2091e126fc2a80ef9db383497d7a3e4244a4"
+  },
+  {
+    "screen_id": "onb_df5ax",
+    "label": "sport-icon-grid",
+    "bbox": [
+      54,
+      876,
+      1026,
+      2056
+    ],
+    "note": "Набор видимых видов спорта с пиктограммами; сохранены названия и выбор. Bbox в пикселях исходного файла.",
+    "source_local_file": "apps/strava/screens/onboarding-008-onb_df5ax.webp",
+    "size": [
+      972,
+      1180
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "strava",
+    "path": "onboarding/icons/strava/002-sport-icon-grid.png",
+    "bytes": 177949,
+    "sha256": "c5101214137f8556510c6645d6cda5d9820a03048348d596b5277a1adc0faf99"
+  },
+  {
+    "screen_id": "onb_pu7gl",
+    "label": "privacy-lock",
+    "bbox": [
+      486,
+      350,
+      583,
+      467
+    ],
+    "note": "Контурная иконка замка. Bbox в пикселях исходного файла.",
+    "source_local_file": "apps/strava/screens/onboarding-012-onb_pu7gl.webp",
+    "size": [
+      97,
+      117
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "strava",
+    "path": "onboarding/icons/strava/003-privacy-lock.png",
+    "bytes": 5493,
+    "sha256": "c471103696d32c8d51024c72e1047acb37f6fd0214c3dba645a2bd6fef446b69"
+  },
+  {
+    "screen_id": "onb_pu7gl",
+    "label": "route-privacy-diagram",
+    "bbox": [
+      59,
+      934,
+      1026,
+      1612
+    ],
+    "note": "Оранжевая открытая и серая скрытая части маршрута. Bbox в пикселях исходного файла.",
+    "source_local_file": "apps/strava/screens/onboarding-012-onb_pu7gl.webp",
+    "size": [
+      967,
+      678
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "strava",
+    "path": "onboarding/icons/strava/004-route-privacy-diagram.png",
+    "bytes": 95366,
+    "sha256": "99c358d7b2b8152a0a2f2964122241ab63b54e75dc64e9eef1cd4a237c09fe60"
+  },
+  {
+    "screen_id": "onb_sfijl",
+    "label": "community-heatmap",
+    "bbox": [
+      194,
+      1063,
+      875,
+      1799
+    ],
+    "note": "Пример карты сообщества. Bbox в пикселях исходного файла.",
+    "source_local_file": "apps/strava/screens/onboarding-013-onb_sfijl.webp",
+    "size": [
+      681,
+      736
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "strava",
+    "path": "onboarding/icons/strava/005-community-heatmap.png",
+    "bytes": 743755,
+    "sha256": "b4a6d1f4d4ce09735017b084bd2b972e653b770a998396fae4c6aae1c9e5abc7"
+  },
+  {
+    "screen_id": "onb_i56fv",
+    "label": "notifications-bell",
+    "bbox": [
+      475,
+      350,
+      594,
+      467
+    ],
+    "note": "Контурный колокольчик. Bbox в пикселях исходного файла.",
+    "source_local_file": "apps/strava/screens/onboarding-014-onb_i56fv.webp",
+    "size": [
+      119,
+      117
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "strava",
+    "path": "onboarding/icons/strava/006-notifications-bell.png",
+    "bytes": 5324,
+    "sha256": "07693c0dd2b99df31b30e5d744156bfe6a44aa65d67338c430b56d90d5523d7b"
+  },
+  {
+    "screen_id": "onb_i56fv",
+    "label": "kudos-notification",
+    "bbox": [
+      22,
+      911,
+      1069,
+      1670
+    ],
+    "note": "Фирменная лента и карточка социального уведомления. Bbox в пикселях исходного файла.",
+    "source_local_file": "apps/strava/screens/onboarding-014-onb_i56fv.webp",
+    "size": [
+      1047,
+      759
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "strava",
+    "path": "onboarding/icons/strava/007-kudos-notification.png",
+    "bytes": 127975,
+    "sha256": "40788849e8b1318ef2e92147742aaf03779905f0b1eba9cf570a1bd5916af7be"
+  },
+  {
+    "screen_id": "pay_esosl",
+    "label": "strava-runna-promo",
+    "bbox": [
+      187,
+      266,
+      948,
+      760
+    ],
+    "note": "Скидочный знак и две app-иконки; это составная иллюстрация. Bbox в пикселях исходного файла.",
+    "source_local_file": "apps/strava/screens/paywall-001-pay_esosl.webp",
+    "size": [
+      761,
+      494
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "strava",
+    "path": "onboarding/icons/strava/008-strava-runna-promo.png",
+    "bytes": 263015,
+    "sha256": "2f3d06243f694c3032ff211b576254337866c28b655fee214f2e112eb826161c"
+  },
+  {
+    "screen_id": "pay_98jkd",
+    "label": "leaderboard-crown",
+    "bbox": [
+      325,
+      1296,
+      373,
+      1362
+    ],
+    "note": "Корона лидера в рейтинге; координаты по полноразмерному кадру. Bbox в пикселях исходного файла.",
+    "source_local_file": "apps/strava/screens/paywall-002-pay_98jkd.webp",
+    "size": [
+      48,
+      66
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "strava",
+    "path": "onboarding/icons/strava/009-leaderboard-crown.png",
+    "bytes": 1025,
+    "sha256": "7adb4837619563fb840895c7d054be4d6c1cf45a9fdcb2e3ff188496f4a840b6"
+  },
+  {
+    "screen_id": "onb_bdq90",
+    "label": "strength",
+    "bbox": [
+      270,
+      695,
+      340,
+      790
+    ],
+    "note": "Координаты в пикселях оригинального изображения; прямоугольный референс, фон сохранён. Watermark Appllama не является иконкой приложения.",
+    "source_local_file": "apps/bodi/screens/onboarding-003-onb_bdq90.webp",
+    "size": [
+      70,
+      95
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "bodi",
+    "path": "onboarding/icons/bodi/001-strength.png",
+    "bytes": 3457,
+    "sha256": "5ebd76d50ddc977d41f78a11ca944144a25ebb329fa0fb9094216b377799ac03"
+  },
+  {
+    "screen_id": "onb_bdq90",
+    "label": "hiit",
+    "bbox": [
+      740,
+      695,
+      810,
+      790
+    ],
+    "note": "Координаты в пикселях оригинального изображения; прямоугольный референс, фон сохранён. Watermark Appllama не является иконкой приложения.",
+    "source_local_file": "apps/bodi/screens/onboarding-003-onb_bdq90.webp",
+    "size": [
+      70,
+      95
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "bodi",
+    "path": "onboarding/icons/bodi/002-hiit.png",
+    "bytes": 3936,
+    "sha256": "5317d187722d87aab30fe12dddba8a152b1e59e226d516fd5b914332c8d5a798"
+  },
+  {
+    "screen_id": "onb_bdq90",
+    "label": "pilates",
+    "bbox": [
+      270,
+      950,
+      340,
+      1020
+    ],
+    "note": "Координаты в пикселях оригинального изображения; прямоугольный референс, фон сохранён. Watermark Appllama не является иконкой приложения.",
+    "source_local_file": "apps/bodi/screens/onboarding-003-onb_bdq90.webp",
+    "size": [
+      70,
+      70
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "bodi",
+    "path": "onboarding/icons/bodi/003-pilates.png",
+    "bytes": 2779,
+    "sha256": "93d9394c4ca1e5fd44b33989d09a4399b39ed90938aafe079f44ce48bdc2d10f"
+  },
+  {
+    "screen_id": "onb_bdq90",
+    "label": "cardio",
+    "bbox": [
+      740,
+      945,
+      810,
+      1035
+    ],
+    "note": "Координаты в пикселях оригинального изображения; прямоугольный референс, фон сохранён. Watermark Appllama не является иконкой приложения.",
+    "source_local_file": "apps/bodi/screens/onboarding-003-onb_bdq90.webp",
+    "size": [
+      70,
+      90
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "bodi",
+    "path": "onboarding/icons/bodi/004-cardio.png",
+    "bytes": 3699,
+    "sha256": "7e8a32de894f5452787661109e95ab5d1f0944724aa3b0785a3a732e0751de67"
+  },
+  {
+    "screen_id": "onb_bdq90",
+    "label": "cycling",
+    "bbox": [
+      265,
+      1190,
+      350,
+      1280
+    ],
+    "note": "Координаты в пикселях оригинального изображения; прямоугольный референс, фон сохранён. Watermark Appllama не является иконкой приложения.",
+    "source_local_file": "apps/bodi/screens/onboarding-003-onb_bdq90.webp",
+    "size": [
+      85,
+      90
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "bodi",
+    "path": "onboarding/icons/bodi/005-cycling.png",
+    "bytes": 4889,
+    "sha256": "b46a708d23a037f19c8f01cff75213b0fadcf37ec4e84845c64b29a398bbd9e2"
+  },
+  {
+    "screen_id": "onb_bdq90",
+    "label": "bootcamp",
+    "bbox": [
+      735,
+      1200,
+      815,
+      1270
+    ],
+    "note": "Координаты в пикселях оригинального изображения; прямоугольный референс, фон сохранён. Watermark Appllama не является иконкой приложения.",
+    "source_local_file": "apps/bodi/screens/onboarding-003-onb_bdq90.webp",
+    "size": [
+      80,
+      70
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "bodi",
+    "path": "onboarding/icons/bodi/006-bootcamp.png",
+    "bytes": 3294,
+    "sha256": "25bc864337c31d1a6ceffd58221fd4fdb4efafe1901d7b18face9c0a4f446610"
+  },
+  {
+    "screen_id": "onb_bdq90",
+    "label": "dance",
+    "bbox": [
+      265,
+      1440,
+      345,
+      1530
+    ],
+    "note": "Координаты в пикселях оригинального изображения; прямоугольный референс, фон сохранён. Watermark Appllama не является иконкой приложения.",
+    "source_local_file": "apps/bodi/screens/onboarding-003-onb_bdq90.webp",
+    "size": [
+      80,
+      90
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "bodi",
+    "path": "onboarding/icons/bodi/007-dance.png",
+    "bytes": 3756,
+    "sha256": "018fd99f7f1f020206479591a61f5bf6141dd6770155ceeeb802b6a61c201ba3"
+  },
+  {
+    "screen_id": "onb_bdq90",
+    "label": "barre",
+    "bbox": [
+      735,
+      1440,
+      815,
+      1535
+    ],
+    "note": "Координаты в пикселях оригинального изображения; прямоугольный референс, фон сохранён. Watermark Appllama не является иконкой приложения.",
+    "source_local_file": "apps/bodi/screens/onboarding-003-onb_bdq90.webp",
+    "size": [
+      80,
+      95
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "bodi",
+    "path": "onboarding/icons/bodi/008-barre.png",
+    "bytes": 3592,
+    "sha256": "d80004986c1c7246910ae568e6905b5e2f529d91b60816fef4e47e8d6e44d4da"
+  },
+  {
+    "screen_id": "onb_bdq90",
+    "label": "yoga",
+    "bbox": [
+      265,
+      1695,
+      345,
+      1780
+    ],
+    "note": "Координаты в пикселях оригинального изображения; прямоугольный референс, фон сохранён. Watermark Appllama не является иконкой приложения.",
+    "source_local_file": "apps/bodi/screens/onboarding-003-onb_bdq90.webp",
+    "size": [
+      80,
+      85
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "bodi",
+    "path": "onboarding/icons/bodi/009-yoga.png",
+    "bytes": 3098,
+    "sha256": "9a54bf556d812cc521977e7f3be2eab734abf3c55d8680da6598dfebb0cc946c"
+  },
+  {
+    "screen_id": "onb_bdq90",
+    "label": "core",
+    "bbox": [
+      735,
+      1700,
+      815,
+      1775
+    ],
+    "note": "Координаты в пикселях оригинального изображения; прямоугольный референс, фон сохранён. Watermark Appllama не является иконкой приложения.",
+    "source_local_file": "apps/bodi/screens/onboarding-003-onb_bdq90.webp",
+    "size": [
+      80,
+      75
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "bodi",
+    "path": "onboarding/icons/bodi/010-core.png",
+    "bytes": 3292,
+    "sha256": "c2c07d2ec94cf8c1f9a8b4b3da094cffe4c8ce4a5c8a406787fc68a91898b2e5"
+  },
+  {
+    "screen_id": "onb_dewvd",
+    "label": "success-check",
+    "bbox": [
+      415,
+      915,
+      665,
+      1160
+    ],
+    "note": "Координаты в пикселях оригинального изображения; прямоугольный референс, фон сохранён. Watermark Appllama не является иконкой приложения.",
+    "source_local_file": "apps/bodi/screens/onboarding-006-onb_dewvd.webp",
+    "size": [
+      250,
+      245
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "bodi",
+    "path": "onboarding/icons/bodi/011-success-check.png",
+    "bytes": 36694,
+    "sha256": "f1d5904400baf4664ca4943260a78477079aab180bc1949c598ef96736e85888"
+  },
+  {
+    "screen_id": "onb_o3e41",
+    "label": "phone-watch-achievement",
+    "bbox": [
+      235,
+      510,
+      850,
+      1510
+    ],
+    "note": "Координаты в пикселях оригинального изображения; прямоугольный референс, фон сохранён. Watermark Appllama не является иконкой приложения.",
+    "source_local_file": "apps/bodi/screens/onboarding-007-onb_o3e41.webp",
+    "size": [
+      615,
+      1000
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "bodi",
+    "path": "onboarding/icons/bodi/012-phone-watch-achievement.png",
+    "bytes": 408441,
+    "sha256": "8a629c61b8cd30b8fe0d999fd6a29e11b2aa2525f4f607c558090860f13f4941"
+  },
+  {
+    "screen_id": "onb_bdbr7",
+    "label": "level-bars",
+    "bbox": [
+      260,
+      650,
+      325,
+      715
+    ],
+    "note": "Координаты в пикселях оригинального изображения; прямоугольный референс, фон сохранён. Watermark Appllama не является иконкой приложения.",
+    "source_local_file": "apps/bodi/screens/onboarding-002-onb_bdbr7.webp",
+    "size": [
+      65,
+      65
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "bodi",
+    "path": "onboarding/icons/bodi/013-level-bars.png",
+    "bytes": 1333,
+    "sha256": "c52ee09adeae8297e3cb750d7ccbd1498ea52e494cd5f2f24065a1e51bc7189d"
+  },
+  {
+    "screen_id": "onb_bdbr7",
+    "label": "back-control",
+    "bbox": [
+      35,
+      105,
+      185,
+      270
+    ],
+    "note": "Координаты в пикселях оригинального изображения; прямоугольный референс, фон сохранён. Watermark Appllama не является иконкой приложения.",
+    "source_local_file": "apps/bodi/screens/onboarding-002-onb_bdbr7.webp",
+    "size": [
+      150,
+      165
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "bodi",
+    "path": "onboarding/icons/bodi/014-back-control.png",
+    "bytes": 6231,
+    "sha256": "3c7223ca5eb385e9db4b612fe8e6159096bb594dbaec6d578d32ebd147153aea"
+  },
+  {
+    "screen_id": "onb_bdbr7",
+    "label": "close-control",
+    "bbox": [
+      900,
+      105,
+      1050,
+      270
+    ],
+    "note": "Координаты в пикселях оригинального изображения; прямоугольный референс, фон сохранён. Watermark Appllama не является иконкой приложения.",
+    "source_local_file": "apps/bodi/screens/onboarding-002-onb_bdbr7.webp",
+    "size": [
+      150,
+      165
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "bodi",
+    "path": "onboarding/icons/bodi/015-close-control.png",
+    "bytes": 7869,
+    "sha256": "0e5c379fdf1020b06b9e8cc21b63fa9f84b7e1a2713f3814d1804f311b55e252"
+  },
+  {
+    "screen_id": "onb_d09ba",
+    "label": "goal-build-muscle",
+    "bbox": [
+      195,
+      700,
+      390,
+      895
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/onboarding-004-onb_d09ba.webp",
+    "size": [
+      195,
+      195
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/001-goal-build-muscle.png",
+    "bytes": 29866,
+    "sha256": "bd68faceef48a22df90017a3bc36a3f8cbcc23044506952bbf0a3c1268803903"
+  },
+  {
+    "screen_id": "onb_d09ba",
+    "label": "goal-get-stronger",
+    "bbox": [
+      690,
+      700,
+      890,
+      895
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/onboarding-004-onb_d09ba.webp",
+    "size": [
+      200,
+      195
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/002-goal-get-stronger.png",
+    "bytes": 32898,
+    "sha256": "64c84a701822ea56f68c2d14dcf8ad14a2337aa450265dc25d79e2e319107e5e"
+  },
+  {
+    "screen_id": "onb_d09ba",
+    "label": "goal-lose-weight",
+    "bbox": [
+      195,
+      1110,
+      390,
+      1310
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/onboarding-004-onb_d09ba.webp",
+    "size": [
+      195,
+      200
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/003-goal-lose-weight.png",
+    "bytes": 30406,
+    "sha256": "e53552348b01276a01a116a9053afdef5777be9f41dee0c7a2b5ed58a48644d1"
+  },
+  {
+    "screen_id": "onb_d09ba",
+    "label": "goal-fundamentals",
+    "bbox": [
+      690,
+      1110,
+      890,
+      1310
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/onboarding-004-onb_d09ba.webp",
+    "size": [
+      200,
+      200
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/004-goal-fundamentals.png",
+    "bytes": 27803,
+    "sha256": "5ccfc0009ac79ede9845d2c237ad8195479ab250aee8f9d19f337b2bdd87f407"
+  },
+  {
+    "screen_id": "onb_d09ba",
+    "label": "goal-conditioning",
+    "bbox": [
+      195,
+      1520,
+      390,
+      1720
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/onboarding-004-onb_d09ba.webp",
+    "size": [
+      195,
+      200
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/005-goal-conditioning.png",
+    "bytes": 24285,
+    "sha256": "0e9d99b3b80ada97046331ac9d2340fc2464cecbf167782f9a3c423a090b580d"
+  },
+  {
+    "screen_id": "onb_d09ba",
+    "label": "goal-sport",
+    "bbox": [
+      690,
+      1520,
+      890,
+      1720
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/onboarding-004-onb_d09ba.webp",
+    "size": [
+      200,
+      200
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/006-goal-sport.png",
+    "bytes": 26329,
+    "sha256": "22e2c7623f2e2a3c3cb7b6ef3a20eed9f0c3da5ed6fd1082094cdcae1ab3c276"
+  },
+  {
+    "screen_id": "onb_5qv78",
+    "label": "male-anatomy",
+    "bbox": [
+      35,
+      650,
+      540,
+      1860
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/onboarding-003-onb_5qv78.webp",
+    "size": [
+      505,
+      1210
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/007-male-anatomy.png",
+    "bytes": 502971,
+    "sha256": "493295f08b51a346c36b3248269fb601203e878c7b3ba0b8155d950b8a1809b5"
+  },
+  {
+    "screen_id": "onb_5qv78",
+    "label": "female-anatomy",
+    "bbox": [
+      555,
+      700,
+      990,
+      1790
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/onboarding-003-onb_5qv78.webp",
+    "size": [
+      435,
+      1090
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/008-female-anatomy.png",
+    "bytes": 158786,
+    "sha256": "347ae1fd86d56cf3c28c4ead2899c6d6d75323ec647c9ca09ce57924ecfdd0ce"
+  },
+  {
+    "screen_id": "onb_8f2cj",
+    "label": "athletes-milestones",
+    "bbox": [
+      45,
+      825,
+      1040,
+      1870
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/onboarding-005-onb_8f2cj.webp",
+    "size": [
+      995,
+      1045
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/009-athletes-milestones.png",
+    "bytes": 486092,
+    "sha256": "41a56dd92358d937a020caeffe6d4718b4bc3bf8ee3f39d702a80f0f841468e0"
+  },
+  {
+    "screen_id": "onb_sybun",
+    "label": "training-illustration",
+    "bbox": [
+      120,
+      150,
+      960,
+      865
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/onboarding-009-onb_sybun.webp",
+    "size": [
+      840,
+      715
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/010-training-illustration.png",
+    "bytes": 237090,
+    "sha256": "6c130a10c651d132871730a2fbdc54f208984d0adbcdfe6a2cd0d2c414a3f6b4"
+  },
+  {
+    "screen_id": "onb_3tla1",
+    "label": "social-proof-illustration",
+    "bbox": [
+      105,
+      150,
+      985,
+      1020
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/onboarding-011-onb_3tla1.webp",
+    "size": [
+      880,
+      870
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/011-social-proof-illustration.png",
+    "bytes": 300165,
+    "sha256": "3a468e55d4fc861bc58ffc5895846fbc1c691928c6002325673c1d113ca14609"
+  },
+  {
+    "screen_id": "onb_e44bc",
+    "label": "lyfta-reminder-icon",
+    "bbox": [
+      80,
+      635,
+      215,
+      775
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/onboarding-015-onb_e44bc.webp",
+    "size": [
+      135,
+      140
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/012-lyfta-reminder-icon.png",
+    "bytes": 14597,
+    "sha256": "327ef8cbb4d0f977cb0fe291d63b63c64cd10139921c02d655d46da7193d7c81"
+  },
+  {
+    "screen_id": "onb_91fv1",
+    "label": "progress-four-tiles",
+    "bbox": [
+      160,
+      155,
+      940,
+      935
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/onboarding-018-onb_91fv1.webp",
+    "size": [
+      780,
+      780
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/013-progress-four-tiles.png",
+    "bytes": 242379,
+    "sha256": "2a27de9ae285407b558fb3048e26d00262d6824d6e6e06e90da44e027d511f0c"
+  },
+  {
+    "screen_id": "onb_d1n1o",
+    "label": "health-integration-illustration",
+    "bbox": [
+      35,
+      190,
+      1040,
+      1180
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/onboarding-019-onb_d1n1o.webp",
+    "size": [
+      1005,
+      990
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/014-health-integration-illustration.png",
+    "bytes": 144347,
+    "sha256": "32ddc808ef5ff12da70fc00df5831144103e969493f091d887f456417f3a3ef6"
+  },
+  {
+    "screen_id": "onb_4qlhc",
+    "label": "full-gym-icon",
+    "bbox": [
+      90,
+      750,
+      200,
+      865
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/onboarding-017-onb_4qlhc.webp",
+    "size": [
+      110,
+      115
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/015-full-gym-icon.png",
+    "bytes": 7934,
+    "sha256": "3b66a2286a3da5a960fbe227fd45f0a5d217b442611f98b5d26d377559bd4257"
+  },
+  {
+    "screen_id": "onb_4qlhc",
+    "label": "barbells-icon",
+    "bbox": [
+      85,
+      960,
+      205,
+      1050
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/onboarding-017-onb_4qlhc.webp",
+    "size": [
+      120,
+      90
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/016-barbells-icon.png",
+    "bytes": 5714,
+    "sha256": "0e176589f47e4877ee8a89f14eb1f696f74825ee086eb06556e6e39a62f8d31a"
+  },
+  {
+    "screen_id": "onb_4qlhc",
+    "label": "dumbbells-icon",
+    "bbox": [
+      85,
+      1165,
+      210,
+      1250
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/onboarding-017-onb_4qlhc.webp",
+    "size": [
+      125,
+      85
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/017-dumbbells-icon.png",
+    "bytes": 11698,
+    "sha256": "b0f9de6702410f212e8025b4381361373e758a0fb8e3000e361f518a92ce608d"
+  },
+  {
+    "screen_id": "onb_4qlhc",
+    "label": "kettlebells-icon",
+    "bbox": [
+      85,
+      1350,
+      205,
+      1460
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/onboarding-017-onb_4qlhc.webp",
+    "size": [
+      120,
+      110
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/018-kettlebells-icon.png",
+    "bytes": 7895,
+    "sha256": "99bbc4d6ffa4a3b817282f9e55748902e843486993f7ac1979c7956ec24746c1"
+  },
+  {
+    "screen_id": "onb_4qlhc",
+    "label": "machines-icon",
+    "bbox": [
+      85,
+      1550,
+      205,
+      1670
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/onboarding-017-onb_4qlhc.webp",
+    "size": [
+      120,
+      120
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/019-machines-icon.png",
+    "bytes": 7529,
+    "sha256": "ab3c6acdb4f55d23314536c51e8ea684db3ae28ad54ab1ede181adab4d4157bd"
+  },
+  {
+    "screen_id": "onb_4qlhc",
+    "label": "bodyweight-icon",
+    "bbox": [
+      80,
+      1750,
+      210,
+      1865
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/onboarding-017-onb_4qlhc.webp",
+    "size": [
+      130,
+      115
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/020-bodyweight-icon.png",
+    "bytes": 6805,
+    "sha256": "da453651dd65c3f5c1ad36314573331a20e7f803c26aaec8904025dee34ab5ba"
+  },
+  {
+    "screen_id": "onb_ehnxn",
+    "label": "success-check",
+    "bbox": [
+      345,
+      345,
+      755,
+      750
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/onboarding-029-onb_ehnxn.webp",
+    "size": [
+      410,
+      405
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/021-success-check.png",
+    "bytes": 70904,
+    "sha256": "24a12a581182e5c6c9c53234b6a8cb99d578bac8249bf7d65853f962779527a3"
+  },
+  {
+    "screen_id": "onb_oxwco",
+    "label": "comparison-illustration",
+    "bbox": [
+      110,
+      560,
+      1010,
+      1860
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/onboarding-030-onb_oxwco.webp",
+    "size": [
+      900,
+      1300
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/022-comparison-illustration.png",
+    "bytes": 507122,
+    "sha256": "f44682108ba544e4cf4c2346ce4a35e8d77ad9d254e7076bef006ec8ddeff910"
+  },
+  {
+    "screen_id": "pay_1psqj",
+    "label": "trial-unlock",
+    "bbox": [
+      65,
+      1235,
+      130,
+      1310
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/paywall-001-pay_1psqj.webp",
+    "size": [
+      65,
+      75
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/023-trial-unlock.png",
+    "bytes": 1037,
+    "sha256": "f468e94e80f344624bb88fe00a6ec9b3990726922f20a3bee16c2b413185ae84"
+  },
+  {
+    "screen_id": "pay_1psqj",
+    "label": "trial-bell",
+    "bbox": [
+      65,
+      1410,
+      130,
+      1490
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/paywall-001-pay_1psqj.webp",
+    "size": [
+      65,
+      80
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/024-trial-bell.png",
+    "bytes": 1100,
+    "sha256": "9762800f9d115c3a9445cab09216c81a1504134aeb204f7593a4899eac2289fe"
+  },
+  {
+    "screen_id": "pay_1psqj",
+    "label": "trial-star",
+    "bbox": [
+      65,
+      1600,
+      130,
+      1670
+    ],
+    "note": "Координаты в пикселях оригинального файла. Прямоугольный референс с исходным фоном; декоративные части одной иллюстрации иногда сохранены вместе.",
+    "source_local_file": "apps/lyfta/screens/paywall-001-pay_1psqj.webp",
+    "size": [
+      65,
+      70
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "lyfta",
+    "path": "onboarding/icons/lyfta/025-trial-star.png",
+    "bytes": 1299,
+    "sha256": "23375e5211ad73c5771c9cce70972d6cdf10f5bcc4685a2ee9772b24789565b1"
+  },
+  {
+    "screen_id": "onb_bupzu",
+    "label": "profile-tab",
+    "bbox": [
+      72,
+      2130,
+      135,
+      2210
+    ],
+    "note": "Координаты в пикселях оригинального изображения; прямоугольный референс, фон сохранён. Watermark Appllama не является иконкой приложения.",
+    "source_local_file": "apps/strong/screens/onboarding-004-onb_bupzu.webp",
+    "size": [
+      63,
+      80
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "strong",
+    "path": "onboarding/icons/strong/001-profile-tab.png",
+    "bytes": 3778,
+    "sha256": "f7f2ba5cf3c78e5d26233c5f05d63a0d2b5341c4ceb731d8b8b55eb235e05adf"
+  },
+  {
+    "screen_id": "onb_bupzu",
+    "label": "history-tab",
+    "bbox": [
+      275,
+      2130,
+      365,
+      2210
+    ],
+    "note": "Координаты в пикселях оригинального изображения; прямоугольный референс, фон сохранён. Watermark Appllama не является иконкой приложения.",
+    "source_local_file": "apps/strong/screens/onboarding-004-onb_bupzu.webp",
+    "size": [
+      90,
+      80
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "strong",
+    "path": "onboarding/icons/strong/002-history-tab.png",
+    "bytes": 5429,
+    "sha256": "e8a876b41b1ab4ced62988f49fc2e766791c7899b4151a9d61df895bb7dc3796"
+  },
+  {
+    "screen_id": "onb_bupzu",
+    "label": "start-plus-tab",
+    "bbox": [
+      500,
+      2130,
+      575,
+      2210
+    ],
+    "note": "Координаты в пикселях оригинального изображения; прямоугольный референс, фон сохранён. Watermark Appllama не является иконкой приложения.",
+    "source_local_file": "apps/strong/screens/onboarding-004-onb_bupzu.webp",
+    "size": [
+      75,
+      80
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "strong",
+    "path": "onboarding/icons/strong/003-start-plus-tab.png",
+    "bytes": 3306,
+    "sha256": "7ff65167d44b8ee7e6d1f1b50855dbccd287dc4f7f08ff619ce722932d7b1fdd"
+  },
+  {
+    "screen_id": "onb_bupzu",
+    "label": "exercises-tab",
+    "bbox": [
+      715,
+      2130,
+      800,
+      2210
+    ],
+    "note": "Координаты в пикселях оригинального изображения; прямоугольный референс, фон сохранён. Watermark Appllama не является иконкой приложения.",
+    "source_local_file": "apps/strong/screens/onboarding-004-onb_bupzu.webp",
+    "size": [
+      85,
+      80
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "strong",
+    "path": "onboarding/icons/strong/004-exercises-tab.png",
+    "bytes": 4091,
+    "sha256": "bccf5a0aeb799b92981b4cfbd06f5a6ea9934d01384e7cc0ef4bd666787fd200"
+  },
+  {
+    "screen_id": "onb_bupzu",
+    "label": "store-tab",
+    "bbox": [
+      940,
+      2130,
+      1010,
+      2210
+    ],
+    "note": "Координаты в пикселях оригинального изображения; прямоугольный референс, фон сохранён. Watermark Appllama не является иконкой приложения.",
+    "source_local_file": "apps/strong/screens/onboarding-004-onb_bupzu.webp",
+    "size": [
+      70,
+      80
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "strong",
+    "path": "onboarding/icons/strong/005-store-tab.png",
+    "bytes": 3742,
+    "sha256": "a93674d9810a297d9c747094937fbe50665ab0e5bf04c78fa03a61788a4f771f"
+  },
+  {
+    "screen_id": "onb_bupzu",
+    "label": "search",
+    "bbox": [
+      965,
+      150,
+      1040,
+      225
+    ],
+    "note": "Координаты в пикселях оригинального изображения; прямоугольный референс, фон сохранён. Watermark Appllama не является иконкой приложения.",
+    "source_local_file": "apps/strong/screens/onboarding-004-onb_bupzu.webp",
+    "size": [
+      75,
+      75
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "strong",
+    "path": "onboarding/icons/strong/006-search.png",
+    "bytes": 5768,
+    "sha256": "0c5f321d308544c81fc6be12a4f8b78839c34ebcab2376ebf590d3ebbf62610f"
+  },
+  {
+    "screen_id": "onb_wwv45",
+    "label": "benefit-metabolism",
+    "bbox": [
+      45,
+      540,
+      195,
+      705
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-007-onb_wwv45.webp",
+    "size": [
+      150,
+      165
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/001-benefit-metabolism.png",
+    "bytes": 29927,
+    "sha256": "b87af78e448866fae73fc0eb5a17fb895640f16cb5efac40ef7a51a646b71594"
+  },
+  {
+    "screen_id": "onb_wwv45",
+    "label": "benefit-strength",
+    "bbox": [
+      45,
+      800,
+      195,
+      975
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-007-onb_wwv45.webp",
+    "size": [
+      150,
+      175
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/002-benefit-strength.png",
+    "bytes": 33374,
+    "sha256": "a6a5ec123fce315708a20e84ccdd76878d33a2607c35a78f462203e24bcaaa09"
+  },
+  {
+    "screen_id": "onb_wwv45",
+    "label": "benefit-fatloss",
+    "bbox": [
+      45,
+      1070,
+      195,
+      1230
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-007-onb_wwv45.webp",
+    "size": [
+      150,
+      160
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/003-benefit-fatloss.png",
+    "bytes": 30274,
+    "sha256": "a34cd2c3bf3e720174542479b8522c11a3c59dca8bf0f0e641d99d344e6f73fb"
+  },
+  {
+    "screen_id": "onb_wwv45",
+    "label": "benefit-energy",
+    "bbox": [
+      45,
+      1345,
+      195,
+      1500
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-007-onb_wwv45.webp",
+    "size": [
+      150,
+      155
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/004-benefit-energy.png",
+    "bytes": 18805,
+    "sha256": "f7a6cc27a9146bdab9f325574bf77be9c98821f419e2cad86162fca01736ec7b"
+  },
+  {
+    "screen_id": "onb_wwv45",
+    "label": "benefit-mood",
+    "bbox": [
+      45,
+      1610,
+      195,
+      1780
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-007-onb_wwv45.webp",
+    "size": [
+      150,
+      170
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/005-benefit-mood.png",
+    "bytes": 21602,
+    "sha256": "908f58d3699aca479b364a7db4746f81895c8c29494612f49cdf21c8b3bd3c76"
+  },
+  {
+    "screen_id": "onb_cn7sn",
+    "label": "overload-lifter",
+    "bbox": [
+      100,
+      1300,
+      1030,
+      1900
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-010-onb_cn7sn.webp",
+    "size": [
+      930,
+      600
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/006-overload-lifter.png",
+    "bytes": 195545,
+    "sha256": "382f36190b9415d38c41b7a6fec04e7b70d82c6d71f7a2543a3dd0c7ac7d9af9"
+  },
+  {
+    "screen_id": "onb_xm1i2",
+    "label": "body-skinny",
+    "bbox": [
+      50,
+      500,
+      390,
+      800
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-005-onb_xm1i2.webp",
+    "size": [
+      340,
+      300
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/007-body-skinny.png",
+    "bytes": 86317,
+    "sha256": "f9245a3482501e174066825850e09734cdaa1370afb73434f34dccc17047f3a2"
+  },
+  {
+    "screen_id": "onb_xm1i2",
+    "label": "body-average",
+    "bbox": [
+      50,
+      850,
+      390,
+      1150
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-005-onb_xm1i2.webp",
+    "size": [
+      340,
+      300
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/008-body-average.png",
+    "bytes": 86239,
+    "sha256": "6086f395d0aa110c6ebb55dce0df7b9b87c11755d5922e7ba30db4a754eec287"
+  },
+  {
+    "screen_id": "onb_xm1i2",
+    "label": "body-overweight",
+    "bbox": [
+      45,
+      1200,
+      390,
+      1500
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-005-onb_xm1i2.webp",
+    "size": [
+      345,
+      300
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/009-body-overweight.png",
+    "bytes": 97112,
+    "sha256": "aa3701de9f63d35dc27df57204cd8739d4f6683ee2e45e2249c404e2fafcac74"
+  },
+  {
+    "screen_id": "onb_9fvxk",
+    "label": "goal-shredded",
+    "bbox": [
+      65,
+      470,
+      400,
+      790
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-006-onb_9fvxk.webp",
+    "size": [
+      335,
+      320
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/010-goal-shredded.png",
+    "bytes": 98623,
+    "sha256": "1e92fb6660d4b63378c7cbff56ae939be11a7a7ca27f4f67ff1b54acc2b4b370"
+  },
+  {
+    "screen_id": "onb_9fvxk",
+    "label": "goal-bulk",
+    "bbox": [
+      65,
+      840,
+      410,
+      1160
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-006-onb_9fvxk.webp",
+    "size": [
+      345,
+      320
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/011-goal-bulk.png",
+    "bytes": 104432,
+    "sha256": "f515470b1716483a32df086fc887e613c8b2d4d73ff19144e8755f660534797f"
+  },
+  {
+    "screen_id": "onb_9fvxk",
+    "label": "goal-berserk",
+    "bbox": [
+      60,
+      1200,
+      415,
+      1520
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-006-onb_9fvxk.webp",
+    "size": [
+      355,
+      320
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/012-goal-berserk.png",
+    "bytes": 103319,
+    "sha256": "7b59b9f6f4f77f24a139d62bc2a42696fee07f2fae3f906303fd0503ae420ca0"
+  },
+  {
+    "screen_id": "onb_ya8a6",
+    "label": "equipment-bodyweight",
+    "bbox": [
+      70,
+      530,
+      220,
+      710
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-016-onb_ya8a6.webp",
+    "size": [
+      150,
+      180
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/013-equipment-bodyweight.png",
+    "bytes": 17992,
+    "sha256": "8d0b218bc4a140a2cb1fc42620ed6faaef703d2e1856c3f71255db8451ea035d"
+  },
+  {
+    "screen_id": "onb_ya8a6",
+    "label": "equipment-freeweights",
+    "bbox": [
+      60,
+      875,
+      230,
+      1020
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-016-onb_ya8a6.webp",
+    "size": [
+      170,
+      145
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/014-equipment-freeweights.png",
+    "bytes": 10170,
+    "sha256": "9c71e06f4c2861f4f78403618fd068ec625090aea6fbf7f199faf5d1c5b18661"
+  },
+  {
+    "screen_id": "onb_ya8a6",
+    "label": "equipment-benches",
+    "bbox": [
+      65,
+      1100,
+      230,
+      1230
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-016-onb_ya8a6.webp",
+    "size": [
+      165,
+      130
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/015-equipment-benches.png",
+    "bytes": 9055,
+    "sha256": "9a6a0a98e17f2cb22471004f78bf060c4a8ddfc96c1a1671859ae788d3e71674"
+  },
+  {
+    "screen_id": "onb_ya8a6",
+    "label": "equipment-rack",
+    "bbox": [
+      65,
+      1320,
+      230,
+      1460
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-016-onb_ya8a6.webp",
+    "size": [
+      165,
+      140
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/016-equipment-rack.png",
+    "bytes": 18819,
+    "sha256": "99d4f66420a30e4868e4808f0d6b5d6e71e4b8e4e525405c2566a52d84205c3e"
+  },
+  {
+    "screen_id": "onb_ya8a6",
+    "label": "equipment-attachments",
+    "bbox": [
+      65,
+      1540,
+      230,
+      1670
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-016-onb_ya8a6.webp",
+    "size": [
+      165,
+      130
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/017-equipment-attachments.png",
+    "bytes": 5981,
+    "sha256": "bb915259bee526d8338b79dc2f571bee887701456ff4054bdbba4df28172ab59"
+  },
+  {
+    "screen_id": "onb_ya8a6",
+    "label": "equipment-weightmachines",
+    "bbox": [
+      60,
+      1750,
+      235,
+      1900
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-016-onb_ya8a6.webp",
+    "size": [
+      175,
+      150
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/018-equipment-weightmachines.png",
+    "bytes": 21335,
+    "sha256": "89468aec08e839626eb72110c491fe1cced2994698d41a383f4c484966ee5e09"
+  },
+  {
+    "screen_id": "onb_ya8a6",
+    "label": "equipment-cardio",
+    "bbox": [
+      55,
+      1970,
+      235,
+      2080
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-016-onb_ya8a6.webp",
+    "size": [
+      180,
+      110
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/019-equipment-cardio.png",
+    "bytes": 10078,
+    "sha256": "6fe39e5bdf8f2349aafbf99c7ef8839212a6b398110dd8e9af12caa56800cac6"
+  },
+  {
+    "screen_id": "onb_ya8a6",
+    "label": "equipment-other",
+    "bbox": [
+      60,
+      2200,
+      230,
+      2335
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-016-onb_ya8a6.webp",
+    "size": [
+      170,
+      135
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/020-equipment-other.png",
+    "bytes": 20937,
+    "sha256": "c6d6248bf3d68be147ab9c49904f71fc2a1ab3e74235d028c910c6855808d808"
+  },
+  {
+    "screen_id": "onb_i50oj",
+    "label": "notification-bell",
+    "bbox": [
+      45,
+      1210,
+      175,
+      1355
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-022-onb_i50oj.webp",
+    "size": [
+      130,
+      145
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/021-notification-bell.png",
+    "bytes": 11759,
+    "sha256": "f4ec71d8582a22b19830db1f3761c8b8ca10d7f490225a811b3398657627217d"
+  },
+  {
+    "screen_id": "onb_gb7h5",
+    "label": "empty-workout-illustration",
+    "bbox": [
+      225,
+      600,
+      860,
+      1190
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-031-onb_gb7h5.webp",
+    "size": [
+      635,
+      590
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/022-empty-workout-illustration.png",
+    "bytes": 156722,
+    "sha256": "82b19852a5e5782cfb23028f10d45e1d7c08dd76196d2ccb305a7d2dd2c0a734"
+  },
+  {
+    "screen_id": "onb_jcfyb",
+    "label": "exercise-pushup",
+    "bbox": [
+      70,
+      720,
+      260,
+      900
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-033-onb_jcfyb.webp",
+    "size": [
+      190,
+      180
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/023-exercise-pushup.png",
+    "bytes": 28287,
+    "sha256": "63290339b95ea02e0af103131c79b0fb96ae616b81997d364f50c434ff9f37d9"
+  },
+  {
+    "screen_id": "onb_jcfyb",
+    "label": "exercise-plank",
+    "bbox": [
+      70,
+      990,
+      260,
+      1170
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-033-onb_jcfyb.webp",
+    "size": [
+      190,
+      180
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/024-exercise-plank.png",
+    "bytes": 24508,
+    "sha256": "2f0e1f87bcb8349857ba1fdbf66457705b005cdb9556444ea053618af784cca5"
+  },
+  {
+    "screen_id": "onb_jcfyb",
+    "label": "exercise-crunch",
+    "bbox": [
+      70,
+      1245,
+      260,
+      1410
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-033-onb_jcfyb.webp",
+    "size": [
+      190,
+      165
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/025-exercise-crunch.png",
+    "bytes": 30505,
+    "sha256": "70e13223f6ab529817908022c405cc242e9780934899628544419bba8e7729e5"
+  },
+  {
+    "screen_id": "onb_jcfyb",
+    "label": "exercise-legraise",
+    "bbox": [
+      70,
+      1500,
+      260,
+      1680
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-033-onb_jcfyb.webp",
+    "size": [
+      190,
+      180
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/026-exercise-legraise.png",
+    "bytes": 24070,
+    "sha256": "ff4ea542f571d807db8b04f53cd985fda87db0da6152f89acf39ce507ddd04be"
+  },
+  {
+    "screen_id": "onb_jcfyb",
+    "label": "exercise-running",
+    "bbox": [
+      70,
+      1760,
+      260,
+      1940
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-033-onb_jcfyb.webp",
+    "size": [
+      190,
+      180
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/027-exercise-running.png",
+    "bytes": 19163,
+    "sha256": "1f7464877affa721e443938e11b7ddf5d7209736aa3e840faaa8cd2053154657"
+  },
+  {
+    "screen_id": "onb_vnlpj",
+    "label": "adaptive-load-mockup",
+    "bbox": [
+      130,
+      700,
+      970,
+      1970
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-021-onb_vnlpj.webp",
+    "size": [
+      840,
+      1270
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/028-adaptive-load-mockup.png",
+    "bytes": 301912,
+    "sha256": "177e8f8563a06cfc5209d3634b8a6f611556f825713f6339b8b76dc28b7f6cad"
+  },
+  {
+    "screen_id": "onb_tfo5n",
+    "label": "personal-plan-chart",
+    "bbox": [
+      0,
+      760,
+      1079,
+      1560
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/onboarding-026-onb_tfo5n.webp",
+    "size": [
+      1079,
+      800
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/029-personal-plan-chart.png",
+    "bytes": 216772,
+    "sha256": "579e7d8be0ed443dd615af990f32352cf263a212355fb3b0629a08f76e568b5d"
+  },
+  {
+    "screen_id": "pay_xsvqx",
+    "label": "before-after-hero",
+    "bbox": [
+      0,
+      260,
+      1169,
+      1220
+    ],
+    "note": "Координаты оригинального изображения, прямоугольник с фоном; фото/иллюстрации — референсы, не исходные векторные assets.",
+    "source_local_file": "apps/jefit/screens/paywall-001-pay_xsvqx.webp",
+    "size": [
+      1169,
+      960
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "jefit",
+    "path": "onboarding/icons/jefit/030-before-after-hero.png",
+    "bytes": 784590,
+    "sha256": "e6b1ed1e750f497e8289fd49c6977d207185cdbd9476cad3d3cae72bd640c519"
+  },
+  {
+    "screen_id": "spl_wihn1",
+    "label": "muscle-monster-logo",
+    "bbox": [
+      426,
+      923,
+      652,
+      1150
+    ],
+    "note": "Растровый знак на чёрном фоне.",
+    "source_local_file": "apps/muscle-monster/screens/welcome-screen-002-spl_wihn1.webp",
+    "size": [
+      226,
+      227
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "muscle-monster",
+    "path": "onboarding/icons/muscle-monster/001-muscle-monster-logo.png",
+    "bytes": 36140,
+    "sha256": "ddc04de81ad6d9e10930a373579f05f8b10c024d581d7f0c0025663d3c5f7626"
+  },
+  {
+    "screen_id": "onb_7xrd1",
+    "label": "biceps-3d",
+    "bbox": [
+      366,
+      908,
+      743,
+      1391
+    ],
+    "note": "3D иллюстрация бицепса; фон сохранён.",
+    "source_local_file": "apps/muscle-monster/screens/onboarding-005-onb_7xrd1.webp",
+    "size": [
+      377,
+      483
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "muscle-monster",
+    "path": "onboarding/icons/muscle-monster/002-biceps-3d.png",
+    "bytes": 106847,
+    "sha256": "8904abdb71b76d43f192e6e1b93c1a0827cb4471bd90c9d6fef0a76a0e994084"
+  },
+  {
+    "screen_id": "onb_n3g64",
+    "label": "chair-3d",
+    "bbox": [
+      380,
+      1050,
+      720,
+      1585
+    ],
+    "note": "Иллюстрация для совета о сидении.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "apps/muscle-monster/screens/onboarding-017-onb_n3g64.webp",
+    "size": [
+      340,
+      535
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "muscle-monster",
+    "path": "onboarding/icons/muscle-monster/003-chair-3d.png",
+    "bytes": 122229,
+    "sha256": "85dac478c4e8aa70daf1f6f18f749b96adada706810c107ad0bc65a2a3fefae3"
+  },
+  {
+    "screen_id": "onb_w7dy2",
+    "label": "thumb-up-3d",
+    "bbox": [
+      340,
+      997,
+      763,
+      1398
+    ],
+    "note": "Рука положительного подкрепления.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "apps/muscle-monster/screens/onboarding-019-onb_w7dy2.webp",
+    "size": [
+      423,
+      401
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "muscle-monster",
+    "path": "onboarding/icons/muscle-monster/004-thumb-up-3d.png",
+    "bytes": 113792,
+    "sha256": "1dd652fd133d3ecc5fdfb4d7cb9382caf45a6be29a2f9473f38154273328b833"
+  },
+  {
+    "screen_id": "onb_u94ar",
+    "label": "success-checkmark",
+    "bbox": [
+      375,
+      620,
+      745,
+      1000
+    ],
+    "note": "Галочка вместе с небольшим окружающим конфетти.",
+    "source_local_file": "apps/muscle-monster/screens/onboarding-030-onb_u94ar.webp",
+    "size": [
+      370,
+      380
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "muscle-monster",
+    "path": "onboarding/icons/muscle-monster/005-success-checkmark.png",
+    "bytes": 29692,
+    "sha256": "68237460a39561412fd12074624a5c606786af051f7fd39923d25af825d1273e"
+  },
+  {
+    "screen_id": "onb_tvtc6",
+    "label": "lucky-wheel",
+    "bbox": [
+      45,
+      584,
+      1025,
+      1674
+    ],
+    "note": "Колесо целиком как самостоятельная иллюстрация.",
+    "source_local_file": "apps/muscle-monster/screens/onboarding-034-onb_tvtc6.webp",
+    "size": [
+      980,
+      1090
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "muscle-monster",
+    "path": "onboarding/icons/muscle-monster/006-lucky-wheel.png",
+    "bytes": 736059,
+    "sha256": "334807c594c8b6a3442984c2182d9590e42c810c6c316e08c9e8384a2fc7fa8c"
+  },
+  {
+    "screen_id": "spl_3idxq",
+    "label": "shred-logo",
+    "bbox": [
+      130,
+      865,
+      972,
+      1472
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/welcome-screen-002-spl_3idxq.webp",
+    "size": [
+      842,
+      607
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/001-shred-logo.png",
+    "bytes": 119476,
+    "sha256": "f56e1c29c7ae017a9ea4ec4b6b5c83aa0675ae9a5fa0eb8b329dd3bd52afc769"
+  },
+  {
+    "screen_id": "onb_b2rez",
+    "label": "hello-wave",
+    "bbox": [
+      702,
+      724,
+      918,
+      981
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/onboarding-005-onb_b2rez.webp",
+    "size": [
+      216,
+      257
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/002-hello-wave.png",
+    "bytes": 36215,
+    "sha256": "04c5a3ba242223910a058abb4793a0837fe34a6fd33f83d2eb458a79b42bdd60"
+  },
+  {
+    "screen_id": "onb_b2rez",
+    "label": "gear-outline",
+    "bbox": [
+      43,
+      1472,
+      1048,
+      2336
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/onboarding-005-onb_b2rez.webp",
+    "size": [
+      1005,
+      864
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/003-gear-outline.png",
+    "bytes": 122415,
+    "sha256": "cb17cbe5b1aea526370f0214efadc479b0a3bdaf773a5c4ac59bbccf35da4156"
+  },
+  {
+    "screen_id": "onb_kbko7",
+    "label": "goal-bigger",
+    "bbox": [
+      97,
+      771,
+      248,
+      934
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/onboarding-012-onb_kbko7.webp",
+    "size": [
+      151,
+      163
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/004-goal-bigger.png",
+    "bytes": 11519,
+    "sha256": "2c0ca8a582a66d9e90a89c090661bc1a91f57c3764f49a78a3e1f592b032042c"
+  },
+  {
+    "screen_id": "onb_kbko7",
+    "label": "goal-shredded",
+    "bbox": [
+      97,
+      1063,
+      248,
+      1238
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/onboarding-012-onb_kbko7.webp",
+    "size": [
+      151,
+      175
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/005-goal-shredded.png",
+    "bytes": 13476,
+    "sha256": "b60c4fc4e992a4e72c17196ecc0a363884e1d0dcd64484576ebbe2177987dc2f"
+  },
+  {
+    "screen_id": "onb_kbko7",
+    "label": "goal-loseweight",
+    "bbox": [
+      97,
+      1378,
+      248,
+      1542
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/onboarding-012-onb_kbko7.webp",
+    "size": [
+      151,
+      164
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/006-goal-loseweight.png",
+    "bytes": 11360,
+    "sha256": "cd2415fbad66ce748f3f31965da07cd302091a3523ca92e16927b63c822a78b2"
+  },
+  {
+    "screen_id": "onb_wk0gk",
+    "label": "personal-training-whistle",
+    "bbox": [
+      97,
+      911,
+      227,
+      1051
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/onboarding-018-onb_wk0gk.webp",
+    "size": [
+      130,
+      140
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/007-personal-training-whistle.png",
+    "bytes": 7226,
+    "sha256": "89603ee187c8219c9018c348036db72ec9ac9300b5c369edbf5f27cc8dee394a"
+  },
+  {
+    "screen_id": "onb_wk0gk",
+    "label": "video-class",
+    "bbox": [
+      97,
+      1203,
+      227,
+      1367
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/onboarding-018-onb_wk0gk.webp",
+    "size": [
+      130,
+      164
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/008-video-class.png",
+    "bytes": 5659,
+    "sha256": "6c301c157c445b082ab59cc6dc589d06cc54bad05e13d0795786ef8fc40b8abe"
+  },
+  {
+    "screen_id": "onb_j6ue6",
+    "label": "equipment-dumbbell",
+    "bbox": [
+      594,
+      677,
+      724,
+      794
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/onboarding-019-onb_j6ue6.webp",
+    "size": [
+      130,
+      117
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/009-equipment-dumbbell.png",
+    "bytes": 9186,
+    "sha256": "36b7000af87325ccb4b822f0dddf1a36aa57cd2db51f405c3440ee2fc474ea9b"
+  },
+  {
+    "screen_id": "onb_j6ue6",
+    "label": "equipment-kettlebell",
+    "bbox": [
+      346,
+      864,
+      454,
+      958
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/onboarding-019-onb_j6ue6.webp",
+    "size": [
+      108,
+      94
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/010-equipment-kettlebell.png",
+    "bytes": 8267,
+    "sha256": "dc37690b9a50b562069ae742e8691add62bb721b6a1dd329f76cddda3e934b3b"
+  },
+  {
+    "screen_id": "onb_j6ue6",
+    "label": "equipment-bands",
+    "bbox": [
+      821,
+      864,
+      918,
+      958
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/onboarding-019-onb_j6ue6.webp",
+    "size": [
+      97,
+      94
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/011-equipment-bands.png",
+    "bytes": 5211,
+    "sha256": "772fa1475a2c32403e3417f892cd45e4cb350237288ed4224683e0d64bc6966c"
+  },
+  {
+    "screen_id": "onb_0ndi7",
+    "label": "coach-supportive",
+    "bbox": [
+      97,
+      841,
+      216,
+      981
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/onboarding-020-onb_0ndi7.webp",
+    "size": [
+      119,
+      140
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/012-coach-supportive.png",
+    "bytes": 12225,
+    "sha256": "0a439da700d05e54f5b232dded20271c55e0507ef96e6c361c3cd6c1dab40076"
+  },
+  {
+    "screen_id": "onb_0ndi7",
+    "label": "coach-motivational",
+    "bbox": [
+      97,
+      1086,
+      216,
+      1203
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/onboarding-020-onb_0ndi7.webp",
+    "size": [
+      119,
+      117
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/013-coach-motivational.png",
+    "bytes": 9690,
+    "sha256": "67e703686e55170e49e73a7072e059a80216617c33cb479efbc9444fe607bb8d"
+  },
+  {
+    "screen_id": "onb_0ndi7",
+    "label": "coach-disciplined",
+    "bbox": [
+      97,
+      1320,
+      216,
+      1448
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/onboarding-020-onb_0ndi7.webp",
+    "size": [
+      119,
+      128
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/014-coach-disciplined.png",
+    "bytes": 7976,
+    "sha256": "2e02d840597c9a2f86973510deac285074a4b87b038cee71a7a3f906283a4c1f"
+  },
+  {
+    "screen_id": "onb_0ndi7",
+    "label": "coach-tough-love",
+    "bbox": [
+      97,
+      1588,
+      216,
+      1705
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/onboarding-020-onb_0ndi7.webp",
+    "size": [
+      119,
+      117
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/015-coach-tough-love.png",
+    "bytes": 9559,
+    "sha256": "7823c961bad69d2c063accef69b0917d0c6093f1a1b20061660f48779c2f5ff0"
+  },
+  {
+    "screen_id": "onb_0ndi7",
+    "label": "coach-drill-sergeant",
+    "bbox": [
+      97,
+      1845,
+      216,
+      1962
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/onboarding-020-onb_0ndi7.webp",
+    "size": [
+      119,
+      117
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/016-coach-drill-sergeant.png",
+    "bytes": 6817,
+    "sha256": "54e87f3c786d07a69a1a6582a19c6dc83bdced996757cd59c84f45c76b75ff65"
+  },
+  {
+    "screen_id": "onb_e3o2t",
+    "label": "forge-hammer",
+    "bbox": [
+      151,
+      619,
+      227,
+      701
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/onboarding-032-onb_e3o2t.webp",
+    "size": [
+      76,
+      82
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/017-forge-hammer.png",
+    "bytes": 8205,
+    "sha256": "88447d680a45947c54df0c79d0ff64a6b19ab8a579a0d5e3c0cab095c78cbad8"
+  },
+  {
+    "screen_id": "onb_e3o2t",
+    "label": "plan-goal-target",
+    "bbox": [
+      119,
+      1215,
+      227,
+      1320
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/onboarding-032-onb_e3o2t.webp",
+    "size": [
+      108,
+      105
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/018-plan-goal-target.png",
+    "bytes": 10082,
+    "sha256": "8932d3be151a93d1f686f3699eafa6cdbb7403f5643a40fa16a80acee9a13ea3"
+  },
+  {
+    "screen_id": "onb_e3o2t",
+    "label": "plan-calendar",
+    "bbox": [
+      583,
+      1215,
+      680,
+      1320
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/onboarding-032-onb_e3o2t.webp",
+    "size": [
+      97,
+      105
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/019-plan-calendar.png",
+    "bytes": 5216,
+    "sha256": "1a8dd7fc7413a7d64e24b009534a7dbf6f163453008320b488ba5e0df902ae55"
+  },
+  {
+    "screen_id": "onb_e3o2t",
+    "label": "plan-level-cube",
+    "bbox": [
+      119,
+      1355,
+      227,
+      1460
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/onboarding-032-onb_e3o2t.webp",
+    "size": [
+      108,
+      105
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/020-plan-level-cube.png",
+    "bytes": 8210,
+    "sha256": "4788625fc426ae0f6a013a969ba935ebb2ff6cee6e99b753138591058e693e29"
+  },
+  {
+    "screen_id": "onb_e3o2t",
+    "label": "plan-dumbbell",
+    "bbox": [
+      583,
+      1355,
+      691,
+      1460
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/onboarding-032-onb_e3o2t.webp",
+    "size": [
+      108,
+      105
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/021-plan-dumbbell.png",
+    "bytes": 6095,
+    "sha256": "c275987a727c43d19859febf1d43d5c819aa185a551f5b463980b13f71b7c5de"
+  },
+  {
+    "screen_id": "onb_e3o2t",
+    "label": "coach-adam-cutout",
+    "bbox": [
+      43,
+      1729,
+      367,
+      2079
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/onboarding-032-onb_e3o2t.webp",
+    "size": [
+      324,
+      350
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/022-coach-adam-cutout.png",
+    "bytes": 95919,
+    "sha256": "50d64f53b49335f2c003e195724ae03cd7337850786c570297199ec18eb5df61"
+  },
+  {
+    "screen_id": "onb_mqnto",
+    "label": "apple-health-logo",
+    "bbox": [
+      410,
+      362,
+      670,
+      631
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/onboarding-025-onb_mqnto.webp",
+    "size": [
+      260,
+      269
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/023-apple-health-logo.png",
+    "bytes": 19557,
+    "sha256": "84300d5671de4202913bf8832b6983a9bf859081b557662e1d26458d53259cd9"
+  },
+  {
+    "screen_id": "onb_i6j82",
+    "label": "social-leaderboard",
+    "bbox": [
+      108,
+      409,
+      994,
+      1343
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/onboarding-004-onb_i6j82.webp",
+    "size": [
+      886,
+      934
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/024-social-leaderboard.png",
+    "bytes": 263987,
+    "sha256": "a9235e9b8422ceee4c51908ee87f7df82d66664292477e4c49a8def2729bb940"
+  },
+  {
+    "screen_id": "pay_jcd85",
+    "label": "workout-mockups",
+    "bbox": [
+      117,
+      0,
+      959,
+      519
+    ],
+    "note": "Референсный crop исходного изображения в пикселях, с фоном. Имя cutout обозначает фигуру, прозрачность не предполагается.",
+    "source_local_file": "apps/shred/screens/paywall-001-pay_jcd85.webp",
+    "size": [
+      842,
+      519
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "shred",
+    "path": "onboarding/icons/shred/025-workout-mockups.png",
+    "bytes": 253891,
+    "sha256": "8ce4b30ce40dadfdf85c34d341dca05880aceb8b34b71ff93694e8acacbed331"
+  },
+  {
+    "screen_id": "spl_vbhli",
+    "label": "symmetry-symbol",
+    "bbox": [
+      356,
+      865,
+      734,
+      1472
+    ],
+    "note": "Геометрический символ S. Координаты в пикселях исходного файла.",
+    "source_local_file": "apps/symmetry/screens/welcome-screen-002-spl_vbhli.webp",
+    "size": [
+      378,
+      607
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "symmetry",
+    "path": "onboarding/icons/symmetry/001-symmetry-symbol.png",
+    "bytes": 52399,
+    "sha256": "57b20a7bcd465be358a863fb417a07d35f9c08ebffe3f2decd696f249cbbc34e"
+  },
+  {
+    "screen_id": "onb_a6f6k",
+    "label": "supporting-coach",
+    "bbox": [
+      119,
+      572,
+      983,
+      1635
+    ],
+    "note": "Иллюстрация поддерживающего тренера. Координаты в пикселях исходного файла.",
+    "source_local_file": "apps/symmetry/screens/onboarding-015-onb_a6f6k.webp",
+    "size": [
+      864,
+      1063
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "symmetry",
+    "path": "onboarding/icons/symmetry/002-supporting-coach.png",
+    "bytes": 471963,
+    "sha256": "74341009d110937c8ed8472eee523bc7ad7723d9e8bac28782cc108489d91c27"
+  },
+  {
+    "screen_id": "onb_u5zqo",
+    "label": "abandonment-illustration",
+    "bbox": [
+      270,
+      350,
+      1069,
+      1705
+    ],
+    "note": "Персонаж и полотенце на красном фоне. Координаты в пикселях исходного файла.",
+    "source_local_file": "apps/symmetry/screens/onboarding-016-onb_u5zqo.webp",
+    "size": [
+      799,
+      1355
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "symmetry",
+    "path": "onboarding/icons/symmetry/003-abandonment-illustration.png",
+    "bytes": 438196,
+    "sha256": "e3ff49e5e4f5d6c28bddbdc70ad7437c4703f1b463e56268d22e4b834e7f4b06"
+  },
+  {
+    "screen_id": "onb_jo0u2",
+    "label": "mirror-illustration",
+    "bbox": [
+      43,
+      467,
+      1058,
+      1682
+    ],
+    "note": "Персонаж у зеркала; референс проблемной подачи. Координаты в пикселях исходного файла.",
+    "source_local_file": "apps/symmetry/screens/onboarding-018-onb_jo0u2.webp",
+    "size": [
+      1015,
+      1215
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "symmetry",
+    "path": "onboarding/icons/symmetry/004-mirror-illustration.png",
+    "bytes": 785908,
+    "sha256": "7eb37dc0f61887e1a853aa13cd612959dc8d2acabdba2cb3a8d29b9eb950c2da"
+  },
+  {
+    "screen_id": "onb_a2jmn",
+    "label": "gaming-illustration",
+    "bbox": [
+      27,
+      701,
+      1069,
+      1717
+    ],
+    "note": "Игровая метафора. Координаты в пикселях исходного файла.",
+    "source_local_file": "apps/symmetry/screens/onboarding-020-onb_a2jmn.webp",
+    "size": [
+      1042,
+      1016
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "symmetry",
+    "path": "onboarding/icons/symmetry/005-gaming-illustration.png",
+    "bytes": 781116,
+    "sha256": "e30b1c01b6527fdeacce150ac22dd82867db770b7fbbe3952650802a8d89ffbd"
+  },
+  {
+    "screen_id": "onb_6nnm7",
+    "label": "muscle-rank-labels",
+    "bbox": [
+      38,
+      304,
+      983,
+      1495
+    ],
+    "note": "Анатомическая карта с тремя rank-labels. Координаты в пикселях исходного файла.",
+    "source_local_file": "apps/symmetry/screens/onboarding-021-onb_6nnm7.webp",
+    "size": [
+      945,
+      1191
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "symmetry",
+    "path": "onboarding/icons/symmetry/006-muscle-rank-labels.png",
+    "bytes": 552317,
+    "sha256": "5e618ecaf169ed1141aacd28063ca4bb07279850a84f8ca3d18b42e13d8fd387"
+  },
+  {
+    "screen_id": "onb_iqore",
+    "label": "bodyrank-outline",
+    "bbox": [
+      205,
+      502,
+      886,
+      1740
+    ],
+    "note": "Пустая анатомическая карта. Координаты в пикселях исходного файла.",
+    "source_local_file": "apps/symmetry/screens/onboarding-022-onb_iqore.webp",
+    "size": [
+      681,
+      1238
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "symmetry",
+    "path": "onboarding/icons/symmetry/007-bodyrank-outline.png",
+    "bytes": 243992,
+    "sha256": "9337e0b14d7a78695693d856a8df4b702cb56a2b852f79538225c8fedd17c41a"
+  },
+  {
+    "screen_id": "onb_le0zw",
+    "label": "bodyrank-gold",
+    "bbox": [
+      184,
+      514,
+      896,
+      1740
+    ],
+    "note": "Золотая карта — состояние повышения ранга. Координаты в пикселях исходного файла.",
+    "source_local_file": "apps/symmetry/screens/onboarding-025-onb_le0zw.webp",
+    "size": [
+      712,
+      1226
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "symmetry",
+    "path": "onboarding/icons/symmetry/008-bodyrank-gold.png",
+    "bytes": 475084,
+    "sha256": "9d1e95b30cdc0f32fc18a19162329595a6150b13ec20c012df2810a1035733e8"
+  },
+  {
+    "screen_id": "onb_iqore",
+    "label": "rank-gems",
+    "bbox": [
+      43,
+      1834,
+      1058,
+      2079
+    ],
+    "note": "Пять ранговых значков с подписями. Координаты в пикселях исходного файла.",
+    "source_local_file": "apps/symmetry/screens/onboarding-022-onb_iqore.webp",
+    "size": [
+      1015,
+      245
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "symmetry",
+    "path": "onboarding/icons/symmetry/009-rank-gems.png",
+    "bytes": 131565,
+    "sha256": "f8fa08ca518bd25025700cc72d58ce842cd9ef6ff40426025e7c6af00777c022"
+  },
+  {
+    "screen_id": "onb_pjrcg",
+    "label": "equipment-category-icons",
+    "bbox": [
+      43,
+      467,
+      1048,
+      1332
+    ],
+    "note": "Четыре пиктограммы пресетов оборудования. Координаты в пикселях исходного файла.",
+    "source_local_file": "apps/symmetry/screens/onboarding-026-onb_pjrcg.webp",
+    "size": [
+      1005,
+      865
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "symmetry",
+    "path": "onboarding/icons/symmetry/010-equipment-category-icons.png",
+    "bytes": 200639,
+    "sha256": "d2d06a87f8828dc9f19eb985490c5d378a4d059382fbf18f55e5a69a4a61c5f8"
+  },
+  {
+    "screen_id": "onb_fsdaf",
+    "label": "pain-zone-grid",
+    "bbox": [
+      49,
+      397,
+      1048,
+      1787
+    ],
+    "note": "Шесть локализованных зон боли; изображения UI, не диагностика. Координаты в пикселях исходного файла.",
+    "source_local_file": "apps/symmetry/screens/onboarding-033-onb_fsdaf.webp",
+    "size": [
+      999,
+      1390
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "symmetry",
+    "path": "onboarding/icons/symmetry/011-pain-zone-grid.png",
+    "bytes": 391259,
+    "sha256": "a9fee382d2ebf5984f575d56b0792441e77f84482568cc86b6ba377d70790bc9"
+  },
+  {
+    "screen_id": "onb_aw8wu",
+    "label": "commitment-fingerprint",
+    "bbox": [
+      437,
+      1857,
+      643,
+      2126
+    ],
+    "note": "Символ отпечатка для жеста обещания. Координаты в пикселях исходного файла.",
+    "source_local_file": "apps/symmetry/screens/onboarding-037-onb_aw8wu.webp",
+    "size": [
+      206,
+      269
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "symmetry",
+    "path": "onboarding/icons/symmetry/012-commitment-fingerprint.png",
+    "bytes": 75348,
+    "sha256": "52114cec072b11c29003730a6e3f16bcd747bdea1c78ba84d8cb39d42459dd3e"
+  },
+  {
+    "screen_id": "onb_nz1af",
+    "label": "gift-illustration",
+    "bbox": [
+      140,
+      456,
+      940,
+      1285
+    ],
+    "note": "Синяя подарочная коробка. Координаты в пикселях исходного файла.",
+    "source_local_file": "apps/symmetry/screens/onboarding-040-onb_nz1af.webp",
+    "size": [
+      800,
+      829
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "symmetry",
+    "path": "onboarding/icons/symmetry/013-gift-illustration.png",
+    "bytes": 242228,
+    "sha256": "7123b51f03db019629e76c2e7757afd30c628bc6e3041f2fde87fbd6b52d2641"
+  },
+  {
+    "screen_id": "onb_kfcru",
+    "label": "progress-comparison",
+    "bbox": [
+      54,
+      853,
+      1026,
+      1530
+    ],
+    "note": "Условный сравнительный график без шкал. Координаты в пикселях исходного файла.",
+    "source_local_file": "apps/symmetry/screens/onboarding-019-onb_kfcru.webp",
+    "size": [
+      972,
+      677
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "symmetry",
+    "path": "onboarding/icons/symmetry/014-progress-comparison.png",
+    "bytes": 196801,
+    "sha256": "40a5b4536d356cbc1e9ca0e33e93e80108bfcc2cb538cd391c16d522cc3acc5d"
+  },
+  {
+    "screen_id": "spl_cwgst",
+    "label": "gravl-symbol",
+    "bbox": [
+      400,
+      1005,
+      680,
+      1355
+    ],
+    "note": "Референсная область в пикселях оригинала; фон сохранён. Иконки в размытых миниатюрах оборудования не восстанавливались.",
+    "source_local_file": "apps/gravl/screens/welcome-screen-002-spl_cwgst.webp",
+    "size": [
+      280,
+      350
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gravl",
+    "path": "onboarding/icons/gravl/001-gravl-symbol.png",
+    "bytes": 37145,
+    "sha256": "51648bae90e2f8eaf28c93530cd5dd8a818f8552a156178fdc4e4a2544b74ef3"
+  },
+  {
+    "screen_id": "spl_c5488",
+    "label": "workout-log-mockups",
+    "bbox": [
+      22,
+      841,
+      1015,
+      1870
+    ],
+    "note": "Референсная область в пикселях оригинала; фон сохранён. Иконки в размытых миниатюрах оборудования не восстанавливались.",
+    "source_local_file": "apps/gravl/screens/welcome-screen-003-spl_c5488.webp",
+    "size": [
+      993,
+      1029
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gravl",
+    "path": "onboarding/icons/gravl/002-workout-log-mockups.png",
+    "bytes": 466049,
+    "sha256": "6db55fe70f5ffcd603d4f58a8644864138c818ec5243d9b9f9a2e5e2f5182568"
+  },
+  {
+    "screen_id": "onb_v71vj",
+    "label": "progress-badge-mockups",
+    "bbox": [
+      22,
+      841,
+      1026,
+      1869
+    ],
+    "note": "Референсная область в пикселях оригинала; фон сохранён. Иконки в размытых миниатюрах оборудования не восстанавливались.",
+    "source_local_file": "apps/gravl/screens/onboarding-002-onb_v71vj.webp",
+    "size": [
+      1004,
+      1028
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gravl",
+    "path": "onboarding/icons/gravl/003-progress-badge-mockups.png",
+    "bytes": 415900,
+    "sha256": "8534f44d6d63ffbaab9b3d084352edbb76752dccaaf3bbb32154c8a50a30c4c3"
+  },
+  {
+    "screen_id": "onb_mhak3",
+    "label": "health-permission-mockup",
+    "bbox": [
+      173,
+      327,
+      918,
+      1378
+    ],
+    "note": "Референсная область в пикселях оригинала; фон сохранён. Иконки в размытых миниатюрах оборудования не восстанавливались.",
+    "source_local_file": "apps/gravl/screens/onboarding-011-onb_mhak3.webp",
+    "size": [
+      745,
+      1051
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gravl",
+    "path": "onboarding/icons/gravl/004-health-permission-mockup.png",
+    "bytes": 169137,
+    "sha256": "8c86cdd18c0771e9b99ef1155a9ce8073db41547ba5cbc743372a4690b6ce7f9"
+  },
+  {
+    "screen_id": "onb_vgdsa",
+    "label": "fullbody-session-1",
+    "bbox": [
+      32,
+      1460,
+      216,
+      1652
+    ],
+    "note": "Референсная область в пикселях оригинала; фон сохранён. Иконки в размытых миниатюрах оборудования не восстанавливались.",
+    "source_local_file": "apps/gravl/screens/onboarding-020-onb_vgdsa.webp",
+    "size": [
+      184,
+      192
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gravl",
+    "path": "onboarding/icons/gravl/005-fullbody-session-1.png",
+    "bytes": 35687,
+    "sha256": "f0e869d87e816e44d668822f6cef9b6d492273a6a0be562a8cc81d3d613f80bb"
+  },
+  {
+    "screen_id": "onb_vgdsa",
+    "label": "fullbody-session-2",
+    "bbox": [
+      32,
+      1670,
+      216,
+      1869
+    ],
+    "note": "Референсная область в пикселях оригинала; фон сохранён. Иконки в размытых миниатюрах оборудования не восстанавливались.",
+    "source_local_file": "apps/gravl/screens/onboarding-020-onb_vgdsa.webp",
+    "size": [
+      184,
+      199
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gravl",
+    "path": "onboarding/icons/gravl/006-fullbody-session-2.png",
+    "bytes": 35303,
+    "sha256": "7dff56564b4ec256c6ae14738ce89055e4d640ffe70379a5940a6bd362cf7627"
+  },
+  {
+    "screen_id": "onb_tkj4o",
+    "label": "strength-score-mockups",
+    "bbox": [
+      151,
+      420,
+      929,
+      1308
+    ],
+    "note": "Референсная область в пикселях оригинала; фон сохранён. Иконки в размытых миниатюрах оборудования не восстанавливались.",
+    "source_local_file": "apps/gravl/screens/onboarding-021-onb_tkj4o.webp",
+    "size": [
+      778,
+      888
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gravl",
+    "path": "onboarding/icons/gravl/007-strength-score-mockups.png",
+    "bytes": 300992,
+    "sha256": "056b90dc0d0faafb8a32067cc2a47a4952578eb8b79642608b643a426251476c"
+  },
+  {
+    "screen_id": "onb_wlfj3",
+    "label": "split-ai",
+    "bbox": [
+      38,
+      794,
+      113,
+      911
+    ],
+    "note": "Референсная область в пикселях оригинала; фон сохранён. Иконки в размытых миниатюрах оборудования не восстанавливались.",
+    "source_local_file": "apps/gravl/screens/onboarding-019-onb_wlfj3.webp",
+    "size": [
+      75,
+      117
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gravl",
+    "path": "onboarding/icons/gravl/008-split-ai.png",
+    "bytes": 7820,
+    "sha256": "374b12f1180320c641c7e06f8d0c90039314aaa4f3b3961493fcd49cd33c642e"
+  },
+  {
+    "screen_id": "onb_wlfj3",
+    "label": "split-recovery",
+    "bbox": [
+      38,
+      993,
+      113,
+      1098
+    ],
+    "note": "Референсная область в пикселях оригинала; фон сохранён. Иконки в размытых миниатюрах оборудования не восстанавливались.",
+    "source_local_file": "apps/gravl/screens/onboarding-019-onb_wlfj3.webp",
+    "size": [
+      75,
+      105
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gravl",
+    "path": "onboarding/icons/gravl/009-split-recovery.png",
+    "bytes": 7052,
+    "sha256": "c09fe40a378c7633601b2586176b49dca1f88b60181a33c8ee52dd463af6edaa"
+  },
+  {
+    "screen_id": "onb_wlfj3",
+    "label": "split-library",
+    "bbox": [
+      38,
+      1308,
+      113,
+      1402
+    ],
+    "note": "Референсная область в пикселях оригинала; фон сохранён. Иконки в размытых миниатюрах оборудования не восстанавливались.",
+    "source_local_file": "apps/gravl/screens/onboarding-019-onb_wlfj3.webp",
+    "size": [
+      75,
+      94
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gravl",
+    "path": "onboarding/icons/gravl/010-split-library.png",
+    "bytes": 5029,
+    "sha256": "032a396fdaf3ff7f0ab9ad3125fd4be5b299fdbeb481fbc6b6eee08fefafddcc"
+  },
+  {
+    "screen_id": "onb_31bl2",
+    "label": "notification-score-up",
+    "bbox": [
+      82,
+      1390,
+      138,
+      1460
+    ],
+    "note": "Референсная область в пикселях оригинала; фон сохранён. Иконки в размытых миниатюрах оборудования не восстанавливались.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "apps/gravl/screens/onboarding-025-onb_31bl2.webp",
+    "size": [
+      56,
+      70
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gravl",
+    "path": "onboarding/icons/gravl/011-notification-score-up.png",
+    "bytes": 5323,
+    "sha256": "1d76a6506abee35c73dd46f35ffad20376e40394f3b727a8c6210835096af5fd"
+  },
+  {
+    "screen_id": "onb_0j7px",
+    "label": "strength-forecast-chart",
+    "bbox": [
+      216,
+      783,
+      788,
+      1285
+    ],
+    "note": "Референсная область в пикселях оригинала; фон сохранён. Иконки в размытых миниатюрах оборудования не восстанавливались.",
+    "source_local_file": "apps/gravl/screens/onboarding-024-onb_0j7px.webp",
+    "size": [
+      572,
+      502
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gravl",
+    "path": "onboarding/icons/gravl/012-strength-forecast-chart.png",
+    "bytes": 54528,
+    "sha256": "8d1224d61f9f46aa23c13682af294a890fbedfbd476b1fda0e3f79381bc6b039"
+  },
+  {
+    "screen_id": "pay_ebq0z",
+    "label": "discount-coupon-art",
+    "bbox": [
+      0,
+      139,
+      1170,
+      1114
+    ],
+    "note": "Референсная область в пикселях оригинала; фон сохранён. Иконки в размытых миниатюрах оборудования не восстанавливались.",
+    "source_local_file": "apps/gravl/screens/paywall-002-pay_ebq0z.webp",
+    "size": [
+      1170,
+      975
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gravl",
+    "path": "onboarding/icons/gravl/013-discount-coupon-art.png",
+    "bytes": 527664,
+    "sha256": "daf97f89da67e5da369a6b266f663effce035b68efad7eeef29a4249001f775c"
+  },
+  {
+    "screen_id": "spl_hscsq",
+    "label": "peloton-symbol",
+    "bbox": [
+      420,
+      1020,
+      650,
+      1320
+    ],
+    "note": "Растровый знак с исходным чёрным фоном; не вектор.",
+    "source_local_file": "apps/peloton/screens/welcome-screen-002-spl_hscsq.webp",
+    "size": [
+      230,
+      300
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "peloton",
+    "path": "onboarding/icons/peloton/001-peloton-symbol.png",
+    "bytes": 22823,
+    "sha256": "f3f6724763d281b49497f79b58635a4e5891b7c8eae7924b708acb8bead7d487"
+  },
+  {
+    "screen_id": "onb_7td2d",
+    "label": "password-visibility",
+    "bbox": [
+      916,
+      512,
+      1000,
+      570
+    ],
+    "note": "Иконка видимости пароля; границы приблизительно по пикселям.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "apps/peloton/screens/onboarding-003-onb_7td2d.webp",
+    "size": [
+      84,
+      58
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "peloton",
+    "path": "onboarding/icons/peloton/002-password-visibility.png",
+    "bytes": 5870,
+    "sha256": "d33b6160855daa88db247a37fc6ac5313fb4f2b9c61fe4b8707e9060b6ae8af3"
+  },
+  {
+    "screen_id": "spl_zejat",
+    "label": "mci-wordmark",
+    "bbox": [
+      221,
+      1052,
+      859,
+      1262
+    ],
+    "note": "Белый фирменный wordmark. Bbox в исходных пикселях.",
+    "source_local_file": "apps/mci/screens/welcome-screen-002-spl_zejat.webp",
+    "size": [
+      638,
+      210
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "mci",
+    "path": "onboarding/icons/mci/001-mci-wordmark.png",
+    "bytes": 28670,
+    "sha256": "24b70ede2947a86468157b02b7ba3cd68a31819433b28f9618637cd767dac547"
+  },
+  {
+    "screen_id": "onb_yi6fa",
+    "label": "innovation-support-mark",
+    "bbox": [
+      329,
+      1086,
+      740,
+      1308
+    ],
+    "note": "Знак упомянутого министерства; не трактовать как медицинскую сертификацию. Bbox в исходных пикселях.",
+    "source_local_file": "apps/mci/screens/onboarding-003-onb_yi6fa.webp",
+    "size": [
+      411,
+      222
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "mci",
+    "path": "onboarding/icons/mci/002-innovation-support-mark.png",
+    "bytes": 38888,
+    "sha256": "36c88721dc8d29ed8a398fea5a0113b76d0b94e752b6765db0255efab5ee842e"
+  },
+  {
+    "screen_id": "onb_yierk",
+    "label": "apple-health-icon",
+    "bbox": [
+      443,
+      818,
+      637,
+      1023
+    ],
+    "note": "Иконка Apple Health. Bbox в исходных пикселях.",
+    "source_local_file": "apps/mci/screens/onboarding-006-onb_yierk.webp",
+    "size": [
+      194,
+      205
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "mci",
+    "path": "onboarding/icons/mci/003-apple-health-icon.png",
+    "bytes": 14236,
+    "sha256": "5829cb2ab7e8d18715dcb2df0cd0b429e0b41e5cb4c5713427f1373422f65a17"
+  },
+  {
+    "screen_id": "onb_brkeu",
+    "label": "profile-avatar",
+    "bbox": [
+      486,
+      479,
+      983,
+      1845
+    ],
+    "note": "3D-аватар пола; это условная модель. Bbox в исходных пикселях.",
+    "source_local_file": "apps/mci/screens/onboarding-007-onb_brkeu.webp",
+    "size": [
+      497,
+      1366
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "mci",
+    "path": "onboarding/icons/mci/004-profile-avatar.png",
+    "bytes": 323938,
+    "sha256": "94ed976eaf2567775039b4178c5047eb1b6cfef6cd6a031cde66231d8b60462a"
+  },
+  {
+    "screen_id": "onb_t10h9",
+    "label": "body-fat-avatar",
+    "bbox": [
+      464,
+      631,
+      972,
+      2037
+    ],
+    "note": "Модель состава тела; не реальный пользователь. Bbox в исходных пикселях.",
+    "source_local_file": "apps/mci/screens/onboarding-011-onb_t10h9.webp",
+    "size": [
+      508,
+      1406
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "mci",
+    "path": "onboarding/icons/mci/005-body-fat-avatar.png",
+    "bytes": 434996,
+    "sha256": "ed93de16786acca4b22c92fcb2e26cfcf8b2242b4154d227681de35db91bd111"
+  },
+  {
+    "screen_id": "onb_l98wu",
+    "label": "green-particle-ring",
+    "bbox": [
+      38,
+      993,
+      340,
+      1308
+    ],
+    "note": "Иллюстрация фонового расчёта. Bbox в исходных пикселях.",
+    "source_local_file": "apps/mci/screens/onboarding-012-onb_l98wu.webp",
+    "size": [
+      302,
+      315
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "mci",
+    "path": "onboarding/icons/mci/006-green-particle-ring.png",
+    "bytes": 132386,
+    "sha256": "6b8b2d14e1b1b722e72611b9f6e549ab9ab528b8b19076be9aab7392068848a0"
+  },
+  {
+    "screen_id": "onb_k630u",
+    "label": "weekly-plan",
+    "bbox": [
+      22,
+      958,
+      1058,
+      1402
+    ],
+    "note": "Неделя и color-легенда для upper/lower. Bbox в исходных пикселях.",
+    "source_local_file": "apps/mci/screens/onboarding-021-onb_k630u.webp",
+    "size": [
+      1036,
+      444
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "mci",
+    "path": "onboarding/icons/mci/007-weekly-plan.png",
+    "bytes": 126800,
+    "sha256": "73bfbd7fbb4fcc6d456a604b3964aaa6b097a476f8e268b4be06f776d5b1b2a6"
+  },
+  {
+    "screen_id": "onb_l4g3k",
+    "label": "pain-body-hotspots",
+    "bbox": [
+      540,
+      549,
+      1021,
+      1869
+    ],
+    "note": "Модель со всеми видимыми интерактивными зонами. Bbox в исходных пикселях.",
+    "source_local_file": "apps/mci/screens/onboarding-025-onb_l4g3k.webp",
+    "size": [
+      481,
+      1320
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "mci",
+    "path": "onboarding/icons/mci/008-pain-body-hotspots.png",
+    "bytes": 326610,
+    "sha256": "6567c395addf9d8d95f47a6cbb00e5bda4c03ebe80999eb0b3d1286d0892668c"
+  },
+  {
+    "screen_id": "onb_u4zu0",
+    "label": "activity-gauges",
+    "bbox": [
+      76,
+      724,
+      238,
+      1927
+    ],
+    "note": "Вертикальный набор шкал активности; кроп содержит промежутки между иконками. Bbox в исходных пикселях.",
+    "source_local_file": "apps/mci/screens/onboarding-026-onb_u4zu0.webp",
+    "size": [
+      162,
+      1203
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "mci",
+    "path": "onboarding/icons/mci/009-activity-gauges.png",
+    "bytes": 73220,
+    "sha256": "a1b30274d5e85901def20bcdb03e69c9916a56368d36f2ce298ac84d2cad2412"
+  },
+  {
+    "screen_id": "onb_kzsyv",
+    "label": "rest-notification",
+    "bbox": [
+      49,
+      869,
+      1037,
+      1135
+    ],
+    "note": "Карточка напоминания о завершении отдыха. Bbox в исходных пикселях.",
+    "source_local_file": "apps/mci/screens/onboarding-022-onb_kzsyv.webp",
+    "size": [
+      988,
+      266
+    ],
+    "source_analysis": "analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "mci",
+    "path": "onboarding/icons/mci/010-rest-notification.png",
+    "bytes": 89135,
+    "sha256": "68aee7c61b414a32448176616ebf3f9b6df32b98dbd30fb36054998447b35176"
+  },
+  {
+    "label": "muscle-focus-map",
+    "bbox": [
+      165,
+      410,
+      560,
+      790
+    ],
+    "note": "Передняя и задняя анатомические схемы. Координаты720px кадра.",
+    "qa_note": "Final visual crop correction.",
+    "source_local_file": "user-videos/U10/candidates/0122-00118.00s.jpg",
+    "size": [
+      395,
+      380
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "mci",
+    "path": "onboarding/icons/mci/011-muscle-focus-map.png",
+    "bytes": 65040,
+    "sha256": "386130bb052e1402ec32e09830282843c7f4044971e506999522ce8a8065b41a"
+  },
+  {
+    "label": "pain-back-avatar",
+    "bbox": [
+      270,
+      380,
+      655,
+      1270
+    ],
+    "note": "Задний вид модели. Координаты720px кадра.",
+    "source_local_file": "user-videos/U10/candidates/0147-00163.00s.jpg",
+    "size": [
+      385,
+      890
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "mci",
+    "path": "onboarding/icons/mci/012-pain-back-avatar.png",
+    "bytes": 171912,
+    "sha256": "3ea11f96e1b0994261bf48e1e4467dd6220771f97a597d13fe94e347e1bb1ca8"
+  },
+  {
+    "label": "technique-analysis-promo",
+    "bbox": [
+      95,
+      745,
+      640,
+      1256
+    ],
+    "note": "Видимая часть промографики: нижняя граница телефона перекрыта фиксированной панелью в исходной записи. Не достраивалась.",
+    "qa_note": "Final visual crop correction.",
+    "source_local_file": "user-videos/U10/candidates/0177-00215.00s.jpg",
+    "size": [
+      545,
+      511
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "mci",
+    "path": "onboarding/icons/mci/013-technique-analysis-promo.png",
+    "bytes": 143918,
+    "sha256": "2ff3cda91511c4e01dbba28404cc365eeb3a5508124e83940fed05dcea3d71d5"
+  },
+  {
+    "label": "camera-positioning",
+    "bbox": [
+      30,
+      250,
+      675,
+      1080
+    ],
+    "note": "Схема камеры и человека. Координаты720px кадра.",
+    "source_local_file": "user-videos/U10/candidates/0247-00368.50s.jpg",
+    "size": [
+      645,
+      830
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "mci",
+    "path": "onboarding/icons/mci/014-camera-positioning.png",
+    "bytes": 174181,
+    "sha256": "3a652186e0caad2b1f05cb285c00c083f3c5ded21d2d8eb805efc59991e42729"
+  },
+  {
+    "label": "voice-bars",
+    "bbox": [
+      265,
+      540,
+      465,
+      745
+    ],
+    "note": "Синие звуковые полосы. Координаты720px кадра.",
+    "source_local_file": "user-videos/U10/candidates/0277-00391.50s.jpg",
+    "size": [
+      200,
+      205
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "mci",
+    "path": "onboarding/icons/mci/015-voice-bars.png",
+    "bytes": 14320,
+    "sha256": "ba9cef6d260e462818466a46286c406b6cefaef3981359be483b5bdf3b81539d"
+  },
+  {
+    "label": "food-tips-icons",
+    "bbox": [
+      35,
+      915,
+      112,
+      1330
+    ],
+    "note": "Четыре зелёные иконки нижнего листа. Координаты720px кадра.",
+    "source_local_file": "user-videos/U10/candidates/0381-00614.00s.jpg",
+    "size": [
+      77,
+      415
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "mci",
+    "path": "onboarding/icons/mci/016-food-tips-icons.png",
+    "bytes": 18603,
+    "sha256": "0b59b2d26da580bd608100eb37ffd5bef8ae948b33ae9d00ab6583d754af3e1b"
+  },
+  {
+    "label": "rir-battery",
+    "bbox": [
+      595,
+      1090,
+      680,
+      1145
+    ],
+    "note": "Зелёная батарея RIR3+. Координаты720px кадра.",
+    "source_local_file": "user-videos/U10/candidates/0501-00876.50s.jpg",
+    "size": [
+      85,
+      55
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "mci",
+    "path": "onboarding/icons/mci/017-rir-battery.png",
+    "bytes": 6709,
+    "sha256": "dbcaca5571ab8f49b1221fef4202feed4f6ab04a886634f404096b66e8975a94"
+  },
+  {
+    "source_id": "U02-0009",
+    "label": "Логотип TRX",
+    "bbox": [
+      287,
+      80,
+      450,
+      152
+    ],
+    "note": "Wordmark на промо;720px source.",
+    "source_local_file": "user-videos/U02/candidates/0009-00006.50s.jpg",
+    "size": [
+      163,
+      72
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "trx",
+    "path": "onboarding/icons/trx/001-TRX.png",
+    "bytes": 14043,
+    "sha256": "c4ee8d2f9b7230be48bd044cb0d507fc45a7aadc3847b8d036fa71acde8cf6a7"
+  },
+  {
+    "source_id": "U02-0078",
+    "label": "Атлет с подвесными петлями",
+    "bbox": [
+      150,
+      72,
+      620,
+      380
+    ],
+    "note": "Иллюстрация вопроса уровня.",
+    "source_local_file": "user-videos/U02/candidates/0078-00160.00s.jpg",
+    "size": [
+      470,
+      308
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "trx",
+    "path": "onboarding/icons/trx/002-icon.png",
+    "bytes": 34456,
+    "sha256": "c3cc538c82bac084704dba42cbe3198d7ef888840ab575d9fce6d9c05f232c86"
+  },
+  {
+    "source_id": "U02-0112",
+    "label": "Коллаж оборудования",
+    "bbox": [
+      215,
+      89,
+      524,
+      382
+    ],
+    "note": "Предметная иллюстрация финального вопроса.",
+    "source_local_file": "user-videos/U02/candidates/0112-00229.50s.jpg",
+    "size": [
+      309,
+      293
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "trx",
+    "path": "onboarding/icons/trx/003-icon.png",
+    "bytes": 42605,
+    "sha256": "e222f84d5d15104533053f1d4b8db5be893014daa89dfcd3cbc83cc9b1e454cb"
+  },
+  {
+    "source_id": "U11-0006",
+    "label": "Гантель и wordmark",
+    "bbox": [
+      220,
+      635,
+      505,
+      935
+    ],
+    "note": "Исходник720px.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "user-videos/U11/candidates/0006-00004.00s.jpg",
+    "size": [
+      285,
+      300
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "befit",
+    "path": "onboarding/icons/befit/001-wordmark.png",
+    "bytes": 42239,
+    "sha256": "5d6cd3d18e5dca5949ca60a3e3d18682614cdac5bf29bac00007ed9389ede7b1"
+  },
+  {
+    "source_id": "U11-0036",
+    "label": "Анатомическая карта с активными областями",
+    "bbox": [
+      35,
+      570,
+      720,
+      1260
+    ],
+    "note": "Кроп карты с выносками. Частичный референс: фигура обрезана границей исходного экрана; недостающая часть не восстанавливалась.",
+    "source_local_file": "user-videos/U11/candidates/0036-00040.00s.jpg",
+    "size": [
+      685,
+      690
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "befit",
+    "path": "onboarding/icons/befit/002-icon.png",
+    "bytes": 264499,
+    "sha256": "f0cec4252065a04623e8e5dc229ac78e67d95d61f94d2b7fb52c1d47fb8a04c6"
+  },
+  {
+    "source_id": "U11-0038",
+    "label": "Связь Health и BeFit",
+    "bbox": [
+      155,
+      660,
+      627,
+      1150
+    ],
+    "note": "Значки интеграции и подписи.",
+    "source_local_file": "user-videos/U11/candidates/0038-00043.00s.jpg",
+    "size": [
+      472,
+      490
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "befit",
+    "path": "onboarding/icons/befit/003-Health-BeFit.png",
+    "bytes": 105877,
+    "sha256": "dcab92a827ef8a443f68ad68ad09f0aa9c33396f3962f9ae5a34353c7ae17a12"
+  },
+  {
+    "source_id": "U11-0098",
+    "label": "Зелёный flame для streak",
+    "bbox": [
+      282,
+      202,
+      435,
+      356
+    ],
+    "note": "Иконка привычки.",
+    "source_local_file": "user-videos/U11/candidates/0098-00137.50s.jpg",
+    "size": [
+      153,
+      154
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "befit",
+    "path": "onboarding/icons/befit/004-flame-streak.png",
+    "bytes": 16143,
+    "sha256": "218cabdbfd2dcd082aa1d89432e60e2da6cb59c54053b7005750c3877b601bd8"
+  },
+  {
+    "source_id": "U11-0150",
+    "label": "Анатомическое упражнение из preview",
+    "bbox": [
+      275,
+      590,
+      435,
+      790
+    ],
+    "note": "Демонстрация приложения,не руководство по технике.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "user-videos/U11/candidates/0150-00173.00s.jpg",
+    "size": [
+      160,
+      200
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "befit",
+    "path": "onboarding/icons/befit/005-preview.png",
+    "bytes": 23698,
+    "sha256": "f660c8f993d7ed1cea544aa207a5291d826f4e6881c6a23f54369b7c2ceca12e"
+  },
+  {
+    "label": "buddyfit-mark",
+    "bbox": [
+      250,
+      650,
+      470,
+      910
+    ],
+    "note": "Пиксели исходного кадра шириной 720. Области не содержат email/банковских данных; фон сохранён, это reference crop.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "user-videos/U03/candidates/0007-00005.50s.jpg",
+    "size": [
+      220,
+      260
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "buddyfit",
+    "path": "onboarding/icons/buddyfit/001-buddyfit-mark.png",
+    "bytes": 14600,
+    "sha256": "759acc032432ba399cc0fbe502c69821ec022767f894799250951de3af4b27ab"
+  },
+  {
+    "label": "orbit-dumbbell",
+    "bbox": [
+      195,
+      336,
+      290,
+      427
+    ],
+    "note": "Пиксели исходного кадра шириной 720. Области не содержат email/банковских данных; фон сохранён, это reference crop.",
+    "source_local_file": "user-videos/U03/candidates/0183-00153.50s.jpg",
+    "size": [
+      95,
+      91
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "buddyfit",
+    "path": "onboarding/icons/buddyfit/002-orbit-dumbbell.png",
+    "bytes": 8408,
+    "sha256": "20b367b2618caf6f081b8ba9bbef563c8e4e620491c192b174c97c7b1d958b28"
+  },
+  {
+    "label": "orbit-body",
+    "bbox": [
+      483,
+      373,
+      574,
+      465
+    ],
+    "note": "Пиксели исходного кадра шириной 720. Области не содержат email/банковских данных; фон сохранён, это reference crop.",
+    "source_local_file": "user-videos/U03/candidates/0183-00153.50s.jpg",
+    "size": [
+      91,
+      92
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "buddyfit",
+    "path": "onboarding/icons/buddyfit/003-orbit-body.png",
+    "bytes": 8399,
+    "sha256": "b4e9705863e92445b0a6ffb58bee35c02f9dd3c253b35265fcacc0717c4c06e5"
+  },
+  {
+    "label": "orbit-mat",
+    "bbox": [
+      150,
+      717,
+      239,
+      808
+    ],
+    "note": "Пиксели исходного кадра шириной 720. Области не содержат email/банковских данных; фон сохранён, это reference crop.",
+    "source_local_file": "user-videos/U03/candidates/0183-00153.50s.jpg",
+    "size": [
+      89,
+      91
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "buddyfit",
+    "path": "onboarding/icons/buddyfit/004-orbit-mat.png",
+    "bytes": 7708,
+    "sha256": "342c2921b0e4e73b2d7703792dfc7e89ff56606306b6fa7d27255caf23358d9e"
+  },
+  {
+    "label": "orbit-waist",
+    "bbox": [
+      440,
+      753,
+      530,
+      845
+    ],
+    "note": "Пиксели исходного кадра шириной 720. Области не содержат email/банковских данных; фон сохранён, это reference crop.",
+    "source_local_file": "user-videos/U03/candidates/0183-00153.50s.jpg",
+    "size": [
+      90,
+      92
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "buddyfit",
+    "path": "onboarding/icons/buddyfit/005-orbit-waist.png",
+    "bytes": 8234,
+    "sha256": "1b5e0d21d3b17f40ddbf711fdde29e700bf2ef9efe903a443d919b4b3b51f336"
+  },
+  {
+    "label": "orbit-barre",
+    "bbox": [
+      613,
+      803,
+      705,
+      898
+    ],
+    "note": "Пиксели исходного кадра шириной 720. Области не содержат email/банковских данных; фон сохранён, это reference crop.",
+    "source_local_file": "user-videos/U03/candidates/0183-00153.50s.jpg",
+    "size": [
+      92,
+      95
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "buddyfit",
+    "path": "onboarding/icons/buddyfit/006-orbit-barre.png",
+    "bytes": 7670,
+    "sha256": "bcc60c99a7c88bcf2eaf3f3d706b5bb6a67ede42c2523c80fb83f4e45bb21d6d"
+  },
+  {
+    "label": "orbit-running",
+    "bbox": [
+      169,
+      910,
+      260,
+      1004
+    ],
+    "note": "Пиксели исходного кадра шириной 720. Области не содержат email/банковских данных; фон сохранён, это reference crop.",
+    "source_local_file": "user-videos/U03/candidates/0183-00153.50s.jpg",
+    "size": [
+      91,
+      94
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "buddyfit",
+    "path": "onboarding/icons/buddyfit/007-orbit-running.png",
+    "bytes": 8024,
+    "sha256": "9eada53e8ecb15592798b41bdd8eb61cc1f8aa49f84269e98d78a0c77a555885"
+  },
+  {
+    "label": "orbit-yoga",
+    "bbox": [
+      337,
+      942,
+      428,
+      1033
+    ],
+    "note": "Пиксели исходного кадра шириной 720. Области не содержат email/банковских данных; фон сохранён, это reference crop.",
+    "source_local_file": "user-videos/U03/candidates/0183-00153.50s.jpg",
+    "size": [
+      91,
+      91
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "buddyfit",
+    "path": "onboarding/icons/buddyfit/008-orbit-yoga.png",
+    "bytes": 6986,
+    "sha256": "e2f197c57e57c52f66b34393042f73c5a4e9e276a181eb97914508b5a42bb4ab"
+  },
+  {
+    "label": "central-buddyfit",
+    "bbox": [
+      249,
+      478,
+      470,
+      700
+    ],
+    "note": "Пиксели исходного кадра шириной 720. Области не содержат email/банковских данных; фон сохранён, это reference crop.",
+    "source_local_file": "user-videos/U03/candidates/0183-00153.50s.jpg",
+    "size": [
+      221,
+      222
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "buddyfit",
+    "path": "onboarding/icons/buddyfit/009-central-buddyfit.png",
+    "bytes": 20113,
+    "sha256": "e73560f804e25af923677597986ffa18a04aca4682b92aca377ac1bc0917a3e0"
+  },
+  {
+    "label": "back-strength-program",
+    "bbox": [
+      45,
+      530,
+      675,
+      1175
+    ],
+    "note": "Пиксели исходного кадра шириной 720. Области не содержат email/банковских данных; фон сохранён, это reference crop.",
+    "source_local_file": "user-videos/U03/candidates/0232-00216.00s.jpg",
+    "size": [
+      630,
+      645
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "buddyfit",
+    "path": "onboarding/icons/buddyfit/010-back-strength-program.png",
+    "bytes": 268383,
+    "sha256": "9abc72310704092baf799d208041fe0cc94eaed6ecb20afcfa802887278b83be"
+  },
+  {
+    "label": "body-boost-program",
+    "bbox": [
+      45,
+      530,
+      675,
+      1175
+    ],
+    "note": "Пиксели исходного кадра шириной 720. Области не содержат email/банковских данных; фон сохранён, это reference crop.",
+    "source_local_file": "user-videos/U03/candidates/0233-00217.50s.jpg",
+    "size": [
+      630,
+      645
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "buddyfit",
+    "path": "onboarding/icons/buddyfit/011-body-boost-program.png",
+    "bytes": 252096,
+    "sha256": "1a4320e8ce7c05a5d329e70b5f5b1073ae62ef9b2ab9e034193d132203febc1b"
+  },
+  {
+    "label": "green-power-program",
+    "bbox": [
+      45,
+      530,
+      675,
+      1175
+    ],
+    "note": "Пиксели исходного кадра шириной 720. Области не содержат email/банковских данных; фон сохранён, это reference crop.",
+    "source_local_file": "user-videos/U03/candidates/0236-00222.00s.jpg",
+    "size": [
+      630,
+      645
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "buddyfit",
+    "path": "onboarding/icons/buddyfit/012-green-power-program.png",
+    "bytes": 202211,
+    "sha256": "95a477f737778ab1ad4c79b71878e465f9f8e36564bf5ef008db903e6855024a"
+  },
+  {
+    "label": "male-anatomy",
+    "bbox": [
+      45,
+      570,
+      435,
+      1135
+    ],
+    "note": "Пиксели 720px исходного кадра; crop с фоном, не вектор. Изображение содержит только интерфейс/иллюстрацию конкурента.",
+    "source_local_file": "user-videos/U06/candidates/0012-00007.00s.jpg",
+    "size": [
+      390,
+      565
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gymdone",
+    "path": "onboarding/icons/gymdone/001-male-anatomy.png",
+    "bytes": 109593,
+    "sha256": "0e19baf0460d76d6f92b28ffda96a320cf87d419aac138f82db67988bd1c2782"
+  },
+  {
+    "label": "female-anatomy-visible",
+    "bbox": [
+      470,
+      715,
+      688,
+      1010
+    ],
+    "note": "Пиксели 720px исходного кадра; crop с фоном, не вектор. Изображение содержит только интерфейс/иллюстрацию конкурента.",
+    "source_local_file": "user-videos/U06/candidates/0012-00007.00s.jpg",
+    "size": [
+      218,
+      295
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gymdone",
+    "path": "onboarding/icons/gymdone/002-female-anatomy-visible.png",
+    "bytes": 45792,
+    "sha256": "c55b55cc958c8eb93f09c2c374aa1f9c4b26111a2a9b3370cc4ee969cea5d7d5"
+  },
+  {
+    "label": "progression-chart",
+    "bbox": [
+      45,
+      918,
+      675,
+      1244
+    ],
+    "note": "Пиксели 720px исходного кадра; crop с фоном, не вектор. Изображение содержит только интерфейс/иллюстрацию конкурента.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "user-videos/U06/candidates/0051-00065.00s.jpg",
+    "size": [
+      630,
+      326
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gymdone",
+    "path": "onboarding/icons/gymdone/003-progression-chart.png",
+    "bytes": 51214,
+    "sha256": "f19de09f167787f5d0a442166a4d62a771b0971a9e9d73673fc6262e8ccf04d3"
+  },
+  {
+    "label": "forecast-icon",
+    "bbox": [
+      295,
+      510,
+      425,
+      650
+    ],
+    "note": "Пиксели 720px исходного кадра; crop с фоном, не вектор. Изображение содержит только интерфейс/иллюстрацию конкурента.",
+    "source_local_file": "user-videos/U06/candidates/0054-00067.00s.jpg",
+    "size": [
+      130,
+      140
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gymdone",
+    "path": "onboarding/icons/gymdone/004-forecast-icon.png",
+    "bytes": 9113,
+    "sha256": "724d09004b52b29614050f49656a6dca7f926c8af710b9b8ecc88edf84be5a58"
+  },
+  {
+    "label": "health-icon",
+    "bbox": [
+      51,
+      559,
+      132,
+      640
+    ],
+    "note": "Пиксели 720px исходного кадра; crop с фоном, не вектор. Изображение содержит только интерфейс/иллюстрацию конкурента.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "user-videos/U06/candidates/0057-00069.00s.jpg",
+    "size": [
+      81,
+      81
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gymdone",
+    "path": "onboarding/icons/gymdone/005-health-icon.png",
+    "bytes": 6252,
+    "sha256": "d64abbd8c3e42610245ddf77fb0832a01eae74f6930b84fb376f104c939342ae"
+  },
+  {
+    "label": "barbell-icon",
+    "bbox": [
+      48,
+      720,
+      167,
+      811
+    ],
+    "note": "Пиксели 720px исходного кадра; crop с фоном, не вектор. Изображение содержит только интерфейс/иллюстрацию конкурента.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "user-videos/U06/candidates/0045-00057.00s.jpg",
+    "size": [
+      119,
+      91
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gymdone",
+    "path": "onboarding/icons/gymdone/006-barbell-icon.png",
+    "bytes": 7092,
+    "sha256": "70c5ca9ebadaa6cecc02dd1a978628f47a444a0139077dc6be5e97c09d98fc1d"
+  },
+  {
+    "label": "longbar-icon",
+    "bbox": [
+      48,
+      860,
+      167,
+      951
+    ],
+    "note": "Пиксели 720px исходного кадра; crop с фоном, не вектор. Изображение содержит только интерфейс/иллюстрацию конкурента.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "user-videos/U06/candidates/0045-00057.00s.jpg",
+    "size": [
+      119,
+      91
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gymdone",
+    "path": "onboarding/icons/gymdone/007-longbar-icon.png",
+    "bytes": 5676,
+    "sha256": "3186af0badaa928c795307fb6fee70d4751ffbdf5f8b1f5933a2c1cd78d92680"
+  },
+  {
+    "label": "landmine-icon",
+    "bbox": [
+      48,
+      1000,
+      167,
+      1090
+    ],
+    "note": "Пиксели 720px исходного кадра; crop с фоном, не вектор. Изображение содержит только интерфейс/иллюстрацию конкурента.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "user-videos/U06/candidates/0045-00057.00s.jpg",
+    "size": [
+      119,
+      90
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gymdone",
+    "path": "onboarding/icons/gymdone/008-landmine-icon.png",
+    "bytes": 6920,
+    "sha256": "f3b30a2baba47c855e816d0c0407d0b0cdaec9843c1a04de19aec0ed1530715b"
+  },
+  {
+    "label": "shortbar-icon",
+    "bbox": [
+      48,
+      1140,
+      167,
+      1235
+    ],
+    "note": "Пиксели 720px исходного кадра; crop с фоном, не вектор. Изображение содержит только интерфейс/иллюстрацию конкурента.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "user-videos/U06/candidates/0045-00057.00s.jpg",
+    "size": [
+      119,
+      95
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gymdone",
+    "path": "onboarding/icons/gymdone/009-shortbar-icon.png",
+    "bytes": 5630,
+    "sha256": "fea113c78490114bbaf75d3c5dfb3942237b225de754029c76a4ebce06714fdd"
+  },
+  {
+    "label": "exercise-chest-1",
+    "bbox": [
+      32,
+      400,
+      230,
+      615
+    ],
+    "note": "Пиксели 720px исходного кадра; crop с фоном, не вектор. Изображение содержит только интерфейс/иллюстрацию конкурента.",
+    "source_local_file": "user-videos/U06/candidates/0101-00097.50s.jpg",
+    "size": [
+      198,
+      215
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gymdone",
+    "path": "onboarding/icons/gymdone/010-exercise-chest-1.png",
+    "bytes": 25625,
+    "sha256": "1db4ebe1f0e5c87ce59f79c341832c8fc548b0377f10a28dfa3b0e8ed694b299"
+  },
+  {
+    "label": "exercise-chest-2",
+    "bbox": [
+      257,
+      400,
+      457,
+      615
+    ],
+    "note": "Пиксели 720px исходного кадра; crop с фоном, не вектор. Изображение содержит только интерфейс/иллюстрацию конкурента.",
+    "source_local_file": "user-videos/U06/candidates/0101-00097.50s.jpg",
+    "size": [
+      200,
+      215
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gymdone",
+    "path": "onboarding/icons/gymdone/011-exercise-chest-2.png",
+    "bytes": 25732,
+    "sha256": "0667a0e3f2d8d06e5a32cbece8c8829926cd37a6feee5e74cb70313c25f46224"
+  },
+  {
+    "label": "exercise-chest-3",
+    "bbox": [
+      485,
+      400,
+      688,
+      615
+    ],
+    "note": "Пиксели 720px исходного кадра; crop с фоном, не вектор. Изображение содержит только интерфейс/иллюстрацию конкурента.",
+    "source_local_file": "user-videos/U06/candidates/0101-00097.50s.jpg",
+    "size": [
+      203,
+      215
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gymdone",
+    "path": "onboarding/icons/gymdone/012-exercise-chest-3.png",
+    "bytes": 27426,
+    "sha256": "00f9f694b0f47556400b704a6596cb3b37c5fc782084a623ef7c65fc7768577b"
+  },
+  {
+    "label": "exercise-back-1",
+    "bbox": [
+      32,
+      815,
+      230,
+      1030
+    ],
+    "note": "Пиксели 720px исходного кадра; crop с фоном, не вектор. Изображение содержит только интерфейс/иллюстрацию конкурента.",
+    "source_local_file": "user-videos/U06/candidates/0101-00097.50s.jpg",
+    "size": [
+      198,
+      215
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gymdone",
+    "path": "onboarding/icons/gymdone/013-exercise-back-1.png",
+    "bytes": 29660,
+    "sha256": "8b0f4a5d2ffb35d99897ce8f16c2da89392c2bf2873cbbdb1f0d87f63b649874"
+  },
+  {
+    "label": "exercise-back-2",
+    "bbox": [
+      257,
+      815,
+      457,
+      1030
+    ],
+    "note": "Пиксели 720px исходного кадра; crop с фоном, не вектор. Изображение содержит только интерфейс/иллюстрацию конкурента.",
+    "source_local_file": "user-videos/U06/candidates/0101-00097.50s.jpg",
+    "size": [
+      200,
+      215
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gymdone",
+    "path": "onboarding/icons/gymdone/014-exercise-back-2.png",
+    "bytes": 24709,
+    "sha256": "48958f8df6ba7a2eeefe3943f5f6b3722cab24e347034a51b5e09f1c3c45749c"
+  },
+  {
+    "label": "exercise-back-3",
+    "bbox": [
+      485,
+      815,
+      688,
+      1030
+    ],
+    "note": "Пиксели 720px исходного кадра; crop с фоном, не вектор. Изображение содержит только интерфейс/иллюстрацию конкурента.",
+    "source_local_file": "user-videos/U06/candidates/0101-00097.50s.jpg",
+    "size": [
+      203,
+      215
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gymdone",
+    "path": "onboarding/icons/gymdone/015-exercise-back-3.png",
+    "bytes": 27616,
+    "sha256": "0e1175af4940e7a0d9f649b2a58e64606c75b982c736eeb92156994a4fdb6d61"
+  },
+  {
+    "label": "paywall-muscle-map",
+    "bbox": [
+      32,
+      413,
+      688,
+      923
+    ],
+    "note": "Пиксели 720px исходного кадра; crop с фоном, не вектор. Изображение содержит только интерфейс/иллюстрацию конкурента.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "user-videos/U06/candidates/0108-00101.50s.jpg",
+    "size": [
+      656,
+      510
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gymdone",
+    "path": "onboarding/icons/gymdone/016-paywall-muscle-map.png",
+    "bytes": 129465,
+    "sha256": "5b8786dc4f3e967a246ec8cdbc0cf55400cd128e613c8836bb0ddeca03bac2d2"
+  },
+  {
+    "label": "arcade-reward",
+    "bbox": [
+      470,
+      707,
+      630,
+      962
+    ],
+    "note": "Пиксели 720px исходного кадра; crop с фоном, не вектор. Изображение содержит только интерфейс/иллюстрацию конкурента.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "user-videos/U06/candidates/0250-00430.50s.jpg",
+    "size": [
+      160,
+      255
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gymdone",
+    "path": "onboarding/icons/gymdone/017-arcade-reward.png",
+    "bytes": 55508,
+    "sha256": "09b1734877e07c0c5156a9405b161a84a2150f7674d8a14e0a72b9751ed8e0be"
+  },
+  {
+    "label": "empty-workout-symbol",
+    "bbox": [
+      278,
+      701,
+      443,
+      843
+    ],
+    "note": "Пиксели 720px исходного кадра; crop с фоном, не вектор. Изображение содержит только интерфейс/иллюстрацию конкурента.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "user-videos/U06/candidates/0273-00469.50s.jpg",
+    "size": [
+      165,
+      142
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gymdone",
+    "path": "onboarding/icons/gymdone/018-empty-workout-symbol.png",
+    "bytes": 17124,
+    "sha256": "d2a4dd911fd4fcf3e2910564263accbbeb99260d91de7a1acdd7d74ee40866f7"
+  },
+  {
+    "label": "bags-reward",
+    "bbox": [
+      417,
+      739,
+      670,
+      975
+    ],
+    "note": "Пиксели 720px исходного кадра; crop с фоном, не вектор. Изображение содержит только интерфейс/иллюстрацию конкурента.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "user-videos/U06/candidates/0321-00564.50s.jpg",
+    "size": [
+      253,
+      236
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "gymdone",
+    "path": "onboarding/icons/gymdone/019-bags-reward.png",
+    "bytes": 82549,
+    "sha256": "7f02057cd2a4af10b53a79b26d0b47446ee389dbfba6af6537ac0fb93b38615f"
+  },
+  {
+    "label": "technogym-wordmark",
+    "bbox": [
+      135,
+      700,
+      605,
+      840
+    ],
+    "note": "Брендовый знак на заставке. Координаты720px кадра.",
+    "source_local_file": "user-videos/U12/candidates/0002-00000.50s.jpg",
+    "size": [
+      470,
+      140
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "technogym",
+    "path": "onboarding/icons/technogym/001-technogym-wordmark.png",
+    "bytes": 44962,
+    "sha256": "6571eca27117df1df4e5263105a45a2b34dd3c7395fc8c1628d373cffc0da1fc"
+  },
+  {
+    "label": "health-illustration",
+    "bbox": [
+      110,
+      420,
+      635,
+      775
+    ],
+    "note": "Health и демонстрационные metric-pills. Координаты720px кадра.",
+    "source_local_file": "user-videos/U12/candidates/0066-00151.00s.jpg",
+    "size": [
+      525,
+      355
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "technogym",
+    "path": "onboarding/icons/technogym/002-health-illustration.png",
+    "bytes": 57940,
+    "sha256": "2d8432788bfb1854fcd3370e266a8a74164776b3d10d2f05781783560eacedae"
+  },
+  {
+    "label": "coach-face",
+    "bbox": [
+      310,
+      615,
+      402,
+      705
+    ],
+    "note": "Жёлтый символ персонального коуча. Координаты720px кадра.",
+    "source_local_file": "user-videos/U12/candidates/0119-00290.50s.jpg",
+    "size": [
+      92,
+      90
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "technogym",
+    "path": "onboarding/icons/technogym/003-coach-face.png",
+    "bytes": 10140,
+    "sha256": "650db131c04ccb92e94397b7cd9690ac8a36f2eb063fdae08a7efea6cef90b23"
+  },
+  {
+    "label": "movergy-gauge",
+    "bbox": [
+      145,
+      225,
+      592,
+      535
+    ],
+    "note": "Цветовая шкала активности; не захватывает аватар. Координаты720px кадра.",
+    "source_local_file": "user-videos/U12/candidates/0129-00308.50s.jpg",
+    "size": [
+      447,
+      310
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "technogym",
+    "path": "onboarding/icons/technogym/004-movergy-gauge.png",
+    "bytes": 97518,
+    "sha256": "384ddf372be6f6b43376314d686150dc19ab85ee2cb0ac67ff59aefefa61541d"
+  },
+  {
+    "label": "plus-promo",
+    "bbox": [
+      75,
+      310,
+      650,
+      825
+    ],
+    "note": "Коммерческая карточка Plus; включает CTA и пояснение, без личных данных. Координаты720px кадра.",
+    "source_local_file": "user-videos/U12/candidates/0636-01188.00s.jpg",
+    "size": [
+      575,
+      515
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "technogym",
+    "path": "onboarding/icons/technogym/005-plus-promo.png",
+    "bytes": 201270,
+    "sha256": "3e689601cc750c90236793d17a60b60cbf95a52b86555625bd3b39e2010cc9c9"
+  },
+  {
+    "label": "male-body-outline",
+    "bbox": [
+      412,
+      478,
+      638,
+      962
+    ],
+    "note": "Растровый кроп из пользовательской записи; не исходный вектор.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "user-videos/U04/candidates/0045-00080.00s.jpg",
+    "size": [
+      226,
+      484
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "smartworkout",
+    "path": "onboarding/icons/smartworkout/001-male-body-outline.png",
+    "bytes": 94161,
+    "sha256": "3ff259c3c6c808f8d26419fcbdd188f506018c48f53a2598dacbc1fdac532419"
+  },
+  {
+    "label": "feedback-lightning",
+    "bbox": [
+      65,
+      905,
+      103,
+      945
+    ],
+    "note": "Растровый кроп из пользовательской записи; не исходный вектор.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "user-videos/U04/candidates/0049-00083.00s.jpg",
+    "size": [
+      38,
+      40
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "smartworkout",
+    "path": "onboarding/icons/smartworkout/002-feedback-lightning.png",
+    "bytes": 2512,
+    "sha256": "05d43c56a798b33543f0e9c6165b83dd68541bde504398106cc86384fc9ad572"
+  },
+  {
+    "label": "smartworkout-logo",
+    "bbox": [
+      294,
+      485,
+      427,
+      625
+    ],
+    "note": "Растровый кроп из пользовательской записи; не исходный вектор.",
+    "source_local_file": "user-videos/U04/candidates/0201-00313.50s.jpg",
+    "size": [
+      133,
+      140
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "smartworkout",
+    "path": "onboarding/icons/smartworkout/003-smartworkout-logo.png",
+    "bytes": 14555,
+    "sha256": "078145b20eaab900b862ddd29ace40350800cc20871daac759b749a0c041b11e"
+  },
+  {
+    "label": "ifit-logo",
+    "bbox": [
+      128,
+      693,
+      600,
+      859
+    ],
+    "note": "Растровый кроп из пользовательской записи; не исходный вектор.",
+    "source_local_file": "user-videos/U09/candidates/0005-00002.00s.jpg",
+    "size": [
+      472,
+      166
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "ifit",
+    "path": "onboarding/icons/ifit/001-ifit-logo.png",
+    "bytes": 32337,
+    "sha256": "3cd6ea863cc8da6018341605c8ffc7a71f1c4cdb324f9a1cef99367cff5a551b"
+  },
+  {
+    "label": "ai-coach-wordmark",
+    "bbox": [
+      50,
+      300,
+      235,
+      345
+    ],
+    "note": "Растровый кроп из пользовательской записи; не исходный вектор.",
+    "qa_note": "Границы исправлены после визуальной проверки исходного изображения.",
+    "source_local_file": "user-videos/U09/candidates/0136-00171.00s.jpg",
+    "size": [
+      185,
+      45
+    ],
+    "source_analysis": "user-analysis.json",
+    "extraction": "lossless raster crop with original background; not vector or verified original asset",
+    "app_slug": "ifit",
+    "path": "onboarding/icons/ifit/002-ai-coach-wordmark.png",
+    "bytes": 11601,
+    "sha256": "2aa00fd0a08e19c599e7c2a3e62729391420efd713709c64cf631e057fbab818"
+  }
+]

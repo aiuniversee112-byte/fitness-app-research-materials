@@ -1,0 +1,555 @@
+app_slug,flow_id,stage,question,source_step_ids,frame_paths
+fitbod,appllama-onboarding,Fitness goal,What's your top fitness goal?,onboarding-001-onb_u6lbw-step-02,onboarding/frames/fitbod/onboarding-001-onb_u6lbw-step-02.png
+fitbod,appllama-onboarding,Training routine,Which best describes your current strength-training routine?,onboarding-001-onb_u6lbw-step-03,onboarding/frames/fitbod/onboarding-001-onb_u6lbw-step-03.png
+fitbod,appllama-onboarding,Training location,Where do you primarily plan on training?,onboarding-001-onb_u6lbw-step-04,onboarding/frames/fitbod/onboarding-001-onb_u6lbw-step-04.png
+fitbod,appllama-onboarding,Training frequency,How many days per week can you usually strength train?,onboarding-001-onb_u6lbw-step-05,onboarding/frames/fitbod/onboarding-001-onb_u6lbw-step-05.png
+fitbod,appllama-onboarding,Notifications,Would you like a workout preview on training days? Allow or decline notifications.,onboarding-001-onb_u6lbw-step-06 | onboarding-001-onb_u6lbw-step-07,onboarding/frames/fitbod/onboarding-001-onb_u6lbw-step-06.png | onboarding/frames/fitbod/onboarding-001-onb_u6lbw-step-07.png
+fitbod,appllama-onboarding,Calorie tracking,"Do you want to calculate the calories you burn each workout? Connect Apple Health, enter details manually, or skip.",onboarding-001-onb_u6lbw-step-08,onboarding/frames/fitbod/onboarding-001-onb_u6lbw-step-08.png
+fitbod,appllama-onboarding,Registration,"Choose Apple, Google or email to save your workout program.",onboarding-001-onb_u6lbw-step-12,onboarding/frames/fitbod/onboarding-001-onb_u6lbw-step-12.png
+fitbod,appllama-onboarding,Registration,What is your first name?,onboarding-001-onb_u6lbw-step-13,onboarding/frames/fitbod/onboarding-001-onb_u6lbw-step-13.png
+fitbod,appllama-onboarding,Registration,What is your last name?,onboarding-001-onb_u6lbw-step-13,onboarding/frames/fitbod/onboarding-001-onb_u6lbw-step-13.png
+fitbod,appllama-onboarding,Registration,What is your email address?,onboarding-001-onb_u6lbw-step-13,onboarding/frames/fitbod/onboarding-001-onb_u6lbw-step-13.png
+fitbod,appllama-onboarding,Registration,Create a password with at least 6 characters.,onboarding-001-onb_u6lbw-step-13,onboarding/frames/fitbod/onboarding-001-onb_u6lbw-step-13.png
+fitbod,appllama-onboarding,Consent,Do you agree to the Terms & Conditions and confirm that you are at least 13 years old?,onboarding-001-onb_u6lbw-step-14,onboarding/frames/fitbod/onboarding-001-onb_u6lbw-step-14.png
+fitbod,appllama-onboarding,Trial reminder,Would you like a reminder before your trial ends?,onboarding-001-onb_u6lbw-step-16,onboarding/frames/fitbod/onboarding-001-onb_u6lbw-step-16.png
+fitbod,user-strength-assessment,Workout duration,Choose a duration for this workout or set it as your default.,U01-0005,onboarding/frames/fitbod/U01-0005.png
+fitbod,user-strength-assessment,Apple Health,Would you like to sync body-composition and movement data with Apple Health?,U01-0075,onboarding/frames/fitbod/U01-0075.png
+fitbod,user-strength-assessment,Strength assessment,Would you like to begin the 5-minute strength assessment or do it later?,U01-0425,onboarding/frames/fitbod/U01-0425.png
+fitbod,user-strength-assessment,Exercise variation,Choose Plank Hold or Crunches; select the variation that challenges you most.,U01-0429,onboarding/frames/fitbod/U01-0429.png
+fitbod,user-strength-assessment,Assessment result,"Adjust your plank-hold time if needed, then log it.",U01-0436,onboarding/frames/fitbod/U01-0436.png
+fitbod,user-strength-assessment,Exercise variation,Choose Burpee or Air Squat; select the variation that challenges you most.,U01-0446,onboarding/frames/fitbod/U01-0446.png
+fitbod,user-strength-assessment,Assessment exit,"Exit the assessment without saving, or keep going?",U01-0448,onboarding/frames/fitbod/U01-0448.png
+gymverse,appllama-onboarding,Basic profile,What's your gender?,onboarding-001-onb_24hem-step-02,onboarding/frames/gymverse/onboarding-001-onb_24hem-step-02.png
+gymverse,appllama-onboarding,Fitness goal,What's your goal?,onboarding-001-onb_24hem-step-03,onboarding/frames/gymverse/onboarding-001-onb_24hem-step-03.png
+gymverse,appllama-onboarding,Training challenges,What is your major challenge at the gym?,onboarding-001-onb_24hem-step-04,onboarding/frames/gymverse/onboarding-001-onb_24hem-step-04.png
+gymverse,appllama-onboarding,Plan focus,"Choose a balanced or focused plan: full body, upper body, lower body or abs.",onboarding-001-onb_24hem-step-07,onboarding/frames/gymverse/onboarding-001-onb_24hem-step-07.png
+gymverse,appllama-onboarding,Training experience,How long have you been weight training?,onboarding-001-onb_24hem-step-08,onboarding/frames/gymverse/onboarding-001-onb_24hem-step-08.png
+gymverse,appllama-onboarding,Training routine,Do you weight train regularly?,onboarding-001-onb_24hem-step-10,onboarding/frames/gymverse/onboarding-001-onb_24hem-step-10.png
+gymverse,appllama-onboarding,Training location,Where do you work out?,onboarding-001-onb_24hem-step-11,onboarding/frames/gymverse/onboarding-001-onb_24hem-step-11.png
+gymverse,appllama-onboarding,Equipment,Which equipment do you have available?,onboarding-001-onb_24hem-step-12,onboarding/frames/gymverse/onboarding-001-onb_24hem-step-12.png
+gymverse,appllama-onboarding,Training frequency,How often would you like to work out?,onboarding-001-onb_24hem-step-13,onboarding/frames/gymverse/onboarding-001-onb_24hem-step-13.png
+gymverse,appllama-onboarding,Schedule,Would you prefer scheduled workouts or a flexible schedule?,onboarding-001-onb_24hem-step-14,onboarding/frames/gymverse/onboarding-001-onb_24hem-step-14.png
+gymverse,appllama-onboarding,Workout duration,How long do you want your workouts to be?,onboarding-001-onb_24hem-step-15,onboarding/frames/gymverse/onboarding-001-onb_24hem-step-15.png
+gymverse,appllama-onboarding,Apple Health,Allow Gymverse to access and update your Health data?,onboarding-001-onb_24hem-step-16 | onboarding-001-onb_24hem-step-17,onboarding/frames/gymverse/onboarding-001-onb_24hem-step-16.png | onboarding/frames/gymverse/onboarding-001-onb_24hem-step-17.png
+gymverse,appllama-onboarding,Basic profile,What's your age?,onboarding-001-onb_24hem-step-20,onboarding/frames/gymverse/onboarding-001-onb_24hem-step-20.png
+gymverse,appllama-onboarding,Body data,What's your height?,onboarding-001-onb_24hem-step-23,onboarding/frames/gymverse/onboarding-001-onb_24hem-step-23.png
+gymverse,appllama-onboarding,Body data,How much do you weigh?,onboarding-001-onb_24hem-step-24,onboarding/frames/gymverse/onboarding-001-onb_24hem-step-24.png
+gymverse,appllama-onboarding,First workout,When would you like to schedule your first workout?,onboarding-001-onb_24hem-step-26,onboarding/frames/gymverse/onboarding-001-onb_24hem-step-26.png
+gymverse,appllama-onboarding,Notifications,Allow workout reminders and training notifications?,onboarding-001-onb_24hem-step-28 | onboarding-001-onb_24hem-step-29,onboarding/frames/gymverse/onboarding-001-onb_24hem-step-28.png | onboarding/frames/gymverse/onboarding-001-onb_24hem-step-29.png
+gymverse,appllama-onboarding,Attribution,How did you hear about us?,onboarding-001-onb_24hem-step-30,onboarding/frames/gymverse/onboarding-001-onb_24hem-step-30.png
+gymverse,appllama-onboarding,Referral code,Do you have a referral code to enter?,onboarding-001-onb_24hem-step-33,onboarding/frames/gymverse/onboarding-001-onb_24hem-step-33.png
+gymverse,appllama-plan-feedback,Plan feedback,Do you like your plan?,onboarding-001-onb_24hem-step-35,onboarding/frames/gymverse/onboarding-001-onb_24hem-step-35.png
+muscle-booster,appllama-34-step,Gender identity,Which gender do you identify with?,onboarding-001-onb_ofy3i-step-03,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-03.png
+muscle-booster,appllama-34-step,Fitness goal,What is your goal: muscle gain or weight loss?,onboarding-001-onb_ofy3i-step-04,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-04.png
+muscle-booster,appllama-34-step,Current physique,Choose your current body type.,onboarding-001-onb_ofy3i-step-05,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-05.png
+muscle-booster,appllama-34-step,Body image,Do you like your body?,onboarding-001-onb_ofy3i-step-06,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-06.png
+muscle-booster,appllama-34-step,Target physique,Choose your target body type.,onboarding-001-onb_ofy3i-step-07,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-07.png
+muscle-booster,appllama-34-step,Target areas,Choose your target zones.,onboarding-001-onb_ofy3i-step-08,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-08.png
+muscle-booster,appllama-34-step,Body image,When was the last time you were happy with your body image?,onboarding-001-onb_ofy3i-step-09,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-09.png
+muscle-booster,appllama-34-step,Motivation,What motivates you to exercise?,onboarding-001-onb_ofy3i-step-10,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-10.png
+muscle-booster,appllama-34-step,Priorities,Choose your main priorities.,onboarding-001-onb_ofy3i-step-11,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-11.png
+muscle-booster,appllama-34-step,Fitness level,What is your fitness level?,onboarding-001-onb_ofy3i-step-12,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-12.png
+muscle-booster,appllama-34-step,Strength baseline,How many push-ups can you do?,onboarding-001-onb_ofy3i-step-13,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-13.png
+muscle-booster,appllama-34-step,Lifestyle,Do you have a sedentary lifestyle?,onboarding-001-onb_ofy3i-step-14,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-14.png
+muscle-booster,appllama-34-step,Daily activity,How much do you walk daily?,onboarding-001-onb_ofy3i-step-15,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-15.png
+muscle-booster,appllama-34-step,Sleep,How much sleep do you get?,onboarding-001-onb_ofy3i-step-16,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-16.png
+muscle-booster,appllama-34-step,Hydration,How much water do you drink throughout the day?,onboarding-001-onb_ofy3i-step-17,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-17.png
+muscle-booster,appllama-34-step,Energy,How do you feel between meals?,onboarding-001-onb_ofy3i-step-18,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-18.png
+muscle-booster,appllama-34-step,Diet,Do you follow any of these diets?,onboarding-001-onb_ofy3i-step-19,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-19.png
+muscle-booster,appllama-34-step,Habits,Are you an organized person?,onboarding-001-onb_ofy3i-step-21,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-21.png
+muscle-booster,appllama-34-step,Body data,How tall are you?,onboarding-001-onb_ofy3i-step-22,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-22.png
+muscle-booster,appllama-34-step,Body data,What is your current weight?,onboarding-001-onb_ofy3i-step-25,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-25.png
+muscle-booster,appllama-34-step,Weight goal,What is your target weight?,onboarding-001-onb_ofy3i-step-28,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-28.png
+muscle-booster,appllama-34-step,Basic profile,How old are you?,onboarding-001-onb_ofy3i-step-31,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-31.png
+muscle-booster,appllama-34-step,Training location,Choose your workout location.,onboarding-001-onb_ofy3i-step-34,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-34.png
+muscle-booster,appllama-34-step,Gym setup,What type of gym do you belong to?,onboarding-001-onb_ofy3i-step-35,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-35.png
+muscle-booster,appllama-34-step,Goal pace,At what pace do you want to move towards your goal?,onboarding-001-onb_ofy3i-step-36,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-36.png
+muscle-booster,appllama-34-step,Schedule,Choose your workout days.,onboarding-001-onb_ofy3i-step-37,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-37.png
+muscle-booster,appllama-34-step,Goal deadline,Is there a special occasion you want to gain muscle for?,onboarding-001-onb_ofy3i-step-39,onboarding/frames/muscle-booster/onboarding-001-onb_ofy3i-step-39.png
+muscle-booster,user-24-step,Tracking permission,Allow Muscle Booster to track your activity across other companies’ apps and websites?,U05-0041,onboarding/frames/muscle-booster/U05-0041.png
+muscle-booster,user-24-step,Notifications,Allow Muscle Booster to send notifications?,U05-0045,onboarding/frames/muscle-booster/U05-0045.png
+muscle-booster,user-24-step,Gender identity,Which gender do you identify with?,U05-0052,onboarding/frames/muscle-booster/U05-0052.png
+muscle-booster,user-24-step,Fitness goal,What is your goal: muscle gain or weight loss?,U05-0058,onboarding/frames/muscle-booster/U05-0058.png
+muscle-booster,user-24-step,Current physique,Choose your current body type.,U05-0064,onboarding/frames/muscle-booster/U05-0064.png
+muscle-booster,user-24-step,Target physique,Choose your target body type.,U05-0067,onboarding/frames/muscle-booster/U05-0067.png
+muscle-booster,user-24-step,Target areas,Choose your target zones.,U05-0070,onboarding/frames/muscle-booster/U05-0070.png
+muscle-booster,user-24-step,Motivation,What motivates you to exercise?,U05-0076,onboarding/frames/muscle-booster/U05-0076.png
+muscle-booster,user-24-step,Priorities,Choose your focus.,U05-0079,onboarding/frames/muscle-booster/U05-0079.png
+muscle-booster,user-24-step,Fitness level,What is your fitness level?,U05-0081,onboarding/frames/muscle-booster/U05-0081.png
+muscle-booster,user-24-step,Strength baseline,How many push-ups can you do?,U05-0084,onboarding/frames/muscle-booster/U05-0084.png
+muscle-booster,user-24-step,Lifestyle,Do you live a sedentary lifestyle?,U05-0091,onboarding/frames/muscle-booster/U05-0091.png
+muscle-booster,user-24-step,Daily activity,How much do you walk daily?,U05-0094,onboarding/frames/muscle-booster/U05-0094.png
+muscle-booster,user-24-step,Diet,Do you follow any of these diets?,U05-0096,onboarding/frames/muscle-booster/U05-0096.png
+muscle-booster,user-24-step,Body data,How tall are you?,U05-0105,onboarding/frames/muscle-booster/U05-0105.png
+muscle-booster,user-24-step,Body data,What is your current weight?,U05-0106,onboarding/frames/muscle-booster/U05-0106.png
+muscle-booster,user-24-step,Weight goal,What is your target weight?,U05-0109,onboarding/frames/muscle-booster/U05-0109.png
+muscle-booster,user-24-step,Basic profile,How old are you?,U05-0122,onboarding/frames/muscle-booster/U05-0122.png
+muscle-booster,user-24-step,Training location,Choose your workout location.,U05-0124,onboarding/frames/muscle-booster/U05-0124.png
+muscle-booster,user-24-step,Gym setup,What type of gym do you exercise at?,U05-0126,onboarding/frames/muscle-booster/U05-0126.png
+muscle-booster,user-24-step,Goal deadline,Is there a special occasion you want to gain muscle for?,U05-0142,onboarding/frames/muscle-booster/U05-0142.png
+muscle-booster,user-24-step,Goal deadline,When's your event?,U05-0149,onboarding/frames/muscle-booster/U05-0149.png
+muscle-booster,user-24-step,Consent,"Do you agree to the Terms of Use and Subscription Terms, and confirm that you have read the Privacy Notice?",U05-0154,onboarding/frames/muscle-booster/U05-0154.png
+fitify,appllama-onboarding,Basic profile,What's your gender?,welcome-screen-001-spl_uxfyb-step-02,onboarding/frames/fitify/welcome-screen-001-spl_uxfyb-step-02.png
+fitify,appllama-onboarding,Basic profile,How old are you?,onboarding-001-onb_fln21-step-03,onboarding/frames/fitify/onboarding-001-onb_fln21-step-03.png
+fitify,appllama-onboarding,Body data,How tall are you?,onboarding-001-onb_fln21-step-04,onboarding/frames/fitify/onboarding-001-onb_fln21-step-04.png
+fitify,appllama-onboarding,Body data,What's your weight?,onboarding-001-onb_fln21-step-05,onboarding/frames/fitify/onboarding-001-onb_fln21-step-05.png
+fitify,appllama-onboarding,Fitness goal,What's your goal?,onboarding-001-onb_fln21-step-09,onboarding/frames/fitify/onboarding-001-onb_fln21-step-09.png
+fitify,appllama-onboarding,Weight goal,What's your target weight?,onboarding-001-onb_fln21-step-11,onboarding/frames/fitify/onboarding-001-onb_fln21-step-11.png
+fitify,appllama-onboarding,Body composition,What's your body composition?,onboarding-001-onb_fln21-step-13,onboarding/frames/fitify/onboarding-001-onb_fln21-step-13.png
+fitify,appllama-onboarding,Body composition,What's your target composition?,onboarding-001-onb_fln21-step-14,onboarding/frames/fitify/onboarding-001-onb_fln21-step-14.png
+fitify,appllama-onboarding,Target areas,What do you want to focus on?,onboarding-001-onb_fln21-step-15,onboarding/frames/fitify/onboarding-001-onb_fln21-step-15.png
+fitify,appllama-onboarding,Training experience,Do you have any previous workout experience?,onboarding-001-onb_fln21-step-16,onboarding/frames/fitify/onboarding-001-onb_fln21-step-16.png
+fitify,appllama-onboarding,Fitness level,How fit are you?,onboarding-001-onb_fln21-step-18,onboarding/frames/fitify/onboarding-001-onb_fln21-step-18.png
+fitify,appllama-onboarding,Daily activity,How active are you?,onboarding-001-onb_fln21-step-19,onboarding/frames/fitify/onboarding-001-onb_fln21-step-19.png
+fitify,appllama-onboarding,Knee pain,Do you suffer from knee pain?,onboarding-001-onb_fln21-step-21,onboarding/frames/fitify/onboarding-001-onb_fln21-step-21.png
+fitify,appllama-onboarding,Knee pain severity,"If yes, how serious are your problems?",onboarding-001-onb_fln21-step-21,onboarding/frames/fitify/onboarding-001-onb_fln21-step-21.png
+fitify,appllama-onboarding,Strength baseline,How many squats can you do without a break?,onboarding-001-onb_fln21-step-23,onboarding/frames/fitify/onboarding-001-onb_fln21-step-23.png
+fitify,appllama-onboarding,Strength baseline,How many push-ups can you do without a break?,onboarding-001-onb_fln21-step-24,onboarding/frames/fitify/onboarding-001-onb_fln21-step-24.png
+fitify,appllama-onboarding,Strength baseline,How long can you hold a plank without resting?,onboarding-001-onb_fln21-step-25,onboarding/frames/fitify/onboarding-001-onb_fln21-step-25.png
+fitify,appllama-onboarding,Training confidence,Does this sound like you: “I have no idea which workouts are right for me”?,onboarding-001-onb_fln21-step-26,onboarding/frames/fitify/onboarding-001-onb_fln21-step-26.png
+fitify,appllama-onboarding,Daily activity,How much do you walk daily?,onboarding-001-onb_fln21-step-27,onboarding/frames/fitify/onboarding-001-onb_fln21-step-27.png
+fitify,appllama-onboarding,Habits,Do you have any of these bad habits?,onboarding-001-onb_fln21-step-28,onboarding/frames/fitify/onboarding-001-onb_fln21-step-28.png
+fitify,appllama-onboarding,Lifestyle,How satisfied are you with your current lifestyle?,onboarding-001-onb_fln21-step-30,onboarding/frames/fitify/onboarding-001-onb_fln21-step-30.png
+fitify,appllama-onboarding,Consistency,Does this sound like you: “I easily give up when the workout feels too hard or boring”?,onboarding-001-onb_fln21-step-31,onboarding/frames/fitify/onboarding-001-onb_fln21-step-31.png
+fitify,appllama-onboarding,Weight history,When was the last time you were at your ideal weight?,onboarding-001-onb_fln21-step-32,onboarding/frames/fitify/onboarding-001-onb_fln21-step-32.png
+fitify,appllama-onboarding,Sleep,How much do you sleep every night?,onboarding-001-onb_fln21-step-33,onboarding/frames/fitify/onboarding-001-onb_fln21-step-33.png
+fitify,appllama-onboarding,Morning routine,How long does it take you to get up from bed?,onboarding-001-onb_fln21-step-34,onboarding/frames/fitify/onboarding-001-onb_fln21-step-34.png
+fitify,appllama-onboarding,Morning energy,How do you usually feel after you wake up?,onboarding-001-onb_fln21-step-35,onboarding/frames/fitify/onboarding-001-onb_fln21-step-35.png
+fitify,appllama-onboarding,Motivation,Does this sound like you: “I often need external motivation to keep going”?,onboarding-001-onb_fln21-step-36,onboarding/frames/fitify/onboarding-001-onb_fln21-step-36.png
+fitify,appllama-onboarding,Stress,How often do you feel stressed?,onboarding-001-onb_fln21-step-37,onboarding/frames/fitify/onboarding-001-onb_fln21-step-37.png
+fitify,appllama-onboarding,Motivation,What motivates you the most?,onboarding-001-onb_fln21-step-38,onboarding/frames/fitify/onboarding-001-onb_fln21-step-38.png
+fitify,appllama-onboarding,Training environment,"Do you prefer a calm, private workout setting to a crowded gym?",onboarding-001-onb_fln21-step-40,onboarding/frames/fitify/onboarding-001-onb_fln21-step-40.png
+fitify,appllama-onboarding,Goal confirmation,Do you want to lose weight?,onboarding-001-onb_fln21-step-41,onboarding/frames/fitify/onboarding-001-onb_fln21-step-41.png
+fitify,appllama-onboarding,Goal confirmation,Do you want to get an attractive body?,onboarding-001-onb_fln21-step-42,onboarding/frames/fitify/onboarding-001-onb_fln21-step-42.png
+fitify,appllama-onboarding,Goal confirmation,Do you want to prevent chronic disease?,onboarding-001-onb_fln21-step-43,onboarding/frames/fitify/onboarding-001-onb_fln21-step-43.png
+fitify,appllama-onboarding,Training location,Where will you work out?,onboarding-001-onb_fln21-step-44,onboarding/frames/fitify/onboarding-001-onb_fln21-step-44.png
+fitify,appllama-onboarding,Home workouts,Should we exclude or limit loud exercises at home?,onboarding-001-onb_fln21-step-45,onboarding/frames/fitify/onboarding-001-onb_fln21-step-45.png
+fitify,appllama-onboarding,Goal deadline,Do you have any important event coming up?,onboarding-001-onb_fln21-step-46,onboarding/frames/fitify/onboarding-001-onb_fln21-step-46.png
+fitify,appllama-onboarding,Commitment,For how long are you ready to commit?,onboarding-001-onb_fln21-step-48,onboarding/frames/fitify/onboarding-001-onb_fln21-step-48.png
+fitify,appllama-onboarding,Workout duration,What length of workouts do you prefer?,onboarding-001-onb_fln21-step-50,onboarding/frames/fitify/onboarding-001-onb_fln21-step-50.png
+fitify,appllama-onboarding,Name,What should we call you?,onboarding-001-onb_fln21-step-52,onboarding/frames/fitify/onboarding-001-onb_fln21-step-52.png
+fitify,appllama-onboarding,Readiness,How motivated are you to start?,onboarding-001-onb_fln21-step-53,onboarding/frames/fitify/onboarding-001-onb_fln21-step-53.png
+fitify,appllama-onboarding,Goal pace,What pace would you prefer in your plan?,onboarding-001-onb_fln21-step-54,onboarding/frames/fitify/onboarding-001-onb_fln21-step-54.png
+fitify,appllama-onboarding,Schedule,Pick your training days.,onboarding-001-onb_fln21-step-55,onboarding/frames/fitify/onboarding-001-onb_fln21-step-55.png
+fitify,appllama-onboarding,Reminders,Would you like workout reminders and notifications?,onboarding-001-onb_fln21-step-55 | onboarding-001-onb_fln21-step-57,onboarding/frames/fitify/onboarding-001-onb_fln21-step-55.png | onboarding/frames/fitify/onboarding-001-onb_fln21-step-57.png
+fitify,appllama-onboarding,Professional referral,Did a professional refer you to Fitify?,onboarding-001-onb_fln21-step-58,onboarding/frames/fitify/onboarding-001-onb_fln21-step-58.png
+fitify,appllama-onboarding,Apple Health,Connect Apple Health and allow the required write permissions?,onboarding-001-onb_fln21-step-59 | onboarding-001-onb_fln21-step-60,onboarding/frames/fitify/onboarding-001-onb_fln21-step-59.png | onboarding/frames/fitify/onboarding-001-onb_fln21-step-60.png
+fitify,appllama-onboarding,Energy check,Do you usually feel tired around lunchtime?,onboarding-001-onb_fln21-step-63,onboarding/frames/fitify/onboarding-001-onb_fln21-step-63.png
+fitify,appllama-onboarding,Daily activity,Are you typically on your feet or sitting most of the day?,onboarding-001-onb_fln21-step-65,onboarding/frames/fitify/onboarding-001-onb_fln21-step-65.png
+fitify,appllama-onboarding,App feedback,Would you like to rate Fitify?,onboarding-001-onb_fln21-step-68,onboarding/frames/fitify/onboarding-001-onb_fln21-step-68.png
+fitify,appllama-onboarding,Registration,"Choose Apple, Google, Facebook or email to create your account.",onboarding-001-onb_fln21-step-69,onboarding/frames/fitify/onboarding-001-onb_fln21-step-69.png
+fitify,appllama-onboarding,Registration,What is your email address?,onboarding-001-onb_fln21-step-70,onboarding/frames/fitify/onboarding-001-onb_fln21-step-70.png
+fitify,appllama-onboarding,Registration,Create a password.,onboarding-001-onb_fln21-step-70,onboarding/frames/fitify/onboarding-001-onb_fln21-step-70.png
+fiton,appllama-onboarding,Registration,What is your name?,onb_dk2uc-0004,onboarding/frames/fiton/onb_dk2uc-0004.png
+fiton,appllama-onboarding,Registration,What is your email address?,onb_dk2uc-0004,onboarding/frames/fiton/onb_dk2uc-0004.png
+fiton,appllama-onboarding,Basic profile,What is your gender?,onb_dk2uc-0027,onboarding/frames/fiton/onb_dk2uc-0027.png
+fiton,appllama-onboarding,Basic profile,What is your date of birth?,onb_dk2uc-0027,onboarding/frames/fiton/onb_dk2uc-0027.png
+fiton,appllama-onboarding,Body data,What is your height?,onb_dk2uc-0027,onboarding/frames/fiton/onb_dk2uc-0027.png
+fiton,appllama-onboarding,Body data,What is your weight?,onb_dk2uc-0027,onboarding/frames/fiton/onb_dk2uc-0027.png
+fiton,appllama-onboarding,Fitness goal,What's your goal?,onb_dk2uc-0046,onboarding/frames/fiton/onb_dk2uc-0046.png
+fiton,appllama-onboarding,Fitness level,Choose your fitness level.,onb_dk2uc-0050,onboarding/frames/fiton/onb_dk2uc-0050.png
+fiton,appllama-onboarding,Training frequency,How many times per week do you plan to work out?,onb_dk2uc-0053,onboarding/frames/fiton/onb_dk2uc-0053.png
+fiton,appllama-onboarding,Workout duration,How much time do you have to work out?,onb_dk2uc-0055,onboarding/frames/fiton/onb_dk2uc-0055.png
+fiton,appllama-onboarding,Class preferences,Select all your favorite types of classes.,onb_dk2uc-0061,onboarding/frames/fiton/onb_dk2uc-0061.png
+fiton,appllama-onboarding,Community,Which community groups would you like to join?,onb_dk2uc-0068,onboarding/frames/fiton/onb_dk2uc-0068.png
+fiton,appllama-onboarding,Devices,Select all the devices you own.,onb_dk2uc-0072,onboarding/frames/fiton/onb_dk2uc-0072.png
+fiton,appllama-onboarding,Attribution,How did you hear about us?,onb_dk2uc-0075,onboarding/frames/fiton/onb_dk2uc-0075.png
+smartgym,appllama-onboarding,Setup mode,"How do you want to use SmartGym: have workouts built for you, or create your own?",onb_ndk7g-0003,onboarding/frames/smartgym/onb_ndk7g-0003.png
+smartgym,appllama-onboarding,Training experience,What is your training experience level?,onb_ndk7g-0006,onboarding/frames/smartgym/onb_ndk7g-0006.png
+smartgym,appllama-onboarding,Equipment,Which equipment do you have available?,onb_ndk7g-0007 | onb_ndk7g-0011 | onb_ndk7g-0016 | onb_ndk7g-0017,onboarding/frames/smartgym/onb_ndk7g-0007.png | onboarding/frames/smartgym/onb_ndk7g-0011.png | onboarding/frames/smartgym/onb_ndk7g-0016.png | onboarding/frames/smartgym/onb_ndk7g-0017.png
+smartgym,appllama-onboarding,Fitness goal,"Choose your training goal: strength, muscle size, muscle endurance or HIIT.",onb_ndk7g-0020,onboarding/frames/smartgym/onb_ndk7g-0020.png
+smartgym,appllama-onboarding,Schedule,Which days of the week would you like to work out?,onb_ndk7g-0031,onboarding/frames/smartgym/onb_ndk7g-0031.png
+smartgym,appllama-onboarding,Workout duration,How long would you like your workouts to be?,onb_ndk7g-0031,onboarding/frames/smartgym/onb_ndk7g-0031.png
+smartgym,appllama-onboarding,Consent,Do you accept the Terms of Service and Privacy Policy?,onb_ndk7g-0049,onboarding/frames/smartgym/onb_ndk7g-0049.png
+smartgym,appllama-onboarding,Apple Health,Allow SmartGym to access and update your Health data?,onb_ndk7g-0050 | onb_ndk7g-0052,onboarding/frames/smartgym/onb_ndk7g-0050.png | onboarding/frames/smartgym/onb_ndk7g-0052.png
+smartgym,appllama-onboarding,Notifications,Allow notifications for important information and rest-timer completion?,onb_ndk7g-0058 | onb_ndk7g-0060,onboarding/frames/smartgym/onb_ndk7g-0058.png | onboarding/frames/smartgym/onb_ndk7g-0060.png
+smartgym,appllama-first-use,Product tour,Would you like to take the app guided tour?,onb_ndk7g-0062,onboarding/frames/smartgym/onb_ndk7g-0062.png
+smartgym,appllama-first-use,App feedback,Are you liking SmartGym?,onb_ndk7g-0064,onboarding/frames/smartgym/onb_ndk7g-0064.png
+macrofactor,appllama-onboarding,Consent,Do you accept the Terms of Service and Privacy Policy?,onb_jmt6w-0005,onboarding/frames/macrofactor/onb_jmt6w-0005.png
+macrofactor,appllama-onboarding,Apple Health,Would you like to sync your data with Apple Health?,onb_jmt6w-0009,onboarding/frames/macrofactor/onb_jmt6w-0009.png
+macrofactor,appllama-onboarding,Basic profile,What is your sex?,onb_jmt6w-0013,onboarding/frames/macrofactor/onb_jmt6w-0013.png
+macrofactor,appllama-onboarding,Basic profile,When were you born?,onb_jmt6w-0017,onboarding/frames/macrofactor/onb_jmt6w-0017.png
+macrofactor,appllama-onboarding,Body data,What is your height?,onb_jmt6w-0021,onboarding/frames/macrofactor/onb_jmt6w-0021.png
+macrofactor,appllama-onboarding,Body data,What is your weight?,onb_jmt6w-0032,onboarding/frames/macrofactor/onb_jmt6w-0032.png
+macrofactor,appllama-onboarding,Weight history,Have you ever weighed more than 100 kilograms?,onb_jmt6w-0035,onboarding/frames/macrofactor/onb_jmt6w-0035.png
+macrofactor,appllama-onboarding,Weight trend,How has your weight trended over the past few weeks?,onb_jmt6w-0039,onboarding/frames/macrofactor/onb_jmt6w-0039.png
+macrofactor,appllama-onboarding,Body composition,What is your body-fat level?,onb_jmt6w-0046,onboarding/frames/macrofactor/onb_jmt6w-0046.png
+macrofactor,appllama-onboarding,Exercise frequency,How often do you exercise?,onb_jmt6w-0049,onboarding/frames/macrofactor/onb_jmt6w-0049.png
+macrofactor,appllama-onboarding,Daily activity,"How active are you outside exercise, during work and leisure?",onb_jmt6w-0053,onboarding/frames/macrofactor/onb_jmt6w-0053.png
+macrofactor,appllama-onboarding,Training experience,What is your experience level with lifting?,onb_jmt6w-0057,onboarding/frames/macrofactor/onb_jmt6w-0057.png
+macrofactor,appllama-onboarding,Training experience,What is your experience level with cardio?,onb_jmt6w-0060,onboarding/frames/macrofactor/onb_jmt6w-0060.png
+macrofactor,appllama-onboarding,Calorie estimate,Acknowledge the estimate or ask how it was calculated.,onb_jmt6w-0066,onboarding/frames/macrofactor/onb_jmt6w-0066.png
+macrofactor,appllama-onboarding,Calorie education,Confirm your understanding or ask why expenditure matters and whether the estimate is right.,onb_jmt6w-0070,onboarding/frames/macrofactor/onb_jmt6w-0070.png
+macrofactor,appllama-onboarding,Adaptive coaching,Confirm your understanding or ask about the advanced algorithm.,onb_jmt6w-0084,onboarding/frames/macrofactor/onb_jmt6w-0084.png
+macrofactor,appllama-onboarding,Attribution,How did you learn about us?,onb_jmt6w-0093,onboarding/frames/macrofactor/onb_jmt6w-0093.png
+macrofactor,appllama-onboarding,Affiliate referral,"If an affiliate referred you, enter their code.",onb_jmt6w-0093,onboarding/frames/macrofactor/onb_jmt6w-0093.png
+macrofactor,appllama-onboarding,Weight goal,"What is your goal: lose, maintain or gain weight?",onb_jmt6w-0099,onboarding/frames/macrofactor/onb_jmt6w-0099.png
+macrofactor,appllama-onboarding,Weight goal,What is your target weight?,onb_jmt6w-0102,onboarding/frames/macrofactor/onb_jmt6w-0102.png
+macrofactor,appllama-onboarding,Goal pace,What is your target rate of weight change?,onb_jmt6w-0102,onboarding/frames/macrofactor/onb_jmt6w-0102.png
+macrofactor,appllama-onboarding,Diet,What is your preferred diet?,onb_jmt6w-0113,onboarding/frames/macrofactor/onb_jmt6w-0113.png
+macrofactor,appllama-onboarding,Calorie floor,What calorie floor do you prefer?,onb_jmt6w-0116,onboarding/frames/macrofactor/onb_jmt6w-0116.png
+macrofactor,appllama-onboarding,Training plan,What training will you do during this program?,onb_jmt6w-0125,onboarding/frames/macrofactor/onb_jmt6w-0125.png
+macrofactor,appllama-onboarding,Weekly calories,How would you like to distribute calories throughout the week?,onb_jmt6w-0127,onboarding/frames/macrofactor/onb_jmt6w-0127.png
+macrofactor,appllama-onboarding,Protein,What is your preferred protein intake?,onb_jmt6w-0130,onboarding/frames/macrofactor/onb_jmt6w-0130.png
+macrofactor,user-feature-setup,Food logging,Choose how to add food to an hour: a persistent plus button or a long-press shortcut.,U07-0381,onboarding/frames/macrofactor/U07-0381.png
+strava,appllama-onboarding,Registration,"Choose Google, Apple or email to create your account.",onb_8511n-0004,onboarding/frames/strava/onb_8511n-0004.png
+strava,appllama-onboarding,Registration,What is your email address?,onb_8511n-0004,onboarding/frames/strava/onb_8511n-0004.png
+strava,appllama-onboarding,Email verification,Enter the 6-digit code sent to your email address.,onb_8511n-0018,onboarding/frames/strava/onb_8511n-0018.png
+strava,appllama-onboarding,Public profile,What is your first name?,onb_8511n-0025,onboarding/frames/strava/onb_8511n-0025.png
+strava,appllama-onboarding,Public profile,What is your last name?,onb_8511n-0025,onboarding/frames/strava/onb_8511n-0025.png
+strava,appllama-onboarding,Basic profile,When's your birthday?,onb_8511n-0027,onboarding/frames/strava/onb_8511n-0027.png
+strava,appllama-onboarding,Gender,What's your gender?,onb_8511n-0041,onboarding/frames/strava/onb_8511n-0041.png
+strava,appllama-onboarding,Activity preferences,What types of activities do you like to do?,onb_8511n-0043 | onb_8511n-0058 | onb_8511n-0066,onboarding/frames/strava/onb_8511n-0043.png | onboarding/frames/strava/onb_8511n-0058.png | onboarding/frames/strava/onb_8511n-0066.png
+strava,appllama-onboarding,Goals,What do you plan to use Strava for?,onb_8511n-0073,onboarding/frames/strava/onb_8511n-0073.png
+strava,appllama-onboarding,Fitness level,Where are you in your fitness journey?,onb_8511n-0079,onboarding/frames/strava/onb_8511n-0079.png
+strava,appllama-onboarding,Notifications,"Allow notifications about followers, Clubs and activity?",onb_8511n-0096 | onb_8511n-0098,onboarding/frames/strava/onb_8511n-0096.png | onboarding/frames/strava/onb_8511n-0098.png
+strava,appllama-onboarding,Email preferences,"Would you like emails about new features, challenges and updates?",onb_8511n-0100,onboarding/frames/strava/onb_8511n-0100.png
+strava,appllama-onboarding,Community,Find friends or choose suggested accounts to follow.,onb_8511n-0103,onboarding/frames/strava/onb_8511n-0103.png
+strava,appllama-first-activity,Activity tracking,Record an activity with Strava or connect a device to upload activities.,onb_8511n-0109,onboarding/frames/strava/onb_8511n-0109.png
+bodi,appllama-onboarding,Fitness level,What's your current fitness level?,onb_36vkx-0006,onboarding/frames/bodi/onb_36vkx-0006.png
+bodi,appllama-onboarding,Workout preferences,What types of workouts do you enjoy?,onb_36vkx-0009 | onb_36vkx-0011,onboarding/frames/bodi/onb_36vkx-0009.png | onboarding/frames/bodi/onb_36vkx-0011.png
+bodi,appllama-onboarding,Workout duration,How much time can you commit on workout days?,onb_36vkx-0017,onboarding/frames/bodi/onb_36vkx-0017.png
+bodi,appllama-onboarding,Registration,What is your first name?,onb_36vkx-0019,onboarding/frames/bodi/onb_36vkx-0019.png
+bodi,appllama-onboarding,Registration,What is your last name?,onb_36vkx-0019,onboarding/frames/bodi/onb_36vkx-0019.png
+bodi,appllama-onboarding,Registration,What is your email address?,onb_36vkx-0019,onboarding/frames/bodi/onb_36vkx-0019.png
+bodi,appllama-onboarding,Registration,Create a password that meets the displayed requirements.,onb_36vkx-0019,onboarding/frames/bodi/onb_36vkx-0019.png
+bodi,appllama-onboarding,Notifications,"Would you like progress reminders, milestone badges and daily nudges?",onb_36vkx-0045,onboarding/frames/bodi/onb_36vkx-0045.png
+lyfta,appllama-onboarding,Basic profile,What's your gender?,onb_2euk1-0005,onboarding/frames/lyfta/onb_2euk1-0005.png
+lyfta,appllama-onboarding,Fitness goals,What are your goals?,onb_2euk1-0008,onboarding/frames/lyfta/onb_2euk1-0008.png
+lyfta,appllama-onboarding,Primary use,What would you like to do most?,onb_2euk1-0016,onboarding/frames/lyfta/onb_2euk1-0016.png
+lyfta,appllama-onboarding,Attribution,How did you hear about Lyfta?,onb_2euk1-0020,onboarding/frames/lyfta/onb_2euk1-0020.png
+lyfta,appllama-onboarding,Motivation,Why do you track your workouts?,onb_2euk1-0023,onboarding/frames/lyfta/onb_2euk1-0023.png
+lyfta,appllama-onboarding,Training experience,How experienced are you with weightlifting?,onb_2euk1-0028,onboarding/frames/lyfta/onb_2euk1-0028.png
+lyfta,appllama-onboarding,Training frequency,How many days a week would you like to work out?,onb_2euk1-0034,onboarding/frames/lyfta/onb_2euk1-0034.png
+lyfta,appllama-onboarding,Commitment,How long can you stick to it?,onb_2euk1-0037,onboarding/frames/lyfta/onb_2euk1-0037.png
+lyfta,appllama-onboarding,Reminders,Which days and times would you like workout reminders?,onb_2euk1-0041,onboarding/frames/lyfta/onb_2euk1-0041.png
+lyfta,appllama-onboarding,Notifications,Allow Lyfta to send notifications?,onb_2euk1-0042,onboarding/frames/lyfta/onb_2euk1-0042.png
+lyfta,appllama-onboarding,Equipment,What equipment do you have?,onb_2euk1-0054,onboarding/frames/lyfta/onb_2euk1-0054.png
+lyfta,appllama-onboarding,Apple Health,Allow Lyfta to access and update your Health data?,onb_2euk1-0060,onboarding/frames/lyfta/onb_2euk1-0060.png
+lyfta,appllama-onboarding,Body data,How much do you weigh?,onb_2euk1-0065,onboarding/frames/lyfta/onb_2euk1-0065.png
+lyfta,appllama-onboarding,Referral code,"Enter a referral code, or skip this optional step.",onb_2euk1-0068,onboarding/frames/lyfta/onb_2euk1-0068.png
+lyfta,appllama-onboarding,Registration,Continue with Apple or email.,onb_2euk1-0069,onboarding/frames/lyfta/onb_2euk1-0069.png
+lyfta,appllama-onboarding,Registration,What is your first name?,onb_2euk1-0071,onboarding/frames/lyfta/onb_2euk1-0071.png
+lyfta,appllama-onboarding,Registration,What is your last name?,onb_2euk1-0075,onboarding/frames/lyfta/onb_2euk1-0075.png
+lyfta,appllama-onboarding,Registration,What is your email address?,onb_2euk1-0079,onboarding/frames/lyfta/onb_2euk1-0079.png
+lyfta,appllama-onboarding,Registration,Create a password.,onb_2euk1-0087,onboarding/frames/lyfta/onb_2euk1-0087.png
+strong,appllama-registration,Registration,"Choose Apple, email sign-up, Google or Facebook, or log in to an existing account.",onb_6y1p3-0001,onboarding/frames/strong/onb_6y1p3-0001.png
+strong,appllama-registration,Registration,Choose a username.,onb_6y1p3-0002,onboarding/frames/strong/onb_6y1p3-0002.png
+strong,appllama-registration,Registration,Create a password.,onb_6y1p3-0002,onboarding/frames/strong/onb_6y1p3-0002.png
+strong,appllama-registration,Registration,What is your email address?,onb_6y1p3-0002,onboarding/frames/strong/onb_6y1p3-0002.png
+strong,appllama-first-workout,First workout,Start an empty workout or create a workout template.,onb_6y1p3-0018,onboarding/frames/strong/onb_6y1p3-0018.png
+jefit,appllama-onboarding,Attribution,How did you hear about us?,onb_6swxj-0006,onboarding/frames/jefit/onb_6swxj-0006.png
+jefit,appllama-onboarding,Basic profile,Select your gender.,onb_6swxj-0010,onboarding/frames/jefit/onb_6swxj-0010.png
+jefit,appllama-onboarding,Fitness goal,What's your main goal for training?,onb_6swxj-0012,onboarding/frames/jefit/onb_6swxj-0012.png
+jefit,appllama-onboarding,Current physique,Which describes your current build best?,onb_6swxj-0013,onboarding/frames/jefit/onb_6swxj-0013.png
+jefit,appllama-onboarding,Target physique,What is your goal body type?,onb_6swxj-0015,onboarding/frames/jefit/onb_6swxj-0015.png
+jefit,appllama-onboarding,Target areas,What are your target zones?,onb_6swxj-0025,onboarding/frames/jefit/onb_6swxj-0025.png
+jefit,appllama-onboarding,Fitness level,What is your fitness level?,onb_6swxj-0028,onboarding/frames/jefit/onb_6swxj-0028.png
+jefit,appllama-onboarding,Body data,What is your height?,onb_6swxj-0031,onboarding/frames/jefit/onb_6swxj-0031.png
+jefit,appllama-onboarding,Body data,What is your current weight?,onb_6swxj-0037,onboarding/frames/jefit/onb_6swxj-0037.png
+jefit,appllama-onboarding,Weight goal,What is your goal weight?,onb_6swxj-0041,onboarding/frames/jefit/onb_6swxj-0041.png
+jefit,appllama-onboarding,Basic profile,What is your age?,onb_6swxj-0053,onboarding/frames/jefit/onb_6swxj-0053.png
+jefit,appllama-onboarding,Training location,What's your preferred place to work out?,onb_6swxj-0055,onboarding/frames/jefit/onb_6swxj-0055.png
+jefit,appllama-onboarding,Equipment,Select your equipment list.,onb_6swxj-0059,onboarding/frames/jefit/onb_6swxj-0059.png
+jefit,appllama-onboarding,Training frequency,How many times per week would you like to train?,onb_6swxj-0061,onboarding/frames/jefit/onb_6swxj-0061.png
+jefit,appllama-onboarding,Workout duration,What is a perfect length of a workout for you?,onb_6swxj-0064,onboarding/frames/jefit/onb_6swxj-0064.png
+jefit,appllama-onboarding,Injuries,Do you have any injuries? Select the affected muscles or joints.,onb_6swxj-0067,onboarding/frames/jefit/onb_6swxj-0067.png
+jefit,appllama-onboarding,Training confidence,How often do you guess your weight or reps?,onb_6swxj-0069,onboarding/frames/jefit/onb_6swxj-0069.png
+jefit,appllama-onboarding,Notifications,Allow JEFIT to send notifications?,onb_6swxj-0072 | onb_6swxj-0073,onboarding/frames/jefit/onb_6swxj-0072.png | onboarding/frames/jefit/onb_6swxj-0073.png
+jefit,appllama-onboarding,Registration,"Choose Apple, Google, Facebook or email to create your account.",onb_6swxj-0098,onboarding/frames/jefit/onb_6swxj-0098.png
+jefit,appllama-onboarding,Registration,What is your email address?,onb_6swxj-0099,onboarding/frames/jefit/onb_6swxj-0099.png
+jefit,appllama-onboarding,Registration,Choose a username.,onb_6swxj-0099,onboarding/frames/jefit/onb_6swxj-0099.png
+jefit,appllama-onboarding,Registration,Create a password that meets the displayed requirements.,onb_6swxj-0099,onboarding/frames/jefit/onb_6swxj-0099.png
+jefit,appllama-onboarding,Password storage,Would you like to save your password for autofill?,onb_6swxj-0116,onboarding/frames/jefit/onb_6swxj-0116.png
+jefit,appllama-first-workout,Workout setup,Create a workout from scratch or find a plan.,onb_6swxj-0128,onboarding/frames/jefit/onb_6swxj-0128.png
+jefit,appllama-first-workout,Workout setup,Add a workout day.,onb_6swxj-0129,onboarding/frames/jefit/onb_6swxj-0129.png
+jefit,appllama-first-workout,Exercise selection,Which exercises would you like to add to your workout?,onb_6swxj-0136,onboarding/frames/jefit/onb_6swxj-0136.png
+jefit,appllama-first-workout,Workout logging,"Enter the number of repetitions for each set, then log the set.",onb_6swxj-0140 | onb_6swxj-0147,onboarding/frames/jefit/onb_6swxj-0140.png | onboarding/frames/jefit/onb_6swxj-0147.png
+muscle-monster,appllama-onboarding,Basic profile,What is your gender?,onboarding-001-onb_urj0o-step-01,onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-01.png
+muscle-monster,appllama-onboarding,Fitness goal,What's your fitness goal?,onboarding-001-onb_urj0o-step-02,onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-02.png
+muscle-monster,appllama-onboarding,Muscle-building motivation,What is your main muscle-building goal?,onboarding-001-onb_urj0o-step-03,onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-03.png
+muscle-monster,appllama-onboarding,Target areas,Which areas do you want to focus on?,onboarding-001-onb_urj0o-step-05,onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-05.png
+muscle-monster,appllama-onboarding,Body data,How old are you?,onboarding-001-onb_urj0o-step-07,onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-07.png
+muscle-monster,appllama-onboarding,Body data,What is your height?,onboarding-001-onb_urj0o-step-08,onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-08.png
+muscle-monster,appllama-onboarding,Body data,What is your current weight?,onboarding-001-onb_urj0o-step-09,onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-09.png
+muscle-monster,appllama-onboarding,Weight goal,What is your target weight?,onboarding-001-onb_urj0o-step-10,onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-10.png
+muscle-monster,appllama-onboarding,Goal pace,At what pace would you like to achieve your goal?,onboarding-001-onb_urj0o-step-11,onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-11.png
+muscle-monster,appllama-onboarding,Body shape,Choose your current body shape.,onboarding-001-onb_urj0o-step-13,onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-13.png
+muscle-monster,appllama-onboarding,Body shape,Choose your desired body shape.,onboarding-001-onb_urj0o-step-14,onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-14.png
+muscle-monster,appllama-onboarding,Lifestyle,"Do you experience any of these issues: prolonged sitting, poor sleep quality or dietary issues?",onboarding-001-onb_urj0o-step-16,onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-16.png
+muscle-monster,appllama-onboarding,Injuries,Have you suffered any injuries recently?,onboarding-001-onb_urj0o-step-18,onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-18.png
+muscle-monster,appllama-onboarding,Fitness level,How would you rate your fitness level?,onboarding-001-onb_urj0o-step-21,onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-21.png
+muscle-monster,appllama-onboarding,Equipment,Choose your preferred training equipment.,onboarding-001-onb_urj0o-step-22,onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-22.png
+muscle-monster,appllama-onboarding,Schedule,Which days of the week would you like to train?,onboarding-001-onb_urj0o-step-23,onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-23.png
+muscle-monster,appllama-onboarding,Reminders,Would you like training reminders?,onboarding-001-onb_urj0o-step-23,onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-23.png
+muscle-monster,appllama-onboarding,Training concerns,Are you unsure how to choose an exercise method that suits you?,onboarding-001-onb_urj0o-step-25,onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-25.png
+muscle-monster,appllama-onboarding,Training concerns,Are you unsure about the right exercise frequency and intensity for your current physical condition?,onboarding-001-onb_urj0o-step-26,onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-26.png
+muscle-monster,appllama-onboarding,Motivation,Do you want a healthier body?,onboarding-001-onb_urj0o-step-28,onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-28.png
+muscle-monster,appllama-onboarding,Motivation,Do you want to be more confident?,onboarding-001-onb_urj0o-step-29,onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-29.png
+muscle-monster,appllama-onboarding,Registration,What is your email address?,onboarding-001-onb_urj0o-step-42,onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-42.png
+muscle-monster,appllama-onboarding,Registration,Confirm your email address or change it.,onboarding-001-onb_urj0o-step-43,onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-43.png
+shred,appllama-onboarding,Basic profile,Choose the male or female training experience.,onb_ygbmx-0011,onboarding/frames/shred/onb_ygbmx-0011.png
+shred,appllama-onboarding,Body data,What's your current height?,onb_ygbmx-0012,onboarding/frames/shred/onb_ygbmx-0012.png
+shred,appllama-onboarding,Body data,What's your current weight?,onb_ygbmx-0020,onboarding/frames/shred/onb_ygbmx-0020.png
+shred,appllama-onboarding,Basic profile,What's your age?,onb_ygbmx-0021,onboarding/frames/shred/onb_ygbmx-0021.png
+shred,appllama-onboarding,Training skill,How skilled do you feel when working out?,onb_ygbmx-0025,onboarding/frames/shred/onb_ygbmx-0025.png
+shred,appllama-onboarding,Fitness goal,What's your fitness goal?,onb_ygbmx-0027,onboarding/frames/shred/onb_ygbmx-0027.png
+shred,appllama-onboarding,Weight goal,What's your target weight?,onb_ygbmx-0035,onboarding/frames/shred/onb_ygbmx-0035.png
+shred,appllama-onboarding,Goal pace,How fast do you want to lose the selected amount of weight?,onb_ygbmx-0037,onboarding/frames/shred/onb_ygbmx-0037.png
+shred,appllama-onboarding,Training frequency,How many days per week do you work out?,onb_ygbmx-0040,onboarding/frames/shred/onb_ygbmx-0040.png
+shred,appllama-onboarding,Recent activity,When was your last time in the gym?,onb_ygbmx-0042,onboarding/frames/shred/onb_ygbmx-0042.png
+shred,appllama-onboarding,Gym type,What type of gym do you use?,onb_ygbmx-0045,onboarding/frames/shred/onb_ygbmx-0045.png
+shred,appllama-onboarding,Home setup,How much equipment do you have in your home gym?,onb_ygbmx-0047,onboarding/frames/shred/onb_ygbmx-0047.png
+shred,appllama-onboarding,Workout format,Choose your preferred workout format.,onb_ygbmx-0049,onboarding/frames/shred/onb_ygbmx-0049.png
+shred,appllama-onboarding,Equipment,Choose your available equipment.,onb_ygbmx-0050,onboarding/frames/shred/onb_ygbmx-0050.png
+shred,appllama-onboarding,Coaching style,What is your preferred coach style?,onb_ygbmx-0057,onboarding/frames/shred/onb_ygbmx-0057.png
+shred,appllama-onboarding,Attribution,How did you hear about us?,onb_ygbmx-0059,onboarding/frames/shred/onb_ygbmx-0059.png
+shred,appllama-onboarding,Notifications,Enable push notifications for coaching and workout updates?,onb_ygbmx-0061 | onb_ygbmx-0062,onboarding/frames/shred/onb_ygbmx-0061.png | onboarding/frames/shred/onb_ygbmx-0062.png
+shred,appllama-onboarding,Apple Health,Allow SHRED to access and update your Health data?,onb_ygbmx-0064 | onb_ygbmx-0066,onboarding/frames/shred/onb_ygbmx-0064.png | onboarding/frames/shred/onb_ygbmx-0066.png
+shred,appllama-onboarding,Registration,"Choose Apple, Google or email to save your settings.",onb_ygbmx-0072,onboarding/frames/shred/onb_ygbmx-0072.png
+shred,appllama-onboarding,Communications,Would you like to receive communications from SHRED?,onb_ygbmx-0072,onboarding/frames/shred/onb_ygbmx-0072.png
+shred,appllama-onboarding,Registration,What is your first name?,onb_ygbmx-0073,onboarding/frames/shred/onb_ygbmx-0073.png
+shred,appllama-onboarding,Registration,What is your last name?,onb_ygbmx-0073,onboarding/frames/shred/onb_ygbmx-0073.png
+shred,appllama-onboarding,Registration,What is your email address?,onb_ygbmx-0073,onboarding/frames/shred/onb_ygbmx-0073.png
+shred,appllama-onboarding,Registration,Create a password.,onb_ygbmx-0073,onboarding/frames/shred/onb_ygbmx-0073.png
+shred,appllama-onboarding,Community,"Choose recommended users to follow, or skip.",onb_ygbmx-0088,onboarding/frames/shred/onb_ygbmx-0088.png
+symmetry,appllama-onboarding,Fitness goal,What is your top fitness goal?,onb_tyza6-0010,onboarding/frames/symmetry/onb_tyza6-0010.png
+symmetry,appllama-onboarding,Motivation,Why do you want to achieve this goal?,onb_tyza6-0013,onboarding/frames/symmetry/onb_tyza6-0013.png
+symmetry,appllama-onboarding,Obstacles,What is stopping you from achieving this goal?,onb_tyza6-0017,onboarding/frames/symmetry/onb_tyza6-0017.png
+symmetry,appllama-onboarding,Training experience,How experienced are you with working out?,onb_tyza6-0023,onboarding/frames/symmetry/onb_tyza6-0023.png
+symmetry,appllama-onboarding,Body data,What's your current weight?,onb_tyza6-0027,onboarding/frames/symmetry/onb_tyza6-0027.png
+symmetry,appllama-onboarding,Basic profile,What is your biological gender?,onb_tyza6-0029,onboarding/frames/symmetry/onb_tyza6-0029.png
+symmetry,appllama-onboarding,Attribution,How did you find us?,onb_tyza6-0032,onboarding/frames/symmetry/onb_tyza6-0032.png
+symmetry,appllama-onboarding,Body image,"Do you relate to this statement: “I really want to change my physique, but so far I haven’t been able to”?",onb_tyza6-0035,onboarding/frames/symmetry/onb_tyza6-0035.png
+symmetry,appllama-onboarding,Consistency,Do you relate to this statement: “I haven’t been able to train consistently without quitting”?,onb_tyza6-0037,onboarding/frames/symmetry/onb_tyza6-0037.png
+symmetry,appllama-onboarding,Training confidence,Do you relate to this statement: “I feel lost when I go to train and don’t really know what to do”?,onb_tyza6-0039,onboarding/frames/symmetry/onb_tyza6-0039.png
+symmetry,appllama-onboarding,Exercise technique,Do you relate to this statement: “I do exercises with constant doubt about whether my technique is correct”?,onb_tyza6-0041,onboarding/frames/symmetry/onb_tyza6-0041.png
+symmetry,appllama-onboarding,Training environment,What equipment do you have available?,onb_tyza6-0076,onboarding/frames/symmetry/onb_tyza6-0076.png
+symmetry,appllama-onboarding,Equipment confirmation,Is this your equipment? Confirm or adjust the inventory.,onb_tyza6-0078 | onb_tyza6-0080 | onb_tyza6-0081 | onb_tyza6-0083,onboarding/frames/symmetry/onb_tyza6-0078.png | onboarding/frames/symmetry/onb_tyza6-0080.png | onboarding/frames/symmetry/onb_tyza6-0081.png | onboarding/frames/symmetry/onb_tyza6-0083.png
+symmetry,appllama-onboarding,Training frequency,How many times a week do you want to work out?,onb_tyza6-0088,onboarding/frames/symmetry/onb_tyza6-0088.png
+symmetry,appllama-onboarding,Schedule,"If choosing specific days, which days would you like to train?",onb_tyza6-0090,onboarding/frames/symmetry/onb_tyza6-0090.png
+symmetry,appllama-onboarding,Notifications,Allow reminders and notifications to help you stay focused on your goals?,onb_tyza6-0093 | onb_tyza6-0094,onboarding/frames/symmetry/onb_tyza6-0093.png | onboarding/frames/symmetry/onb_tyza6-0094.png
+symmetry,appllama-onboarding,Email preferences,Can we send you emails?,onb_tyza6-0097,onboarding/frames/symmetry/onb_tyza6-0097.png
+symmetry,appllama-onboarding,Workout duration,How long do you want workouts to be?,onb_tyza6-0101,onboarding/frames/symmetry/onb_tyza6-0101.png
+symmetry,appllama-onboarding,Pain and injuries,Do you have any pain or injuries?,onb_tyza6-0104,onboarding/frames/symmetry/onb_tyza6-0104.png
+symmetry,appllama-onboarding,Commitment,Hold to sign your promise to work out at the selected weekly frequency.,onb_tyza6-0117,onboarding/frames/symmetry/onb_tyza6-0117.png
+symmetry,appllama-onboarding,Registration,"Choose Apple, Google or email to create your account.",onb_tyza6-0131,onboarding/frames/symmetry/onb_tyza6-0131.png
+symmetry,appllama-onboarding,Registration,Choose a username.,onb_tyza6-0132,onboarding/frames/symmetry/onb_tyza6-0132.png
+symmetry,appllama-onboarding,Registration,What is your email address?,onb_tyza6-0132,onboarding/frames/symmetry/onb_tyza6-0132.png
+symmetry,appllama-onboarding,Registration,Create a password.,onb_tyza6-0132,onboarding/frames/symmetry/onb_tyza6-0132.png
+symmetry,appllama-onboarding,Registration,Confirm your password.,onb_tyza6-0132,onboarding/frames/symmetry/onb_tyza6-0132.png
+gravl,appllama-onboarding,Name,What would you like us to call you?,onb_dt7pt-0003,onboarding/frames/gravl/onb_dt7pt-0003.png
+gravl,appllama-onboarding,Motivation,Why do you want to use a fitness app? Choose up to three reasons.,onb_dt7pt-0014 | onb_dt7pt-0016,onboarding/frames/gravl/onb_dt7pt-0014.png | onboarding/frames/gravl/onb_dt7pt-0016.png
+gravl,appllama-onboarding,Fitness goals,What are your top fitness goals?,onb_dt7pt-0026,onboarding/frames/gravl/onb_dt7pt-0026.png
+gravl,appllama-onboarding,Training experience,How experienced are you with lifting weights?,onb_dt7pt-0027,onboarding/frames/gravl/onb_dt7pt-0027.png
+gravl,appllama-onboarding,Apple Health,"Allow Gravl to access Apple Health, or skip?",onb_dt7pt-0029,onboarding/frames/gravl/onb_dt7pt-0029.png
+gravl,appllama-onboarding,Basic profile,What's your gender?,onb_dt7pt-0031,onboarding/frames/gravl/onb_dt7pt-0031.png
+gravl,appllama-onboarding,Basic profile,How old are you? Select your date of birth.,onb_dt7pt-0041,onboarding/frames/gravl/onb_dt7pt-0041.png
+gravl,appllama-onboarding,Body data,What's your height?,onb_dt7pt-0046,onboarding/frames/gravl/onb_dt7pt-0046.png
+gravl,appllama-onboarding,Body data,What's your weight?,onb_dt7pt-0047,onboarding/frames/gravl/onb_dt7pt-0047.png
+gravl,appllama-onboarding,Training frequency,How often do you want to train?,onb_dt7pt-0059,onboarding/frames/gravl/onb_dt7pt-0059.png
+gravl,appllama-onboarding,Training split,"What's your preferred workout split? Let Gravl choose, use a recovery split, or pick from the library.",onb_dt7pt-0063,onboarding/frames/gravl/onb_dt7pt-0063.png
+gravl,appllama-onboarding,Training location,Where do you exercise?,onb_dt7pt-0068,onboarding/frames/gravl/onb_dt7pt-0068.png
+gravl,appllama-onboarding,Equipment,Select the equipment you have access to.,onb_dt7pt-0071 | onb_dt7pt-0075 | onb_dt7pt-0078 | onb_dt7pt-0079 | onb_dt7pt-0082,onboarding/frames/gravl/onb_dt7pt-0071.png | onboarding/frames/gravl/onb_dt7pt-0075.png | onboarding/frames/gravl/onb_dt7pt-0078.png | onboarding/frames/gravl/onb_dt7pt-0079.png | onboarding/frames/gravl/onb_dt7pt-0082.png
+gravl,appllama-onboarding,Notifications,"Allow notifications for rest timers, workout controls and progress updates?",onb_dt7pt-0086 | onb_dt7pt-0088,onboarding/frames/gravl/onb_dt7pt-0086.png | onboarding/frames/gravl/onb_dt7pt-0088.png
+gravl,appllama-onboarding,Attribution,How did you hear about us?,onb_dt7pt-0092,onboarding/frames/gravl/onb_dt7pt-0092.png
+gravl,appllama-onboarding,Affiliate referral,"If an affiliate referred you, enter a promo code.",onb_dt7pt-0092,onboarding/frames/gravl/onb_dt7pt-0092.png
+gravl,appllama-onboarding,Registration,"Choose Apple, Google or email to create your account.",onb_dt7pt-0111,onboarding/frames/gravl/onb_dt7pt-0111.png
+gravl,appllama-onboarding,Registration,What is your email address?,onb_dt7pt-0131,onboarding/frames/gravl/onb_dt7pt-0131.png
+gravl,appllama-onboarding,Registration,Create a password.,onb_dt7pt-0131,onboarding/frames/gravl/onb_dt7pt-0131.png
+gravl,appllama-onboarding,Registration,Confirm your password.,onb_dt7pt-0131,onboarding/frames/gravl/onb_dt7pt-0131.png
+gravl,appllama-onboarding,Email verification,"Enter the 4-digit code sent to your email, or verify using an email link.",onb_dt7pt-0144,onboarding/frames/gravl/onb_dt7pt-0144.png
+peloton,appllama-email-signup,Registration,"Choose how to sign up: email, Apple or Google.",onboarding-001-onb_8ki1d-step-02,onboarding/frames/peloton/onboarding-001-onb_8ki1d-step-02.png
+peloton,appllama-email-signup,Registration,What is your email address?,onboarding-001-onb_8ki1d-step-02,onboarding/frames/peloton/onboarding-001-onb_8ki1d-step-02.png
+peloton,appllama-email-signup,Email preferences,"Would you like email updates about workout progress, milestones, features and products?",onboarding-001-onb_8ki1d-step-02,onboarding/frames/peloton/onboarding-001-onb_8ki1d-step-02.png
+peloton,appllama-email-signup,Registration,Set a password with at least 8 characters.,onboarding-001-onb_8ki1d-step-03,onboarding/frames/peloton/onboarding-001-onb_8ki1d-step-03.png
+peloton,appllama-email-signup,Public profile,"Choose a username (3–15 characters, without special characters).",onboarding-001-onb_8ki1d-step-04,onboarding/frames/peloton/onboarding-001-onb_8ki1d-step-04.png
+peloton,appllama-email-signup,Age confirmation,What is your date of birth?,onboarding-001-onb_8ki1d-step-07,onboarding/frames/peloton/onboarding-001-onb_8ki1d-step-07.png
+mci,appllama-onboarding,Goals,"Before we start, what brings you here? Choose up to three goals.",onb_bh4bf-0007,onboarding/frames/mci/onb_bh4bf-0007.png
+mci,appllama-onboarding,Apple Health,Would you like to connect Apple Health?,onb_bh4bf-0014,onboarding/frames/mci/onb_bh4bf-0014.png
+mci,appllama-onboarding,Basic profile,Choose your gender.,onb_bh4bf-0016,onboarding/frames/mci/onb_bh4bf-0016.png
+mci,appllama-onboarding,Basic profile,When is your birthday?,onb_bh4bf-0027,onboarding/frames/mci/onb_bh4bf-0027.png
+mci,appllama-onboarding,Body data,How tall are you?,onb_bh4bf-0030,onboarding/frames/mci/onb_bh4bf-0030.png
+mci,appllama-onboarding,Body data,How much do you weigh?,onb_bh4bf-0032,onboarding/frames/mci/onb_bh4bf-0032.png
+mci,appllama-onboarding,Body composition,Estimate your body-fat percentage.,onb_bh4bf-0033,onboarding/frames/mci/onb_bh4bf-0033.png
+mci,appllama-onboarding,Training experience,How long have you been consistently doing strength training?,onb_bh4bf-0044,onboarding/frames/mci/onb_bh4bf-0044.png
+mci,appllama-onboarding,Body-composition goal,"What are you aiming for: weight loss, muscle gain, maintenance or recomposition?",onb_bh4bf-0045,onboarding/frames/mci/onb_bh4bf-0045.png
+mci,appllama-onboarding,Training frequency,How often do you want to train?,onb_bh4bf-0060,onboarding/frames/mci/onb_bh4bf-0060.png
+mci,appllama-onboarding,Split confirmation,Continue despite the warning that the training volume may not suit your experience?,onb_bh4bf-0061,onboarding/frames/mci/onb_bh4bf-0061.png
+mci,appllama-onboarding,Training split,Choose your training split.,onb_bh4bf-0065,onboarding/frames/mci/onb_bh4bf-0065.png
+mci,appllama-onboarding,Schedule,On which days would you like to place your training sessions?,onb_bh4bf-0066,onboarding/frames/mci/onb_bh4bf-0066.png
+mci,appllama-onboarding,Workout duration,How long should each session last?,onb_bh4bf-0066,onboarding/frames/mci/onb_bh4bf-0066.png
+mci,appllama-onboarding,Rest reminders,Would you like reminders when your rest is over?,onb_bh4bf-0071,onboarding/frames/mci/onb_bh4bf-0071.png
+mci,appllama-onboarding,Notifications,Allow MCI to send notifications?,onb_bh4bf-0072,onboarding/frames/mci/onb_bh4bf-0072.png
+mci,appllama-onboarding,Training location,Where will you train?,onb_bh4bf-0074,onboarding/frames/mci/onb_bh4bf-0074.png
+mci,appllama-onboarding,Equipment,Confirm or edit the equipment available at your training location.,onb_bh4bf-0074,onboarding/frames/mci/onb_bh4bf-0074.png
+mci,appllama-onboarding,Pain,Do you feel any pain? Select the body area and its severity.,onb_bh4bf-0079,onboarding/frames/mci/onb_bh4bf-0079.png
+mci,appllama-onboarding,Daily activity,"How active are you in your free time, apart from strength training?",onb_bh4bf-0087,onboarding/frames/mci/onb_bh4bf-0087.png
+mci,appllama-onboarding,Work activity,What's your position and physical activity during work?,onb_bh4bf-0091,onboarding/frames/mci/onb_bh4bf-0091.png
+mci,appllama-onboarding,Promo code,Do you have a promo code?,onb_bh4bf-0098,onboarding/frames/mci/onb_bh4bf-0098.png
+mci,user-experienced-route,Tracking permission,Allow MCI to track your activity across other companies’ apps and websites?,U10-0004,onboarding/frames/mci/U10-0004.png
+mci,user-experienced-route,Goals,"Before we start, what brings you here?",U10-0013,onboarding/frames/mci/U10-0013.png
+mci,user-experienced-route,Apple Health,Would you like to connect Apple Health?,U10-0016,onboarding/frames/mci/U10-0016.png
+mci,user-experienced-route,Basic profile,Choose your gender.,U10-0021,onboarding/frames/mci/U10-0021.png
+mci,user-experienced-route,Basic profile,When is your birthday?,U10-0022,onboarding/frames/mci/U10-0022.png
+mci,user-experienced-route,Body data,How tall are you?,U10-0044,onboarding/frames/mci/U10-0044.png
+mci,user-experienced-route,Body data,How much do you weigh?,U10-0047,onboarding/frames/mci/U10-0047.png
+mci,user-experienced-route,Body composition,Estimate your body-fat percentage.,U10-0048,onboarding/frames/mci/U10-0048.png
+mci,user-experienced-route,Training consistency,Have you been training continuously for the last 3 months?,U10-0085,onboarding/frames/mci/U10-0085.png
+mci,user-experienced-route,Training experience,How would you rate yourself?,U10-0087,onboarding/frames/mci/U10-0087.png
+mci,user-experienced-route,Body-composition goal,What are you aiming for?,U10-0088,onboarding/frames/mci/U10-0088.png
+mci,user-experienced-route,Muscle priorities,Where is your focus? Select up to two muscle groups.,U10-0122,onboarding/frames/mci/U10-0122.png
+mci,user-experienced-route,Training frequency,How often do you want to train?,U10-0134,onboarding/frames/mci/U10-0134.png
+mci,user-experienced-route,Training split,Choose your training split.,U10-0135,onboarding/frames/mci/U10-0135.png
+mci,user-experienced-route,Schedule,On which days would you like to place your training sessions?,U10-0140,onboarding/frames/mci/U10-0140.png
+mci,user-experienced-route,Workout duration,How long should each session last?,U10-0140,onboarding/frames/mci/U10-0140.png
+mci,user-experienced-route,Rest reminders,Would you like reminders when your rest is over?,U10-0141,onboarding/frames/mci/U10-0141.png
+mci,user-experienced-route,Training location,Where will you train?,U10-0143,onboarding/frames/mci/U10-0143.png
+mci,user-experienced-route,Equipment,Confirm or edit the equipment available at your training location.,U10-0143,onboarding/frames/mci/U10-0143.png
+mci,user-experienced-route,Pain,Do you feel any pain? Select the affected body areas.,U10-0145 | U10-0147,onboarding/frames/mci/U10-0145.png | onboarding/frames/mci/U10-0147.png
+mci,user-experienced-route,Daily activity,"How active are you in your free time, apart from strength training?",U10-0151,onboarding/frames/mci/U10-0151.png
+mci,user-experienced-route,Work activity,What's your position and physical activity during work?,U10-0153 | U10-0157,onboarding/frames/mci/U10-0153.png | onboarding/frames/mci/U10-0157.png
+mci,user-experienced-route,Promo code,Do you have a promo code?,U10-0162,onboarding/frames/mci/U10-0162.png
+mci,user-experienced-route,Consent,Do you agree to the terms of use?,U10-0194,onboarding/frames/mci/U10-0194.png
+mci,user-experienced-route,Registration,"Choose Google, Apple or email to save your progress.",U10-0194,onboarding/frames/mci/U10-0194.png
+mci,user-first-use,Camera permission,Allow MCI to access the camera for movement analysis and barcode scanning?,U10-0282,onboarding/frames/mci/U10-0282.png
+mci,user-first-use,First workout,Start a guided workout or skip because you already know MCI.,U10-0470,onboarding/frames/mci/U10-0470.png
+mci,user-first-use,Exercise notes,Add any notes about the exercise.,U10-0479,onboarding/frames/mci/U10-0479.png
+mci,user-first-use,Energy,How would you rate your energy level today?,U10-0483,onboarding/frames/mci/U10-0483.png
+mci,user-first-use,Soreness,Are your muscles sore? Select the affected muscles and rate the soreness.,U10-0487,onboarding/frames/mci/U10-0487.png
+mci,user-first-use,Strength test,Choose a challenging weight and enter your repetitions and weight.,U10-0492,onboarding/frames/mci/U10-0492.png
+mci,user-first-use,Reps in reserve,How many more repetitions could you have completed with proper form at the end of the set?,U10-0501,onboarding/frames/mci/U10-0501.png
+mci,user-first-use,Notifications,Allow MCI to send notifications?,U10-0505,onboarding/frames/mci/U10-0505.png
+trx,user-onboarding,Registration,What is your email address?,U02-0006,onboarding/frames/trx/U02-0006.png
+trx,user-onboarding,Registration,Create a password with at least 6 characters.,U02-0006,onboarding/frames/trx/U02-0006.png
+trx,user-onboarding,Registration,Confirm your password.,U02-0006,onboarding/frames/trx/U02-0006.png
+trx,user-onboarding,Registration,What is your first name?,U02-0006,onboarding/frames/trx/U02-0006.png
+trx,user-onboarding,Registration,What is your last name?,U02-0006,onboarding/frames/trx/U02-0006.png
+trx,user-onboarding,Registration,What is your date of birth? (Optional),U02-0006 | U02-0024,onboarding/frames/trx/U02-0006.png | onboarding/frames/trx/U02-0024.png
+trx,user-onboarding,Registration,What is your gender? (Optional),U02-0006,onboarding/frames/trx/U02-0006.png
+trx,user-onboarding,Trial activation,Activate the free trial?,U02-0041,onboarding/frames/trx/U02-0041.png
+trx,user-onboarding,Notifications,"Would you like notifications, class reminders and important updates?",U02-0069 | U02-0070,onboarding/frames/trx/U02-0069.png | onboarding/frames/trx/U02-0070.png
+trx,user-onboarding,Personalization,Would you like to customize your TRX Training experience?,U02-0073,onboarding/frames/trx/U02-0073.png
+trx,user-onboarding,Fitness level,What best describes your fitness level?,U02-0078,onboarding/frames/trx/U02-0078.png
+trx,user-onboarding,Training frequency,How often do you work out?,U02-0079,onboarding/frames/trx/U02-0079.png
+trx,user-onboarding,Workout duration,What length of workouts do you prefer?,U02-0085,onboarding/frames/trx/U02-0085.png
+trx,user-onboarding,Workout intensity,How intense do you prefer your workouts to be?,U02-0086,onboarding/frames/trx/U02-0086.png
+trx,user-onboarding,Training goals,What are your training goals?,U02-0088,onboarding/frames/trx/U02-0088.png
+trx,user-onboarding,Suspension setup,How do you usually anchor your Suspension Trainer?,U02-0089,onboarding/frames/trx/U02-0089.png
+trx,user-onboarding,Special interests,"Is there a sport, activity or specialty you would like to target with your training?",U02-0091,onboarding/frames/trx/U02-0091.png
+trx,user-onboarding,Equipment,What fitness equipment do you usually have available?,U02-0112,onboarding/frames/trx/U02-0112.png
+trx,user-onboarding,Tracking permission,Allow TRX to track your activity across other companies’ apps and websites?,U02-0143,onboarding/frames/trx/U02-0143.png
+trx,user-onboarding,Local network,Allow TRX to find Cast-enabled devices on your local network?,U02-0163,onboarding/frames/trx/U02-0163.png
+befit,user-onboarding,Gender identity,Which gender do you identify with?,U11-0012,onboarding/frames/befit/U11-0012.png
+befit,user-onboarding,Fitness goal,What's your current fitness goal?,U11-0014,onboarding/frames/befit/U11-0014.png
+befit,user-onboarding,Training experience,What's your strength-training experience?,U11-0016,onboarding/frames/befit/U11-0016.png
+befit,user-onboarding,Training routine,How often do you work out?,U11-0018,onboarding/frames/befit/U11-0018.png
+befit,user-onboarding,Training location,Where do you work out?,U11-0021,onboarding/frames/befit/U11-0021.png
+befit,user-onboarding,Injuries,Do you have any active injuries?,U11-0028,onboarding/frames/befit/U11-0028.png
+befit,user-onboarding,Muscle focus,Which areas would you like to focus on?,U11-0036,onboarding/frames/befit/U11-0036.png
+befit,user-onboarding,Apple Health,Would you like to connect to Apple Health?,U11-0038,onboarding/frames/befit/U11-0038.png
+befit,user-onboarding,Basic profile,What's your age?,U11-0044,onboarding/frames/befit/U11-0044.png
+befit,user-onboarding,Body data,What's your height?,U11-0061,onboarding/frames/befit/U11-0061.png
+befit,user-onboarding,Body data,What's your weight?,U11-0069,onboarding/frames/befit/U11-0069.png
+befit,user-onboarding,Weight goal,What's your goal weight?,U11-0077,onboarding/frames/befit/U11-0077.png
+befit,user-onboarding,Plan setup,How would you like to set up your workouts: Smart Plan or a plan created by you?,U11-0086,onboarding/frames/befit/U11-0086.png
+befit,user-onboarding,Workout duration,What's your ideal workout duration?,U11-0089,onboarding/frames/befit/U11-0089.png
+befit,user-onboarding,Plan renewal,How often should your plan be renewed?,U11-0091,onboarding/frames/befit/U11-0091.png
+befit,user-onboarding,Training frequency,How often would you like to work out?,U11-0094,onboarding/frames/befit/U11-0094.png
+befit,user-onboarding,Notifications,"Allow workout reminders, progress updates and personalized notifications?",U11-0098 | U11-0100,onboarding/frames/befit/U11-0098.png | onboarding/frames/befit/U11-0100.png
+befit,user-onboarding,Registration,Sign up with Apple or continue with email to save your progress.,U11-0201,onboarding/frames/befit/U11-0201.png
+befit,user-onboarding,Apple sign-in,Confirm the name to share with BeFit.,U11-0203,onboarding/frames/befit/U11-0203.png
+befit,user-onboarding,Apple sign-in,Would you like to share or hide your email address?,U11-0203,onboarding/frames/befit/U11-0203.png
+befit,user-first-use-tour,Product tour,Start the product tour or skip the tutorial.,U11-0210,onboarding/frames/befit/U11-0210.png
+befit,user-first-use-tour,Workout mode,"Choose a personalized plan, your own plan or a quick workout.",U11-0218,onboarding/frames/befit/U11-0218.png
+buddyfit,user-onboarding,Notifications,Allow Buddyfit to send notifications?,U03-0005,onboarding/frames/buddyfit/U03-0005.png
+buddyfit,user-onboarding,Cookie preferences,"Choose which cookie categories to accept: essential, preferences, analytics and marketing.",U03-0009,onboarding/frames/buddyfit/U03-0009.png
+buddyfit,user-onboarding,Registration,"Choose Apple, Google or email to create your account.",U03-0062 | U03-0104,onboarding/frames/buddyfit/U03-0062.png | onboarding/frames/buddyfit/U03-0104.png
+buddyfit,user-onboarding,Tracking permission,Allow Buddyfit to track your activity across other companies’ apps and websites?,U03-0063,onboarding/frames/buddyfit/U03-0063.png
+buddyfit,user-onboarding,Email registration,What is your email address?,U03-0104,onboarding/frames/buddyfit/U03-0104.png
+buddyfit,user-onboarding,Email registration,"Create a password with at least 8 characters, one letter and one number.",U03-0104,onboarding/frames/buddyfit/U03-0104.png
+buddyfit,user-onboarding,Google sign-in,Allow Buddyfit to use accounts.google.com to sign in?,U03-0106,onboarding/frames/buddyfit/U03-0106.png
+buddyfit,user-onboarding,Gender identity,How do you identify?,U03-0186,onboarding/frames/buddyfit/U03-0186.png
+buddyfit,user-onboarding,Basic profile,When's your birthday?,U03-0188,onboarding/frames/buddyfit/U03-0188.png
+buddyfit,user-onboarding,Body data,What's your height?,U03-0196,onboarding/frames/buddyfit/U03-0196.png
+buddyfit,user-onboarding,Body data,What's your current weight?,U03-0206,onboarding/frames/buddyfit/U03-0206.png
+buddyfit,user-onboarding,Motivation,What motivates you?,U03-0219,onboarding/frames/buddyfit/U03-0219.png
+buddyfit,user-onboarding,Current activity,How active are you right now?,U03-0223,onboarding/frames/buddyfit/U03-0223.png
+buddyfit,user-onboarding,Weekly goal,What's your weekly workout goal?,U03-0226,onboarding/frames/buddyfit/U03-0226.png
+buddyfit,user-onboarding,Recommended program,Choose a recommended training program.,U03-0232 | U03-0233 | U03-0236 | U03-0239,onboarding/frames/buddyfit/U03-0232.png | onboarding/frames/buddyfit/U03-0233.png | onboarding/frames/buddyfit/U03-0236.png | onboarding/frames/buddyfit/U03-0239.png
+buddyfit,user-onboarding,Attribution,How did you hear about us?,U03-0244,onboarding/frames/buddyfit/U03-0244.png
+gymdone,user-onboarding,Basic profile,What is your gender?,U06-0012,onboarding/frames/gymdone/U06-0012.png
+gymdone,user-onboarding,Fitness goal,What is your goal?,U06-0016,onboarding/frames/gymdone/U06-0016.png
+gymdone,user-onboarding,Fitness level,What is your fitness level?,U06-0018,onboarding/frames/gymdone/U06-0018.png
+gymdone,user-onboarding,Basic profile,What is your age range?,U06-0019,onboarding/frames/gymdone/U06-0019.png
+gymdone,user-onboarding,Body data,What is your height?,U06-0030,onboarding/frames/gymdone/U06-0030.png
+gymdone,user-onboarding,Body data,How much do you weigh now?,U06-0035,onboarding/frames/gymdone/U06-0035.png
+gymdone,user-onboarding,Weight goal,What is your target weight?,U06-0036,onboarding/frames/gymdone/U06-0036.png
+gymdone,user-onboarding,Training frequency,How many days per week would you like to train?,U06-0038,onboarding/frames/gymdone/U06-0038.png
+gymdone,user-onboarding,Workout duration,What is your preferred workout duration?,U06-0041,onboarding/frames/gymdone/U06-0041.png
+gymdone,user-onboarding,Training location,Where will you train?,U06-0043,onboarding/frames/gymdone/U06-0043.png
+gymdone,user-onboarding,Equipment,What equipment do you have?,U06-0045,onboarding/frames/gymdone/U06-0045.png
+gymdone,user-onboarding,Joint pain,Do you have any painful joints?,U06-0048,onboarding/frames/gymdone/U06-0048.png
+gymdone,user-onboarding,Commitment,Confirm your promise to train at the selected weekly frequency.,U06-0051,onboarding/frames/gymdone/U06-0051.png
+gymdone,user-onboarding,Apple Health,Would you like to sync your workouts and active calories with Apple Health?,U06-0057,onboarding/frames/gymdone/U06-0057.png
+gymdone,user-onboarding,Registration,"Continue with Apple, Google or email to save your plan.",U06-0131,onboarding/frames/gymdone/U06-0131.png
+gymdone,user-first-use,Rest reminders,Enable notifications when your rest period ends?,U06-0230 | U06-0232,onboarding/frames/gymdone/U06-0230.png | onboarding/frames/gymdone/U06-0232.png
+gymdone,user-first-use,Custom workout,Would you like to create a workout plan or an individual workout?,U06-0274,onboarding/frames/gymdone/U06-0274.png
+gymdone,user-first-use,Exercise selection,Which exercises would you like to add?,U06-0290,onboarding/frames/gymdone/U06-0290.png
+technogym,user-onboarding,Registration,What is your first name?,U12-0009,onboarding/frames/technogym/U12-0009.png
+technogym,user-onboarding,Registration,What is your last name?,U12-0009,onboarding/frames/technogym/U12-0009.png
+technogym,user-onboarding,Registration,What is your email address?,U12-0009,onboarding/frames/technogym/U12-0009.png
+technogym,user-onboarding,Registration,Create a password.,U12-0009,onboarding/frames/technogym/U12-0009.png
+technogym,user-onboarding,Registration,What is your phone number? (Optional),U12-0009,onboarding/frames/technogym/U12-0009.png
+technogym,user-onboarding,Marketing preferences,"Would you like personalized communications about services, products and benefits?",U12-0009,onboarding/frames/technogym/U12-0009.png
+technogym,user-onboarding,Profile import,Would you like to fill out your profile with Apple Health?,U12-0039,onboarding/frames/technogym/U12-0039.png
+technogym,user-onboarding,Basic profile,What is your date of birth?,U12-0039 | U12-0041,onboarding/frames/technogym/U12-0039.png | onboarding/frames/technogym/U12-0041.png
+technogym,user-onboarding,Basic profile,What is your gender?,U12-0039 | U12-0045,onboarding/frames/technogym/U12-0039.png | onboarding/frames/technogym/U12-0045.png
+technogym,user-onboarding,Body data,What is your weight?,U12-0039 | U12-0050,onboarding/frames/technogym/U12-0039.png | onboarding/frames/technogym/U12-0050.png
+technogym,user-onboarding,Body data,What is your height?,U12-0039 | U12-0052,onboarding/frames/technogym/U12-0039.png | onboarding/frames/technogym/U12-0052.png
+technogym,user-onboarding,Health-data consent,Do you consent to processing information about your state of health?,U12-0039,onboarding/frames/technogym/U12-0039.png
+technogym,user-onboarding,Notifications,Would you like reminders about when to train and when to take a day off?,U12-0064,onboarding/frames/technogym/U12-0064.png
+technogym,user-onboarding,Apple Health permissions,Allow Technogym to read health data and write activity data?,U12-0066 | U12-0073 | U12-0075,onboarding/frames/technogym/U12-0066.png | onboarding/frames/technogym/U12-0073.png | onboarding/frames/technogym/U12-0075.png
+technogym,user-onboarding,Tracking permission,Allow Technogym to track your activity across other companies’ apps and websites?,U12-0080,onboarding/frames/technogym/U12-0080.png
+technogym,user-onboarding,Program setup,Would you like to create your tailored program now?,U12-0097,onboarding/frames/technogym/U12-0097.png
+technogym,user-onboarding,Program category,"What makes you move: Fitness, Sport or Health & Lifestyle?",U12-0097,onboarding/frames/technogym/U12-0097.png
+technogym,user-onboarding,Fitness goal,What's your goal?,U12-0103,onboarding/frames/technogym/U12-0103.png
+technogym,user-onboarding,Training experience,What's your training experience?,U12-0106,onboarding/frames/technogym/U12-0106.png
+technogym,user-onboarding,Workout duration,How long do you want to work out? Each duration comes with a linked weekly frequency.,U12-0108,onboarding/frames/technogym/U12-0108.png
+technogym,user-onboarding,Workout format,How do you prefer to train: trainer-led sessions or self-paced routines?,U12-0112,onboarding/frames/technogym/U12-0112.png
+technogym,user-onboarding,Equipment,What equipment do you want to use?,U12-0118,onboarding/frames/technogym/U12-0118.png
+technogym,user-first-workout,Heart-rate tracking,Would you like to connect a heart-rate device?,U12-0175,onboarding/frames/technogym/U12-0175.png
+technogym,user-first-workout,Workout feedback,How do you feel after the workout?,U12-0368,onboarding/frames/technogym/U12-0368.png
+technogym,user-first-workout,Workout feedback,Do you have any suggestions to share?,U12-0368,onboarding/frames/technogym/U12-0368.png
+smartworkout,user-quick-start,Onboarding route,"Choose Quick start, Coach-style interview, or Skip plan.",U04-step-002,onboarding/frames/smartworkout/U04-step-002.png
+smartworkout,user-quick-start,Basic profile,What is your gender?,U04-step-003,onboarding/frames/smartworkout/U04-step-003.png
+smartworkout,user-quick-start,Fitness goal,What is your main goal?,U04-step-004,onboarding/frames/smartworkout/U04-step-004.png
+smartworkout,user-quick-start,Training experience,How long have you been training?,U04-step-005,onboarding/frames/smartworkout/U04-step-005.png
+smartworkout,user-quick-start,Training frequency,How many days per week can you train?,U04-step-008,onboarding/frames/smartworkout/U04-step-008.png
+smartworkout,user-quick-start,Workout duration,How long does one workout last?,U04-step-011,onboarding/frames/smartworkout/U04-step-011.png
+smartworkout,user-quick-start,Training location,Where do you train?,U04-step-012,onboarding/frames/smartworkout/U04-step-012.png
+smartworkout,user-quick-start,Training split,How would you like to split your workouts?,U04-step-013,onboarding/frames/smartworkout/U04-step-013.png
+smartworkout,user-quick-start,Muscle priorities,"Which muscle groups do you most want to develop? Choose up to two, or skip.",U04-step-014,onboarding/frames/smartworkout/U04-step-014.png
+smartworkout,user-quick-start,Exercise exclusions,Which exercises would you prefer to avoid?,U04-step-017,onboarding/frames/smartworkout/U04-step-017.png
+smartworkout,user-quick-start,Recovery,"How is your recovery, considering sleep, stress and daily fatigue?",U04-step-018,onboarding/frames/smartworkout/U04-step-018.png
+smartworkout,user-quick-start,Workout import,"Have you trained in another app? Paste 1–3 recent workouts, or start from scratch.",U04-step-019,onboarding/frames/smartworkout/U04-step-019.png
+smartworkout,user-quick-start,Plan generation,Choose the AI model for your plan.,U04-step-020,onboarding/frames/smartworkout/U04-step-020.png
+smartworkout,user-quick-start,Registration,"Continue with Apple, Google, or without an account.",U04-step-024,onboarding/frames/smartworkout/U04-step-024.png
+smartworkout,user-quick-start,Apple sign-in,Confirm the name to share with SmartWorkout.,U04-step-025,onboarding/frames/smartworkout/U04-step-025.png
+smartworkout,user-quick-start,Apple sign-in,Would you like to share or hide your email address?,U04-step-025,onboarding/frames/smartworkout/U04-step-025.png
+smartworkout,user-quick-start,Public profile,What should people call you? Choose a nickname.,U04-step-026,onboarding/frames/smartworkout/U04-step-026.png
+smartworkout,user-first-workout,Workout log,"Set up your workout log before your first workout, or proceed to start training.",U04-step-033,onboarding/frames/smartworkout/U04-step-033.png
+ifit,user-registration,Registration,Choose Sign up or Log in.,U09-step-002,onboarding/frames/ifit/U09-step-002.png
+ifit,user-registration,Registration,What is your first name?,U09-step-003,onboarding/frames/ifit/U09-step-003.png
+ifit,user-registration,Registration,What is your last name?,U09-step-003,onboarding/frames/ifit/U09-step-003.png
+ifit,user-registration,Registration,What is your email address?,U09-step-003,onboarding/frames/ifit/U09-step-003.png
+ifit,user-registration,Registration,Create a password.,U09-step-003,onboarding/frames/ifit/U09-step-003.png
+ifit,user-registration,Registration,Confirm your password.,U09-step-003,onboarding/frames/ifit/U09-step-003.png
+ifit,user-registration,Location,What is your country or region?,U09-step-003,onboarding/frames/ifit/U09-step-003.png
+ifit,user-registration,Contact details,What is your phone number?,U09-step-003,onboarding/frames/ifit/U09-step-003.png
+ifit,user-registration,Basic profile,What is your date of birth?,U09-step-004,onboarding/frames/ifit/U09-step-004.png
+ifit,user-registration,Consent,Do you accept the Terms of Use and Privacy Policy?,U09-step-004,onboarding/frames/ifit/U09-step-004.png
+ifit,user-registration,Email preferences,"Would you like email updates, discounts and offers from iFIT?",U09-step-004,onboarding/frames/ifit/U09-step-004.png
+ifit,user-registration,Verification,Complete the human-verification check.,U09-step-005,onboarding/frames/ifit/U09-step-005.png
+ifit,user-registration,Promo code,Do you have a promo code?,U09-step-006,onboarding/frames/ifit/U09-step-006.png
+ifit,user-registration,Membership,Choose your membership: iFIT Pro or iFIT Train.,U09-step-006 | U09-step-007,onboarding/frames/ifit/U09-step-006.png | onboarding/frames/ifit/U09-step-007.png

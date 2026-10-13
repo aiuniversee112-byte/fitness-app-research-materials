@@ -1,0 +1,21 @@
+{
+  "tag": "materials-v2",
+  "assets": [
+    {
+      "filename": "onboarding-recovery.zip",
+      "bytes": 933739764,
+      "sha256": "f00afaf82cffd9059bb64b593f18b4388f0312a1e4a3006edb567b5e468036fd",
+      "download_url": "https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v2/onboarding-recovery.zip"
+    },
+    {
+      "filename": "appllama-onboarding-videos.zip",
+      "bytes": 397263788,
+      "sha256": "54ab643aa2eb24db55d8d4903fb764e60c8f373cf52fc8a6a0c2f9df79cc0d1d",
+      "download_url": "https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v2/appllama-onboarding-videos.zip"
+    }
+  ],
+  "recovery_archive_files": 1947,
+  "recovery_archive_state_frames": 1590,
+  "mcp_videos": 35,
+  "extract_at": "repository root"
+}

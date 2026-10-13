@@ -1,35 +1,13 @@
 {
   "images": [
     {
-      "path": "Fitbod/onb_1ccos.png",
-      "boxes": [
-        [
-          0,
-          0,
-          1080,
-          2336
-        ]
-      ]
-    },
-    {
       "path": "Strava/onb_bnch5.png",
       "boxes": [
         [
-          0,
-          0,
-          1080,
-          2336
-        ]
-      ]
-    },
-    {
-      "path": "Strava/oth_ovkdd.png",
-      "boxes": [
-        [
-          0,
-          0,
-          1170,
-          2532
+          55,
+          556,
+          555,
+          612
         ]
       ]
     },
@@ -37,21 +15,10 @@
       "path": "Strava/oth_hbkoc.png",
       "boxes": [
         [
-          0,
-          0,
-          1170,
-          2532
-        ]
-      ]
-    },
-    {
-      "path": "Lyfta/onb_uyctd.png",
-      "boxes": [
-        [
-          0,
-          0,
-          1080,
-          2336
+          57,
+          1348,
+          720,
+          1397
         ]
       ]
     },
@@ -59,10 +26,10 @@
       "path": "Lyfta/oth_1m7or.png",
       "boxes": [
         [
-          0,
-          0,
-          1170,
-          2532
+          37,
+          866,
+          539,
+          923
         ]
       ]
     },
@@ -70,109 +37,10 @@
       "path": "Fitify-Home-Workout-AI-Coach/oth_snowe.png",
       "boxes": [
         [
-          0,
-          0,
-          1170,
-          2532
-        ]
-      ]
-    },
-    {
-      "path": "FitOn-Workouts--Fitness-Plans/oth_8m59b.png",
-      "boxes": [
-        [
-          0,
-          0,
-          1170,
-          2532
-        ]
-      ]
-    },
-    {
-      "path": "FitOn-Workouts--Fitness-Plans/oth_tl5gt.png",
-      "boxes": [
-        [
-          0,
-          0,
-          1170,
-          2532
-        ]
-      ]
-    },
-    {
-      "path": "BODi/onb_k834g.png",
-      "boxes": [
-        [
-          0,
-          0,
-          1080,
-          2336
-        ]
-      ]
-    },
-    {
-      "path": "BODi/oth_3qi53.png",
-      "boxes": [
-        [
-          0,
-          0,
-          1170,
-          2532
-        ]
-      ]
-    },
-    {
-      "path": "BODi/oth_g049r.png",
-      "boxes": [
-        [
-          0,
-          0,
-          1170,
-          2532
-        ]
-      ]
-    },
-    {
-      "path": "Strong/onb_cueyc.png",
-      "boxes": [
-        [
-          0,
-          0,
-          1080,
-          2337
-        ]
-      ]
-    },
-    {
-      "path": "JEFIT/onb_p0s9l.png",
-      "boxes": [
-        [
-          0,
-          0,
-          1080,
-          2336
-        ]
-      ]
-    },
-    {
-      "path": "JEFIT/oth_6j21s.png",
-      "boxes": [
-        [
-          0,
-          0,
-          1170,
-          2532
-        ]
-      ]
-    },
-    {
-      "path": "JEFIT/oth_rkq52.png",
-      "boxes": [
-        [
-          0,
-          0,
-          1170,
-          2532
+          224,
+          2381,
+          948,
+          2451
         ]
       ]
     },
@@ -180,21 +48,10 @@
       "path": "JEFIT/oth_z1uw5.png",
       "boxes": [
         [
-          0,
-          0,
-          1170,
-          2532
-        ]
-      ]
-    },
-    {
-      "path": "Muscle-Monster-Workout-Planner/onb_0mu8p.png",
-      "boxes": [
-        [
-          0,
-          0,
-          1080,
-          2337
+          334,
+          572,
+          836,
+          631
         ]
       ]
     },
@@ -202,10 +59,10 @@
       "path": "Muscle-Monster-Workout-Planner/onb_nns9m.png",
       "boxes": [
         [
-          0,
-          0,
-          1080,
-          2337
+          75,
+          535,
+          580,
+          593
         ]
       ]
     },
@@ -213,10 +70,10 @@
       "path": "Muscle-Monster-Workout-Planner/onb_zgcs3.png",
       "boxes": [
         [
-          0,
-          0,
-          1080,
-          2337
+          75,
+          535,
+          581,
+          593
         ]
       ]
     },
@@ -224,76 +81,21 @@
       "path": "Muscle-Monster-Workout-Planner/oth_auglr.png",
       "boxes": [
         [
-          0,
-          0,
-          1170,
-          2532
+          651,
+          554,
+          1120,
+          616
         ]
       ]
     },
     {
-      "path": "SHRED/onb_udn8o.png",
+      "path": "Gravl/onb_rm3bp.png",
       "boxes": [
         [
-          0,
-          0,
-          1080,
-          2336
-        ]
-      ]
-    },
-    {
-      "path": "SHRED/oth_wbdjo.png",
-      "boxes": [
-        [
-          0,
-          0,
-          1170,
-          2532
-        ]
-      ]
-    },
-    {
-      "path": "SHRED/oth_sjroj.png",
-      "boxes": [
-        [
-          0,
-          0,
-          1170,
-          2532
-        ]
-      ]
-    },
-    {
-      "path": "Symmetry/onb_haqkq.png",
-      "boxes": [
-        [
-          0,
-          0,
-          1080,
-          2336
-        ]
-      ]
-    },
-    {
-      "path": "Gravl/onb_br8pk.png",
-      "boxes": [
-        [
-          0,
-          0,
-          1080,
-          2336
-        ]
-      ]
-    },
-    {
-      "path": "Gravl/onb_6e89d.png",
-      "boxes": [
-        [
-          0,
-          0,
-          1080,
-          2336
+          724,
+          1193,
+          876,
+          1241
         ]
       ]
     },
@@ -301,32 +103,32 @@
       "path": "Gravl/oth_qo0u8.png",
       "boxes": [
         [
-          0,
-          0,
-          1170,
-          2532
+          369,
+          1021,
+          798,
+          1072
         ]
       ]
     },
     {
-      "path": "Peloton/onb_7td2d.png",
+      "path": "Peloton/onb_ragdw.png",
       "boxes": [
         [
-          0,
-          0,
-          1080,
-          2336
+          724,
+          2080,
+          877,
+          2128
         ]
       ]
     },
     {
-      "path": "Peloton/onb_ak91d.png",
+      "path": "MCI/onb_k8ahi.png",
       "boxes": [
         [
-          0,
-          0,
-          1080,
-          2336
+          691,
+          1768,
+          822,
+          1810
         ]
       ]
     },
@@ -2694,6 +2496,570 @@
           984
         ]
       ]
+    },
+    {
+      "path": "onboarding/frames/fitbod/onboarding-001-onb_u6lbw-step-13.png",
+      "boxes": [
+        [
+          51,
+          643,
+          361,
+          679
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/fitbod/onboarding-001-onb_u6lbw-step-20.png",
+      "boxes": [
+        [
+          60,
+          1323,
+          421,
+          1354
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/muscle-booster/U05-0222.png",
+      "boxes": [
+        [
+          136,
+          487,
+          461,
+          525
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/smartgym/onb_ndk7g-0066.png",
+      "boxes": [
+        [
+          112,
+          799,
+          494,
+          835
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/macrofactor/onb_jmt6w-0017.png",
+      "boxes": [
+        [
+          527,
+          897,
+          633,
+          933
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/strava/onb_8511n-0018.png",
+      "boxes": [
+        [
+          36,
+          371,
+          370,
+          408
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/strava/onb_8511n-0035.png",
+      "boxes": [
+        [
+          483,
+          899,
+          583,
+          929
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/bodi/onb_36vkx-0034.png",
+      "boxes": [
+        [
+          192,
+          529,
+          352,
+          564
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/strong/onb_6y1p3-0012.png",
+      "boxes": [
+        [
+          37,
+          607,
+          378,
+          656
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/jefit/onb_6swxj-0110.png",
+      "boxes": [
+        [
+          48,
+          432,
+          358,
+          468
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/jefit/onb_6swxj-0113.png",
+      "boxes": [
+        [
+          48,
+          432,
+          358,
+          468
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-43.png",
+      "boxes": [
+        [
+          50,
+          357,
+          387,
+          395
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/muscle-monster/onboarding-001-onb_urj0o-step-44.png",
+      "boxes": [
+        [
+          50,
+          357,
+          387,
+          395
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/gravl/onb_dt7pt-0041.png",
+      "boxes": [
+        [
+          482,
+          796,
+          584,
+          828
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/gravl/onb_dt7pt-0143.png",
+      "boxes": [
+        [
+          38,
+          562,
+          370,
+          599
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/peloton/onboarding-001-onb_8ki1d-step-07.png",
+      "boxes": [
+        [
+          483,
+          1387,
+          585,
+          1419
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/mci/onb_bh4bf-0027.png",
+      "boxes": [
+        [
+          461,
+          1179,
+          548,
+          1207
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/mci/U10-0022.png",
+      "boxes": [
+        [
+          453,
+          914,
+          528,
+          934
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/mci/U10-0180.png",
+      "boxes": [
+        [
+          223,
+          873,
+          304,
+          905
+        ],
+        [
+          63,
+          1360,
+          447,
+          1394
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/mci/U10-0191.png",
+      "boxes": [
+        [
+          8,
+          80,
+          710,
+          242
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/mci/U10-0194.png",
+      "boxes": [
+        [
+          8,
+          80,
+          710,
+          242
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/trx/U02-0024.png",
+      "boxes": [
+        [
+          45,
+          356,
+          357,
+          393
+        ],
+        [
+          45,
+          733,
+          109,
+          764
+        ],
+        [
+          45,
+          864,
+          166,
+          890
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/trx/U02-0043.png",
+      "boxes": [
+        [
+          223,
+          874,
+          304,
+          906
+        ],
+        [
+          63,
+          1362,
+          447,
+          1396
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/trx/U02-0069.png",
+      "boxes": [
+        [
+          82,
+          832,
+          634,
+          879
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/befit/U11-0203.png",
+      "boxes": [
+        [
+          146,
+          941,
+          479,
+          978
+        ],
+        [
+          164,
+          1075,
+          373,
+          1108
+        ],
+        [
+          164,
+          1202,
+          442,
+          1236
+        ],
+        [
+          164,
+          1332,
+          442,
+          1366
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/buddyfit/U03-0131.png",
+      "boxes": [
+        [
+          223,
+          929,
+          304,
+          961
+        ],
+        [
+          63,
+          1417,
+          447,
+          1450
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/buddyfit/U03-0171.png",
+      "boxes": [
+        [
+          8,
+          80,
+          710,
+          242
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/buddyfit/U03-0183.png",
+      "boxes": [
+        [
+          8,
+          80,
+          710,
+          242
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/buddyfit/U03-0249.png",
+      "boxes": [
+        [
+          13,
+          100,
+          110,
+          137
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/buddyfit/U03-0831.png",
+      "boxes": [
+        [
+          59,
+          718,
+          344,
+          754
+        ],
+        [
+          160,
+          187,
+          570,
+          233
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/gymdone/U06-0114.png",
+      "boxes": [
+        [
+          223,
+          874,
+          304,
+          906
+        ],
+        [
+          63,
+          1362,
+          447,
+          1395
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/gymdone/U06-0125.png",
+      "boxes": [
+        [
+          8,
+          80,
+          710,
+          242
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/technogym/U12-0033.png",
+      "boxes": [
+        [
+          122,
+          297,
+          198,
+          330
+        ],
+        [
+          122,
+          422,
+          254,
+          454
+        ],
+        [
+          122,
+          544,
+          471,
+          584
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/technogym/U12-0045.png",
+      "boxes": [
+        [
+          123,
+          575,
+          385,
+          611
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/technogym/U12-0050.png",
+      "boxes": [
+        [
+          123,
+          575,
+          385,
+          611
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/technogym/U12-0052.png",
+      "boxes": [
+        [
+          122,
+          575,
+          385,
+          611
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/smartworkout/U04-step-025.png",
+      "boxes": [
+        [
+          144,
+          927,
+          668,
+          964
+        ],
+        [
+          164,
+          1062,
+          373,
+          1095
+        ],
+        [
+          164,
+          1188,
+          442,
+          1222
+        ],
+        [
+          164,
+          1318,
+          442,
+          1352
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/smartworkout/U04-step-030.png",
+      "boxes": [
+        [
+          126,
+          872,
+          295,
+          904
+        ],
+        [
+          63,
+          1360,
+          447,
+          1394
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/ifit/U09-step-005.png",
+      "boxes": [
+        [
+          124,
+          423,
+          368,
+          465
+        ],
+        [
+          123,
+          563,
+          292,
+          610
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/ifit/U09-step-008.png",
+      "boxes": [
+        [
+          93,
+          126,
+          381,
+          169
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/ifit/U09-step-009.png",
+      "boxes": [
+        [
+          94,
+          126,
+          381,
+          169
+        ]
+      ]
+    },
+    {
+      "path": "onboarding/frames/ifit/U09-step-010.png",
+      "boxes": [
+        [
+          94,
+          126,
+          381,
+          169
+        ]
+      ]
     }
   ],
   "recordings": [
@@ -3041,5 +3407,6 @@
         ]
       ]
     }
-  ]
+  ],
+  "v2_note": "Catalog screenshots and all 1061 video-derived state PNGs use localized masks; old contact sheets and v1 recordings may still contain broad plates. Prefer onboarding/steps.json."
 }

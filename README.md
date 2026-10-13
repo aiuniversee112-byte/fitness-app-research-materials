@@ -2,7 +2,18 @@
 
 Materials from the onboarding/paywall research and the 23-app design audit, collected on 11–12 October 2026. This repository is the handoff package for an agent restoring screenshots and evidence references.
 
-## Start here
+
+## Update: 13 October 2026 — recovered onboarding evidence
+
+Start with [the change report](UPDATES-2026-10-13.md) and [the ready-to-forward agent prompt](PROMPT-FOR-AGENT.md). The handoff now contains **all 1,590 analyzed state screenshots**, **554 English questions linked to frames**, **261 icon crops**, and the **35 previously analyzed Appllama recordings**.
+
+Use [onboarding/step-index.csv](onboarding/step-index.csv) or [the full step analysis](onboarding/steps.json) to populate screenshot fields. The 367 user-recording states and 694 Appllama video states have dedicated PNGs with local privacy masks. These supersede full-screen privacy plates for state-level screenshots. [App indexes](onboarding/README.md) begin with English question summaries.
+
+Download [materials-v2](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/tag/materials-v2): `onboarding-recovery.zip` for screenshots and indexes, and `appllama-onboarding-videos.zip` for the 35 recordings. Extract both at the repository root. The 12 long user recordings and historical supplementary media remain in `materials-v1`.
+
+Buddyfit's seven monetization-related states and Technogym's Plus entry are restored. Technogym's recording does not show a priced paywall. Unavailable Gravl Monthly report and unsupplied A/B concept mockups are excluded from the evidence requirements. [E040](v2-contrast-method.py) is included and reproduces E041 exactly.
+
+## Original research reports
 
 - [Paywall screenshots](PAYWALLS.md): 38 catalog screens, indexed by app and screen code.
 - [Onboarding research — complete structured Markdown](fitness-onboarding-agent-data.md): steps, English question summaries, choices, CTAs, observations, prices, typography and color evidence, and source timestamps.
@@ -14,7 +25,7 @@ Materials from the onboarding/paywall research and the 23-app design audit, coll
 
 ## Screenshots and preserved paths
 
-There are **1,064 Appllama catalog screenshots** and **3,912 image files overall**. Catalog screenshots are real PNG files in app folders, such as the paths listed in [PAYWALLS.md](PAYWALLS.md). Use [screens.json](manifests/screens.json) to resolve each exact screen code and app folder.
+There are **1,064 Appllama catalog screenshots** and **5,234 image files overall**. Catalog screenshots are real PNG files in app folders, such as the paths listed in [PAYWALLS.md](PAYWALLS.md). Use [screens.json](manifests/screens.json) to resolve each exact screen code and app folder.
 
 `boards/`, `frames/`, `v2-media/`, `v2-measurements/`, `16-22-media/`, `motion/` and `official-media/` retain their existing relative paths. The root contact sheets are included too. [path-map.json](manifests/path-map.json) maps old catalog paths such as `appllama/02/...jpg` to their app-folder PNG paths. References in the published audit have been updated to those PNG paths.
 

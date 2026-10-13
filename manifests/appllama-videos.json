@@ -1,0 +1,1151 @@
+[
+  {
+    "app": "BODi Fitness: Home Workouts",
+    "app_slug": "bodi",
+    "app_id": "1031660123",
+    "screen_id": "onb_36vkx",
+    "screen_ref": "1031660123/onb_36vkx",
+    "source_ref": "apps/bodi/videos/onboarding-001-onb_36vkx.mp4",
+    "path": "appllama-videos/bodi/onb_36vkx.mp4",
+    "duration_s": 58.666667,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 58.666667,
+    "bytes": 9212787,
+    "sha256": "56aac2aa6af420a093adf99d668cb44e4eff4807369ab697d19eece4cc06ebb6",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [
+      {
+        "box": [
+          268,
+          1455,
+          806,
+          1547
+        ],
+        "intervals_s": [
+          [
+            24.0,
+            38.5
+          ]
+        ]
+      },
+      {
+        "box": [
+          74,
+          775,
+          550,
+          865
+        ],
+        "intervals_s": [
+          [
+            31.0,
+            51.5
+          ]
+        ]
+      }
+    ],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "BODi Fitness: Home Workouts",
+    "app_slug": "bodi",
+    "app_id": "1031660123",
+    "screen_id": "spl_odq32",
+    "screen_ref": "1031660123/spl_odq32",
+    "source_ref": "apps/bodi/videos/welcome-screen-001-spl_odq32.mp4",
+    "path": "appllama-videos/bodi/spl_odq32.mp4",
+    "duration_s": 2.717007,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 2.7,
+    "bytes": 776170,
+    "sha256": "78398bd6e5bf8dd25ca6fff10e334356af95444990bafbd1c005248ce0ef67b3",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "Fitbod: Gym & Fitness Planner",
+    "app_slug": "fitbod",
+    "app_id": "1041517543",
+    "screen_id": "onb_u6lbw",
+    "screen_ref": "1041517543/onb_u6lbw",
+    "source_ref": "apps/fitbod/videos/onboarding-001-onb_u6lbw.mp4",
+    "path": "appllama-videos/fitbod/onb_u6lbw.mp4",
+    "duration_s": 108.833333,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 108.833008,
+    "bytes": 10574515,
+    "sha256": "3e8d7a58de7e5efc182349dd746e98d385465075d8bdb57c7acdc88ee7df0b85",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [
+      {
+        "box": [
+          268,
+          1455,
+          806,
+          1547
+        ],
+        "intervals_s": [
+          [
+            55.0,
+            70.0
+          ]
+        ]
+      },
+      {
+        "box": [
+          55,
+          1029,
+          568,
+          1134
+        ],
+        "intervals_s": [
+          [
+            60.5,
+            70.5
+          ]
+        ]
+      },
+      {
+        "box": [
+          55,
+          889,
+          563,
+          981
+        ],
+        "intervals_s": [
+          [
+            63.0,
+            76.0
+          ]
+        ]
+      },
+      {
+        "box": [
+          55,
+          946,
+          563,
+          1036
+        ],
+        "intervals_s": [
+          [
+            68.5,
+            79.5
+          ]
+        ]
+      }
+    ],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "Fitbod: Gym & Fitness Planner",
+    "app_slug": "fitbod",
+    "app_id": "1041517543",
+    "screen_id": "spl_bn0gt",
+    "screen_ref": "1041517543/spl_bn0gt",
+    "source_ref": "apps/fitbod/videos/welcome-screen-001-spl_bn0gt.mp4",
+    "path": "appllama-videos/fitbod/spl_bn0gt.mp4",
+    "duration_s": 4.566667,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 4.566667,
+    "bytes": 868261,
+    "sha256": "c4ea7211dfc596d90524508e6c8bc97e31c1ccf32496444e9474bda5818ba693",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "Fitify: Home Workout, AI Coach",
+    "app_slug": "fitify",
+    "app_id": "1463386686",
+    "screen_id": "onb_fln21",
+    "screen_ref": "1463386686/onb_fln21",
+    "source_ref": "apps/fitify/videos/onboarding-001-onb_fln21.mp4",
+    "path": "appllama-videos/fitify/onb_fln21.mp4",
+    "duration_s": 187.366667,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 187.366667,
+    "bytes": 43573055,
+    "sha256": "99a3728049cb69a8660478471076467a43f0f42de89112e2946d3b1ea474b444",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [
+      {
+        "box": [
+          268,
+          1455,
+          806,
+          1549
+        ],
+        "intervals_s": [
+          [
+            164.5,
+            176.0
+          ]
+        ]
+      },
+      {
+        "box": [
+          61,
+          486,
+          667,
+          585
+        ],
+        "intervals_s": [
+          [
+            173.0,
+            181.5
+          ]
+        ]
+      },
+      {
+        "box": [
+          61,
+          664,
+          667,
+          762
+        ],
+        "intervals_s": [
+          [
+            174.0,
+            187.366667
+          ]
+        ]
+      }
+    ],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "Fitify: Home Workout, AI Coach",
+    "app_slug": "fitify",
+    "app_id": "1463386686",
+    "screen_id": "spl_uxfyb",
+    "screen_ref": "1463386686/spl_uxfyb",
+    "source_ref": "apps/fitify/videos/welcome-screen-001-spl_uxfyb.mp4",
+    "path": "appllama-videos/fitify/spl_uxfyb.mp4",
+    "duration_s": 1.033333,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 1.033008,
+    "bytes": 150331,
+    "sha256": "06f27b9f14da7e3139ecabe6aae31a202f9586c6b962441dd4bf7980a21188cd",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "FitOn Workouts & Fitness Plans",
+    "app_slug": "fiton",
+    "app_id": "1442473191",
+    "screen_id": "onb_dk2uc",
+    "screen_ref": "1442473191/onb_dk2uc",
+    "source_ref": "apps/fiton/videos/onboarding-001-onb_dk2uc.mp4",
+    "path": "appllama-videos/fiton/onb_dk2uc.mp4",
+    "duration_s": 103.466667,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 103.466667,
+    "bytes": 15988577,
+    "sha256": "16aa62c8e1e1bbd226230c89353c085fc19a3b4746b3bd0089ab69a86e660b5c",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [
+      {
+        "box": [
+          73,
+          650,
+          677,
+          747
+        ],
+        "intervals_s": [
+          [
+            20.5,
+            32.5
+          ]
+        ]
+      }
+    ],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "FitOn Workouts & Fitness Plans",
+    "app_slug": "fiton",
+    "app_id": "1442473191",
+    "screen_id": "spl_jmk9n",
+    "screen_ref": "1442473191/spl_jmk9n",
+    "source_ref": "apps/fiton/videos/welcome-screen-001-spl_jmk9n.mp4",
+    "path": "appllama-videos/fiton/spl_jmk9n.mp4",
+    "duration_s": 1.833333,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 1.833008,
+    "bytes": 626623,
+    "sha256": "1d1492dc76aeda6a14010e3f4e55f55eb33da2fa537906975a3e32d27364756c",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "Gravl: AI Personal Trainer",
+    "app_slug": "gravl",
+    "app_id": "6450921637",
+    "screen_id": "onb_dt7pt",
+    "screen_ref": "6450921637/onb_dt7pt",
+    "source_ref": "apps/gravl/videos/onboarding-001-onb_dt7pt.mp4",
+    "path": "appllama-videos/gravl/onb_dt7pt.mp4",
+    "duration_s": 168.366667,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 168.366667,
+    "bytes": 25858323,
+    "sha256": "7f285a6c98c892eb4417a36fff1a32faf8893d75368017ad4c836b246cd236a1",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [
+      {
+        "box": [
+          702,
+          1174,
+          897,
+          1260
+        ],
+        "intervals_s": [
+          [
+            31.0,
+            45.0
+          ]
+        ]
+      },
+      {
+        "box": [
+          268,
+          1455,
+          806,
+          1547
+        ],
+        "intervals_s": [
+          [
+            121.0,
+            130.0
+          ]
+        ]
+      },
+      {
+        "box": [
+          35,
+          819,
+          582,
+          918
+        ],
+        "intervals_s": [
+          [
+            130.0,
+            155.0
+          ]
+        ]
+      }
+    ],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "Gravl: AI Personal Trainer",
+    "app_slug": "gravl",
+    "app_id": "6450921637",
+    "screen_id": "spl_bvw1p",
+    "screen_ref": "6450921637/spl_bvw1p",
+    "source_ref": "apps/gravl/videos/welcome-screen-001-spl_bvw1p.mp4",
+    "path": "appllama-videos/gravl/spl_bvw1p.mp4",
+    "duration_s": 2.201995,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 2.2,
+    "bytes": 186795,
+    "sha256": "ab8751f2fd6fb62cb9c8fd360296fed43db1d2bb40e517fb31023dc8115c9192",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "Gymverse: Gym Workout Planner",
+    "app_slug": "gymverse",
+    "app_id": "1048454034",
+    "screen_id": "onb_24hem",
+    "screen_ref": "1048454034/onb_24hem",
+    "source_ref": "apps/gymverse/videos/onboarding-001-onb_24hem.mp4",
+    "path": "appllama-videos/gymverse/onb_24hem.mp4",
+    "duration_s": 86.533333,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 86.533008,
+    "bytes": 25001620,
+    "sha256": "f0ddce47335ceee246afea7f8cc5c6036bfda7c0d3dc6d573a1ed8ffc3406378",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "Gymverse: Gym Workout Planner",
+    "app_slug": "gymverse",
+    "app_id": "1048454034",
+    "screen_id": "spl_7ggci",
+    "screen_ref": "1048454034/spl_7ggci",
+    "source_ref": "apps/gymverse/videos/welcome-screen-001-spl_7ggci.mp4",
+    "path": "appllama-videos/gymverse/spl_7ggci.mp4",
+    "duration_s": 3.8,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 3.8,
+    "bytes": 1947592,
+    "sha256": "6006b2b0117ef1fd95b6eb044eb1805c629770f8ef997348aced52a3e6c0f758",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "JEFIT Workout Plan Gym Tracker",
+    "app_slug": "jefit",
+    "app_id": "449810000",
+    "screen_id": "onb_6swxj",
+    "screen_ref": "449810000/onb_6swxj",
+    "source_ref": "apps/jefit/videos/onboarding-001-onb_6swxj.mp4",
+    "path": "appllama-videos/jefit/onb_6swxj.mp4",
+    "duration_s": 150.4,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 150.4,
+    "bytes": 36288356,
+    "sha256": "5d9b6cc650e49c5273d32c58089d01103a63122c9ea6251d643c5c5ef657ce78",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [
+      {
+        "box": [
+          49,
+          628,
+          557,
+          721
+        ],
+        "intervals_s": [
+          [
+            98.0,
+            120.5
+          ]
+        ]
+      },
+      {
+        "box": [
+          268,
+          1455,
+          806,
+          1547
+        ],
+        "intervals_s": [
+          [
+            98.5,
+            111.0
+          ]
+        ]
+      }
+    ],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "JEFIT Workout Plan Gym Tracker",
+    "app_slug": "jefit",
+    "app_id": "449810000",
+    "screen_id": "spl_ypswf",
+    "screen_ref": "449810000/spl_ypswf",
+    "source_ref": "apps/jefit/videos/welcome-screen-001-spl_ypswf.mp4",
+    "path": "appllama-videos/jefit/spl_ypswf.mp4",
+    "duration_s": 3.067007,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 3.033008,
+    "bytes": 518554,
+    "sha256": "35900bd08547ab4d9e5ab81286ec2a8b8952f061591736c48be41d65e68f9de7",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "Lyfta: Gym Workout Tracker Log",
+    "app_slug": "lyfta",
+    "app_id": "6443740936",
+    "screen_id": "onb_2euk1",
+    "screen_ref": "6443740936/onb_2euk1",
+    "source_ref": "apps/lyfta/videos/onboarding-001-onb_2euk1.mp4",
+    "path": "appllama-videos/lyfta/onb_2euk1.mp4",
+    "duration_s": 124.666667,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 124.666667,
+    "bytes": 27994281,
+    "sha256": "8965f01826e957076cfc3e269d63ad50d5237833ff578cf1d1686124cf648d36",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "Lyfta: Gym Workout Tracker Log",
+    "app_slug": "lyfta",
+    "app_id": "6443740936",
+    "screen_id": "spl_5bqw8",
+    "screen_ref": "6443740936/spl_5bqw8",
+    "source_ref": "apps/lyfta/videos/welcome-screen-001-spl_5bqw8.mp4",
+    "path": "appllama-videos/lyfta/spl_5bqw8.mp4",
+    "duration_s": 2.133333,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 2.133008,
+    "bytes": 801967,
+    "sha256": "5a31ecd152a20afa70e022efe4825876ea3b85a4cf9bb5cc5ac5086f67a84ebf",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "MacroFactor - Macro Tracker",
+    "app_slug": "macrofactor",
+    "app_id": "1553503471",
+    "screen_id": "onb_jmt6w",
+    "screen_ref": "1553503471/onb_jmt6w",
+    "source_ref": "apps/macrofactor/videos/onboarding-001-onb_jmt6w.mp4",
+    "path": "appllama-videos/macrofactor/onb_jmt6w.mp4",
+    "duration_s": 147.766667,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 147.766667,
+    "bytes": 34691185,
+    "sha256": "07edadad3ec2ab77ddb0a684067e0c8a7d719c18f5b58824db0104461dea1d68",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [
+      {
+        "box": [
+          769,
+          1325,
+          970,
+          1422
+        ],
+        "intervals_s": [
+          [
+            10.0,
+            22.0
+          ]
+        ]
+      }
+    ],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "MacroFactor - Macro Tracker",
+    "app_slug": "macrofactor",
+    "app_id": "1553503471",
+    "screen_id": "spl_dqoub",
+    "screen_ref": "1553503471/spl_dqoub",
+    "source_ref": "apps/macrofactor/videos/welcome-screen-001-spl_dqoub.mp4",
+    "path": "appllama-videos/macrofactor/spl_dqoub.mp4",
+    "duration_s": 4.4,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 4.4,
+    "bytes": 1012714,
+    "sha256": "db165437c88209eaecd15ac4f61afb07a1d151bc8a2150312e82e2e0e76af314",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "MCI - Personal Training AI",
+    "app_slug": "mci",
+    "app_id": "1645679272",
+    "screen_id": "onb_bh4bf",
+    "screen_ref": "1645679272/onb_bh4bf",
+    "source_ref": "apps/mci/videos/onboarding-001-onb_bh4bf.mp4",
+    "path": "appllama-videos/mci/onb_bh4bf.mp4",
+    "duration_s": 99.666667,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 99.666667,
+    "bytes": 15524201,
+    "sha256": "0c6d6179e4ce36f06a6e24292aa9b6e82c36ceb1c104a26d6091cea742eefd44",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [
+      {
+        "box": [
+          672,
+          1302,
+          838,
+          1369
+        ],
+        "intervals_s": [
+          [
+            10.0,
+            19.0
+          ]
+        ]
+      },
+      {
+        "box": [
+          669,
+          1413,
+          845,
+          1495
+        ],
+        "intervals_s": [
+          [
+            11.5,
+            19.5
+          ]
+        ]
+      },
+      {
+        "box": [
+          662,
+          1547,
+          855,
+          1638
+        ],
+        "intervals_s": [
+          [
+            12.0,
+            20.0
+          ]
+        ]
+      },
+      {
+        "box": [
+          668,
+          1673,
+          846,
+          1757
+        ],
+        "intervals_s": [
+          [
+            12.5,
+            20.5
+          ]
+        ]
+      },
+      {
+        "box": [
+          668,
+          1742,
+          843,
+          1836
+        ],
+        "intervals_s": [
+          [
+            13.0,
+            26.5
+          ]
+        ]
+      }
+    ],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "MCI - Personal Training AI",
+    "app_slug": "mci",
+    "app_id": "1645679272",
+    "screen_id": "spl_qpr9u",
+    "screen_ref": "1645679272/spl_qpr9u",
+    "source_ref": "apps/mci/videos/welcome-screen-001-spl_qpr9u.mp4",
+    "path": "appllama-videos/mci/spl_qpr9u.mp4",
+    "duration_s": 1.166667,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 1.166667,
+    "bytes": 714568,
+    "sha256": "a669ea68713ffb65652f8903907563ad700b4515056153c8857ccc7a2f25a1fb",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "Muscle Booster Workout Tracker",
+    "app_slug": "muscle-booster",
+    "app_id": "1446447749",
+    "screen_id": "onb_ofy3i",
+    "screen_ref": "1446447749/onb_ofy3i",
+    "source_ref": "apps/muscle-booster/videos/onboarding-001-onb_ofy3i.mp4",
+    "path": "appllama-videos/muscle-booster/onb_ofy3i.mp4",
+    "duration_s": 181.433333,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 181.433008,
+    "bytes": 13301195,
+    "sha256": "dc057c583cd0c8c552b0c2eaa57bf6a43ee758109408549e5e3a2d7543f8c656",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "Muscle Booster Workout Tracker",
+    "app_slug": "muscle-booster",
+    "app_id": "1446447749",
+    "screen_id": "spl_1bb49",
+    "screen_ref": "1446447749/spl_1bb49",
+    "source_ref": "apps/muscle-booster/videos/welcome-screen-001-spl_1bb49.mp4",
+    "path": "appllama-videos/muscle-booster/spl_1bb49.mp4",
+    "duration_s": 10.666667,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 10.666667,
+    "bytes": 944126,
+    "sha256": "de894e8710e67b6b7bbb29c110a7f7a29f08cd8bc97dda81f66d4d831f4a9f00",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "Muscle Monster Workout Planner",
+    "app_slug": "muscle-monster",
+    "app_id": "6471547318",
+    "screen_id": "onb_urj0o",
+    "screen_ref": "6471547318/onb_urj0o",
+    "source_ref": "apps/muscle-monster/videos/onboarding-001-onb_urj0o.mp4",
+    "path": "appllama-videos/muscle-monster/onb_urj0o.mp4",
+    "duration_s": 142.666667,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 142.666667,
+    "bytes": 34518295,
+    "sha256": "3e426d1fa976c4563b89f36818afeb4c8ee15a55d747e38a9bddc17912113ccc",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [
+      {
+        "box": [
+          52,
+          515,
+          603,
+          610
+        ],
+        "intervals_s": [
+          [
+            130.5,
+            142.666667
+          ]
+        ]
+      }
+    ],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "Muscle Monster Workout Planner",
+    "app_slug": "muscle-monster",
+    "app_id": "6471547318",
+    "screen_id": "spl_rpn7g",
+    "screen_ref": "6471547318/spl_rpn7g",
+    "source_ref": "apps/muscle-monster/videos/welcome-screen-001-spl_rpn7g.mp4",
+    "path": "appllama-videos/muscle-monster/spl_rpn7g.mp4",
+    "duration_s": 4.2,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 4.2,
+    "bytes": 417995,
+    "sha256": "974ec5e40d2948524e699471913d3a8f817d6d16e9c3601d2a33ef01ad6d1ae9",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "Peloton: Fitness & Workouts",
+    "app_slug": "peloton",
+    "app_id": "792750948",
+    "screen_id": "onb_8ki1d",
+    "screen_ref": "792750948/onb_8ki1d",
+    "source_ref": "apps/peloton/videos/onboarding-001-onb_8ki1d.mp4",
+    "path": "appllama-videos/peloton/onb_8ki1d.mp4",
+    "duration_s": 61.566667,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 61.566667,
+    "bytes": 7644635,
+    "sha256": "8a2f6d81f1d40b8b894049b6931e9af542c076a96e59250edb19cf09a898783f",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [
+      {
+        "box": [
+          55,
+          506,
+          563,
+          613
+        ],
+        "intervals_s": [
+          [
+            5.5,
+            14.5
+          ]
+        ]
+      },
+      {
+        "box": [
+          677,
+          2028,
+          900,
+          2146
+        ],
+        "intervals_s": [
+          [
+            32.5,
+            48.0
+          ]
+        ]
+      }
+    ],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "Peloton: Fitness & Workouts",
+    "app_slug": "peloton",
+    "app_id": "792750948",
+    "screen_id": "spl_myn5r",
+    "screen_ref": "792750948/spl_myn5r",
+    "source_ref": "apps/peloton/videos/welcome-screen-001-spl_myn5r.mp4",
+    "path": "appllama-videos/peloton/spl_myn5r.mp4",
+    "duration_s": 3.6,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 3.6,
+    "bytes": 657085,
+    "sha256": "18d235e79178a07e3915a6841b99a6aee0dde30c75c0edd0de79a82b7a726125",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "SHRED: Gym & Home Workouts",
+    "app_slug": "shred",
+    "app_id": "1439828095",
+    "screen_id": "onb_ygbmx",
+    "screen_ref": "1439828095/onb_ygbmx",
+    "source_ref": "apps/shred/videos/onboarding-001-onb_ygbmx.mp4",
+    "path": "appllama-videos/shred/onb_ygbmx.mp4",
+    "duration_s": 105.733333,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 105.733008,
+    "bytes": 25838716,
+    "sha256": "40d95222548265cdda77cc6582cc65703b2f753ced2e87fe81a4e4a8c2e83ec8",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [
+      {
+        "box": [
+          268,
+          1455,
+          806,
+          1547
+        ],
+        "intervals_s": [
+          [
+            64.5,
+            80.0
+          ]
+        ]
+      }
+    ],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "SHRED: Gym & Home Workouts",
+    "app_slug": "shred",
+    "app_id": "1439828095",
+    "screen_id": "spl_qpznf",
+    "screen_ref": "1439828095/spl_qpznf",
+    "source_ref": "apps/shred/videos/welcome-screen-001-spl_qpznf.mp4",
+    "path": "appllama-videos/shred/spl_qpznf.mp4",
+    "duration_s": 2.461995,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 2.433008,
+    "bytes": 1792185,
+    "sha256": "f76c791c79d7b9bd6bed7e2b43b627749c7329b700a7c1a39fd23844c91bee4e",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "SmartGym: Gym & Home Workouts",
+    "app_slug": "smartgym",
+    "app_id": "922744883",
+    "screen_id": "onb_ndk7g",
+    "screen_ref": "922744883/onb_ndk7g",
+    "source_ref": "apps/smartgym/videos/onboarding-001-onb_ndk7g.mp4",
+    "path": "appllama-videos/smartgym/onb_ndk7g.mp4",
+    "duration_s": 59.1,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 59.1,
+    "bytes": 20626255,
+    "sha256": "4a431382dd8eff0d8eda34d5e7361c1674700e11a176ceacd369326510c76333",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [
+      {
+        "box": [
+          147,
+          1179,
+          762,
+          1271
+        ],
+        "intervals_s": [
+          [
+            52.5,
+            59.1
+          ]
+        ]
+      }
+    ],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "SmartGym: Gym & Home Workouts",
+    "app_slug": "smartgym",
+    "app_id": "922744883",
+    "screen_id": "spl_jf2i8",
+    "screen_ref": "922744883/spl_jf2i8",
+    "source_ref": "apps/smartgym/videos/welcome-screen-001-spl_jf2i8.mp4",
+    "path": "appllama-videos/smartgym/spl_jf2i8.mp4",
+    "duration_s": 1.633333,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 1.633008,
+    "bytes": 431963,
+    "sha256": "07c1fb99223d99b1a2a6976491b027f5e5e6fb0c46694ba9a18febab751be73f",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "Strava: Run, Bike, Walk",
+    "app_slug": "strava",
+    "app_id": "426826309",
+    "screen_id": "onb_8511n",
+    "screen_ref": "426826309/onb_8511n",
+    "source_ref": "apps/strava/videos/onboarding-001-onb_8511n.mp4",
+    "path": "appllama-videos/strava/onb_8511n.mp4",
+    "duration_s": 93.0,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 93.0,
+    "bytes": 27444035,
+    "sha256": "8b89afa8d1b6bcba926598077e29bc8cfb75af87e9a728139aedbc5c054214d1",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [
+      {
+        "box": [
+          33,
+          537,
+          576,
+          630
+        ],
+        "intervals_s": [
+          [
+            9.0,
+            21.0
+          ]
+        ]
+      },
+      {
+        "box": [
+          702,
+          1321,
+          897,
+          1411
+        ],
+        "intervals_s": [
+          [
+            22.0,
+            34.0
+          ]
+        ]
+      }
+    ],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "Strava: Run, Bike, Walk",
+    "app_slug": "strava",
+    "app_id": "426826309",
+    "screen_id": "spl_4tfy5",
+    "screen_ref": "426826309/spl_4tfy5",
+    "source_ref": "apps/strava/videos/welcome-screen-001-spl_4tfy5.mp4",
+    "path": "appllama-videos/strava/spl_4tfy5.mp4",
+    "duration_s": 6.6,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 6.6,
+    "bytes": 273481,
+    "sha256": "18da30e8c599d22fb8543f745f93d8d254c53135f7d28fabd863f665be6e2cea",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "Strong Workout Tracker Gym Log",
+    "app_slug": "strong",
+    "app_id": "464254577",
+    "screen_id": "onb_6y1p3",
+    "screen_ref": "464254577/onb_6y1p3",
+    "source_ref": "apps/strong/videos/onboarding-001-onb_6y1p3.mp4",
+    "path": "appllama-videos/strong/onb_6y1p3.mp4",
+    "duration_s": 22.0,
+    "width": 1080,
+    "height": 2336,
+    "public_duration_s": 22.0,
+    "bytes": 2302642,
+    "sha256": "a9a740e52589c7d83e868db3cb504210e89e79c6e49d78b8c9171e6455d10d19",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [
+      {
+        "box": [
+          33,
+          892,
+          627,
+          1001
+        ],
+        "intervals_s": [
+          [
+            12.0,
+            22.0
+          ]
+        ]
+      }
+    ],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "Symmetry: Gym Workout Tracker",
+    "app_slug": "symmetry",
+    "app_id": "6474446718",
+    "screen_id": "onb_tyza6",
+    "screen_ref": "6474446718/onb_tyza6",
+    "source_ref": "apps/symmetry/videos/onboarding-001-onb_tyza6.mp4",
+    "path": "appllama-videos/symmetry/onb_tyza6.mp4",
+    "duration_s": 185.933333,
+    "width": 498,
+    "height": 1080,
+    "public_duration_s": 185.933008,
+    "bytes": 8692616,
+    "sha256": "a177c8935f98e73a3e59fe143ef3ff339b49045128d335b785aa804c4d8676fe",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [
+      {
+        "box": [
+          25,
+          411,
+          216,
+          448
+        ],
+        "intervals_s": [
+          [
+            157.0,
+            184.0
+          ]
+        ]
+      },
+      {
+        "box": [
+          25,
+          352,
+          216,
+          389
+        ],
+        "intervals_s": [
+          [
+            162.0,
+            175.5
+          ]
+        ]
+      }
+    ],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  },
+  {
+    "app": "Symmetry: Gym Workout Tracker",
+    "app_slug": "symmetry",
+    "app_id": "6474446718",
+    "screen_id": "spl_ytnsc",
+    "screen_ref": "6474446718/spl_ytnsc",
+    "source_ref": "apps/symmetry/videos/welcome-screen-001-spl_ytnsc.mp4",
+    "path": "appllama-videos/symmetry/spl_ytnsc.mp4",
+    "duration_s": 2.6,
+    "width": 498,
+    "height": 1080,
+    "public_duration_s": 2.6,
+    "bytes": 62815,
+    "sha256": "f148034764622b876b6000c3ae0828b09dc4467dd1de339267028c29d4310793",
+    "codec": "h264",
+    "audio_included": false,
+    "redaction_regions": [],
+    "redaction_method": "local text regions with temporal safety margins; no full-screen privacy plates",
+    "archive": "appllama-onboarding-videos.zip"
+  }
+]
