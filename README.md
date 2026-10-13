@@ -14,11 +14,11 @@ Materials from the onboarding/paywall research and the 23-app design audit, coll
 
 ## Screenshots and preserved paths
 
-There are **1,064 Appllama catalog screenshots** and **3,912 image files overall**. Catalog screenshots are real PNG files in app folders, for example `Fitbod/onb_1qmef.png`. Locate the exact code using [screens.json](manifests/screens.json); do not infer a code from an example filename.
+There are **1,064 Appllama catalog screenshots** and **3,912 image files overall**. Catalog screenshots are real PNG files in app folders, such as the paths listed in [PAYWALLS.md](PAYWALLS.md). Use [screens.json](manifests/screens.json) to resolve each exact screen code and app folder.
 
 `boards/`, `frames/`, `v2-media/`, `v2-measurements/`, `16-22-media/`, `motion/` and `official-media/` retain their existing relative paths. The root contact sheets are included too. [path-map.json](manifests/path-map.json) maps old catalog paths such as `appllama/02/...jpg` to their app-folder PNG paths. References in the published audit have been updated to those PNG paths.
 
-Large supplementary video files are in the release asset **supplementary-media.zip**. Extract it into the repository root to restore their original relative paths, including videos under `v2-media/`. Research images and text are already in Git. Downloader scripts, browser caches, temporary HTML and authentication data are not part of the evidence package.
+The 58 supplementary video files are in the release asset **supplementary-media.zip**. Extract it into the repository root to restore their original relative paths, including videos under `v2-media/`. Research images and text are already in Git. Downloader scripts, browser caches, temporary HTML and authentication data are not part of the evidence package.
 
 ## The 12 screen recordings
 
@@ -26,20 +26,20 @@ The two studies assigned different identifiers to the same source files. Use thi
 
 | Audit | Onboarding | App | Video | Duration |
 |---|---|---|---|---|
-| V01 | U07 | MacroFactor | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-10-2026%2015-01-54_1.mp4) | 9:14 |
-| V02 | U11 | BeFit | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-10-2026%2015-37-51_1.mp4) | 27:56 |
-| V03 | U01 | Fitbod | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-10-2026%2018-39-27_1.mp4) | 8:47 |
-| V04 | U08 | Planfit | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-10-2026%2022-56-29_1.mp4) | 18:08 |
-| V05 | U02 | TRX | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-10-2026%2023-42-23_1.mp4) | 7:18 |
-| V06 | U05 | Muscle Booster | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-11-2026%2000-03-29_1.mp4) | 10:02 |
-| V07 | U04 | SmartWorkout | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-11-2026%2001-19-42_1.mp4) | 12:13 |
-| V08 | U06 | Gymdone | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-11-2026%2014-57-59_1.mp4) | 10:30 |
-| V09 | U09 | iFIT | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-11-2026%2015-11-09_1.mp4) | 5:32 |
-| V10 | U12 | Technogym | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-11-2026%2015-37-12_1.mp4) | 19:58 |
-| V11 | U03 | Buddyfit | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-11-2026%2016-16-57_1.mp4) | 17:32 |
-| V12 | U10 | MCI | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-11-2026%2017-46-36_1.mp4) | 21:26 |
+| V01 | U07 | MacroFactor | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-10-2026.15-01-54_1.mp4) | 9:14 |
+| V02 | U11 | BeFit | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-10-2026.15-37-51_1.mp4) | 27:56 |
+| V03 | U01 | Fitbod | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-10-2026.18-39-27_1.mp4) | 8:47 |
+| V04 | U08 | Planfit | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-10-2026.22-56-29_1.mp4) | 18:08 |
+| V05 | U02 | TRX | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-10-2026.23-42-23_1.mp4) | 7:18 |
+| V06 | U05 | Muscle Booster | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-11-2026.00-03-29_1.mp4) | 10:02 |
+| V07 | U04 | SmartWorkout | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-11-2026.01-19-42_1.mp4) | 12:13 |
+| V08 | U06 | Gymdone | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-11-2026.14-57-59_1.mp4) | 10:30 |
+| V09 | U09 | iFIT | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-11-2026.15-11-09_1.mp4) | 5:32 |
+| V10 | U12 | Technogym | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-11-2026.15-37-12_1.mp4) | 19:58 |
+| V11 | U03 | Buddyfit | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-11-2026.16-16-57_1.mp4) | 17:32 |
+| V12 | U10 | MCI | [Download MP4](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-11-2026.17-46-36_1.mp4) | 21:26 |
 
-The MP4 filenames match the original archive. Published files are **privacy-redacted copies**: account, credential, payment and unrelated personal-content sequences are covered; audio is removed. No time segments are cut. The original 1290 × 2796 dimensions and timeline are retained, so existing timestamps still apply. They are HEVC/H.265 files; use a compatible player or ffmpeg. A privacy plate is not an app screen and must not be counted as an onboarding step.
+The manifests preserve the original archive filenames. GitHub replaces spaces with dots in the release asset names; `release_filename` and `download_url` give the exact published names. Published files are **privacy-redacted copies**: account, credential, payment and unrelated personal-content sequences are covered; audio is removed. No time segments are cut. The original 1290 × 2796 dimensions and timeline are retained, so existing timestamps still apply. They are HEVC/H.265 files; use a compatible player or ffmpeg. A privacy plate is not an app screen and must not be counted as an onboarding step.
 
 Some original audit overview frames labelled `t` were extracted at approximately `t + 1 second`; this convention remains unchanged. Exact video durations, SHA-256 checksums, download URLs and redacted time intervals are in [recordings.json](manifests/recordings.json), with a [CSV mapping](manifests/recordings.csv).
 
@@ -47,8 +47,10 @@ Some original audit overview frames labelled `t` were extracted at approximately
 
 Preserve the source distinctions in the reports: catalog metadata, observed pixels, recorded behavior, published developer documentation and inferred design properties have different evidential strength. Colors from Appllama are catalog samples, not an export of internal design tokens. Visually inferred fonts are not confirmed font families. Multiple screenshots may show alternate states rather than consecutive onboarding steps.
 
-Privacy redactions are also applied to still images and text exports; their locations are listed in [privacy-redactions.json](manifests/privacy-redactions.json). The private source recordings and raw OCR are not published. Assets remain attributable to their respective apps and source authors; this handoff does not claim ownership of third-party designs.
+Privacy redactions are also applied to still images and text exports; their locations are listed in [privacy-redactions.json](manifests/privacy-redactions.json). The private source recordings and unreviewed OCR are not published. Assets remain attributable to their respective apps and source authors; this handoff does not claim ownership of third-party designs.
 
 ## Integrity
 
 [files.json](manifests/files.json) lists file sizes and SHA-256 hashes for the image/document payload. [screens.json](manifests/screens.json) gives app names, screen IDs and catalog metadata. Supplementary video details and hashes are in `manifests/supplementary-media.json`.
+
+Release asset integrity: [archive metadata](manifests/release-assets.json) and [SHA256SUMS.txt](https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/SHA256SUMS.txt). Supplemental copies are silent; privacy-sensitive intervals are blacked out. One fragmented App Store preview had an inconsistent duration header, which remuxing corrected; its frame count and presentation timestamps were checked against the source.

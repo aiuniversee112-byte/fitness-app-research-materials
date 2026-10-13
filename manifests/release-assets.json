@@ -1,0 +1,11 @@
+{
+  "release_tag": "materials-v1",
+  "supplementary_archive": {
+    "filename": "supplementary-media.zip",
+    "bytes": 1373402862,
+    "sha256": "224659391107bb4b45584060b6df3425a0241ab6ab0a99539d966e74d678d902",
+    "download_url": "https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/supplementary-media.zip",
+    "video_count": 58
+  },
+  "checksums_url": "https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/SHA256SUMS.txt"
+}
