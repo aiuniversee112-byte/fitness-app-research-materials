@@ -1,0 +1,3045 @@
+{
+  "images": [
+    {
+      "path": "Fitbod/onb_1ccos.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1080,
+          2336
+        ]
+      ]
+    },
+    {
+      "path": "Strava/onb_bnch5.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1080,
+          2336
+        ]
+      ]
+    },
+    {
+      "path": "Strava/oth_ovkdd.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1170,
+          2532
+        ]
+      ]
+    },
+    {
+      "path": "Strava/oth_hbkoc.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1170,
+          2532
+        ]
+      ]
+    },
+    {
+      "path": "Lyfta/onb_uyctd.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1080,
+          2336
+        ]
+      ]
+    },
+    {
+      "path": "Lyfta/oth_1m7or.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1170,
+          2532
+        ]
+      ]
+    },
+    {
+      "path": "Fitify-Home-Workout-AI-Coach/oth_snowe.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1170,
+          2532
+        ]
+      ]
+    },
+    {
+      "path": "FitOn-Workouts--Fitness-Plans/oth_8m59b.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1170,
+          2532
+        ]
+      ]
+    },
+    {
+      "path": "FitOn-Workouts--Fitness-Plans/oth_tl5gt.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1170,
+          2532
+        ]
+      ]
+    },
+    {
+      "path": "BODi/onb_k834g.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1080,
+          2336
+        ]
+      ]
+    },
+    {
+      "path": "BODi/oth_3qi53.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1170,
+          2532
+        ]
+      ]
+    },
+    {
+      "path": "BODi/oth_g049r.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1170,
+          2532
+        ]
+      ]
+    },
+    {
+      "path": "Strong/onb_cueyc.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1080,
+          2337
+        ]
+      ]
+    },
+    {
+      "path": "JEFIT/onb_p0s9l.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1080,
+          2336
+        ]
+      ]
+    },
+    {
+      "path": "JEFIT/oth_6j21s.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1170,
+          2532
+        ]
+      ]
+    },
+    {
+      "path": "JEFIT/oth_rkq52.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1170,
+          2532
+        ]
+      ]
+    },
+    {
+      "path": "JEFIT/oth_z1uw5.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1170,
+          2532
+        ]
+      ]
+    },
+    {
+      "path": "Muscle-Monster-Workout-Planner/onb_0mu8p.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1080,
+          2337
+        ]
+      ]
+    },
+    {
+      "path": "Muscle-Monster-Workout-Planner/onb_nns9m.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1080,
+          2337
+        ]
+      ]
+    },
+    {
+      "path": "Muscle-Monster-Workout-Planner/onb_zgcs3.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1080,
+          2337
+        ]
+      ]
+    },
+    {
+      "path": "Muscle-Monster-Workout-Planner/oth_auglr.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1170,
+          2532
+        ]
+      ]
+    },
+    {
+      "path": "SHRED/onb_udn8o.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1080,
+          2336
+        ]
+      ]
+    },
+    {
+      "path": "SHRED/oth_wbdjo.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1170,
+          2532
+        ]
+      ]
+    },
+    {
+      "path": "SHRED/oth_sjroj.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1170,
+          2532
+        ]
+      ]
+    },
+    {
+      "path": "Symmetry/onb_haqkq.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1080,
+          2336
+        ]
+      ]
+    },
+    {
+      "path": "Gravl/onb_br8pk.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1080,
+          2336
+        ]
+      ]
+    },
+    {
+      "path": "Gravl/onb_6e89d.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1080,
+          2336
+        ]
+      ]
+    },
+    {
+      "path": "Gravl/oth_qo0u8.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1170,
+          2532
+        ]
+      ]
+    },
+    {
+      "path": "Peloton/onb_7td2d.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1080,
+          2336
+        ]
+      ]
+    },
+    {
+      "path": "Peloton/onb_ak91d.png",
+      "boxes": [
+        [
+          0,
+          0,
+          1080,
+          2336
+        ]
+      ]
+    },
+    {
+      "path": "boards/A08-onboarding-02.jpg",
+      "boxes": [
+        [
+          440,
+          0,
+          660,
+          464
+        ],
+        [
+          0,
+          1040,
+          220,
+          1504
+        ],
+        [
+          220,
+          1040,
+          440,
+          1504
+        ]
+      ]
+    },
+    {
+      "path": "boards/A09-onboarding-01.jpg",
+      "boxes": [
+        [
+          0,
+          1040,
+          220,
+          1504
+        ],
+        [
+          220,
+          1040,
+          440,
+          1504
+        ],
+        [
+          440,
+          1040,
+          660,
+          1504
+        ],
+        [
+          660,
+          1040,
+          880,
+          1504
+        ],
+        [
+          880,
+          1040,
+          1100,
+          1504
+        ]
+      ]
+    },
+    {
+      "path": "boards/A09-onboarding-03.jpg",
+      "boxes": [
+        [
+          880,
+          1040,
+          1100,
+          1504
+        ]
+      ]
+    },
+    {
+      "path": "boards/A19-onboarding-01.jpg",
+      "boxes": [
+        [
+          220,
+          0,
+          440,
+          464
+        ],
+        [
+          440,
+          0,
+          660,
+          464
+        ],
+        [
+          660,
+          0,
+          880,
+          464
+        ],
+        [
+          880,
+          0,
+          1100,
+          464
+        ]
+      ]
+    },
+    {
+      "path": "boards/A19-product-04.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          220,
+          464
+        ],
+        [
+          220,
+          0,
+          440,
+          464
+        ],
+        [
+          440,
+          0,
+          660,
+          464
+        ],
+        [
+          660,
+          0,
+          880,
+          464
+        ],
+        [
+          880,
+          0,
+          1100,
+          464
+        ]
+      ]
+    },
+    {
+      "path": "boards/A22-onboarding-01.jpg",
+      "boxes": [
+        [
+          660,
+          0,
+          880,
+          464
+        ],
+        [
+          0,
+          0,
+          220,
+          464
+        ],
+        [
+          220,
+          0,
+          440,
+          464
+        ],
+        [
+          440,
+          0,
+          660,
+          464
+        ],
+        [
+          660,
+          0,
+          880,
+          464
+        ]
+      ]
+    },
+    {
+      "path": "boards/M-Fitbod-sheet-01.jpg",
+      "boxes": [
+        [
+          0,
+          1040,
+          220,
+          1504
+        ]
+      ]
+    },
+    {
+      "path": "boards/V01-01.jpg",
+      "boxes": [
+        [
+          0,
+          1040,
+          220,
+          1504
+        ],
+        [
+          880,
+          520,
+          1100,
+          984
+        ]
+      ]
+    },
+    {
+      "path": "boards/V02-01.jpg",
+      "boxes": [
+        [
+          0,
+          1040,
+          220,
+          1504
+        ],
+        [
+          880,
+          520,
+          1100,
+          984
+        ]
+      ]
+    },
+    {
+      "path": "boards/V02-02.jpg",
+      "boxes": [
+        [
+          0,
+          520,
+          220,
+          984
+        ],
+        [
+          220,
+          520,
+          440,
+          984
+        ]
+      ]
+    },
+    {
+      "path": "boards/V02-03.jpg",
+      "boxes": [
+        [
+          0,
+          1040,
+          220,
+          1504
+        ],
+        [
+          440,
+          1040,
+          660,
+          1504
+        ],
+        [
+          880,
+          0,
+          1100,
+          464
+        ]
+      ]
+    },
+    {
+      "path": "boards/V02-04.jpg",
+      "boxes": [
+        [
+          660,
+          0,
+          880,
+          464
+        ],
+        [
+          880,
+          0,
+          1100,
+          464
+        ]
+      ]
+    },
+    {
+      "path": "boards/V04-01.jpg",
+      "boxes": [
+        [
+          220,
+          0,
+          440,
+          464
+        ]
+      ]
+    },
+    {
+      "path": "boards/V04-02.jpg",
+      "boxes": [
+        [
+          220,
+          520,
+          440,
+          984
+        ],
+        [
+          440,
+          0,
+          660,
+          464
+        ],
+        [
+          660,
+          0,
+          880,
+          464
+        ],
+        [
+          880,
+          0,
+          1100,
+          464
+        ]
+      ]
+    },
+    {
+      "path": "boards/V04-03.jpg",
+      "boxes": [
+        [
+          0,
+          520,
+          220,
+          984
+        ]
+      ]
+    },
+    {
+      "path": "boards/V05-01.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          220,
+          464
+        ],
+        [
+          220,
+          0,
+          440,
+          464
+        ],
+        [
+          220,
+          520,
+          440,
+          984
+        ],
+        [
+          440,
+          0,
+          660,
+          464
+        ],
+        [
+          880,
+          0,
+          1100,
+          464
+        ]
+      ]
+    },
+    {
+      "path": "boards/V06-02.jpg",
+      "boxes": [
+        [
+          0,
+          520,
+          220,
+          984
+        ]
+      ]
+    },
+    {
+      "path": "boards/V07-01.jpg",
+      "boxes": [
+        [
+          440,
+          1040,
+          660,
+          1504
+        ],
+        [
+          880,
+          520,
+          1100,
+          984
+        ]
+      ]
+    },
+    {
+      "path": "boards/V07-02.jpg",
+      "boxes": [
+        [
+          660,
+          520,
+          880,
+          984
+        ],
+        [
+          880,
+          520,
+          1100,
+          984
+        ]
+      ]
+    },
+    {
+      "path": "boards/V08-01.jpg",
+      "boxes": [
+        [
+          0,
+          520,
+          220,
+          984
+        ],
+        [
+          880,
+          0,
+          1100,
+          464
+        ]
+      ]
+    },
+    {
+      "path": "boards/V09-01.jpg",
+      "boxes": [
+        [
+          0,
+          520,
+          220,
+          984
+        ],
+        [
+          220,
+          0,
+          440,
+          464
+        ],
+        [
+          220,
+          520,
+          440,
+          984
+        ],
+        [
+          440,
+          520,
+          660,
+          984
+        ],
+        [
+          880,
+          0,
+          1100,
+          464
+        ]
+      ]
+    },
+    {
+      "path": "boards/V10-01.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          220,
+          464
+        ],
+        [
+          220,
+          0,
+          440,
+          464
+        ],
+        [
+          220,
+          0,
+          440,
+          464
+        ],
+        [
+          220,
+          520,
+          440,
+          984
+        ],
+        [
+          0,
+          520,
+          220,
+          984
+        ],
+        [
+          440,
+          0,
+          660,
+          464
+        ],
+        [
+          440,
+          1040,
+          660,
+          1504
+        ],
+        [
+          660,
+          0,
+          880,
+          464
+        ],
+        [
+          880,
+          0,
+          1100,
+          464
+        ]
+      ]
+    },
+    {
+      "path": "boards/V10-03.jpg",
+      "boxes": [
+        [
+          880,
+          520,
+          1100,
+          984
+        ],
+        [
+          880,
+          520,
+          1100,
+          984
+        ]
+      ]
+    },
+    {
+      "path": "boards/V11-01.jpg",
+      "boxes": [
+        [
+          0,
+          520,
+          220,
+          984
+        ],
+        [
+          440,
+          0,
+          660,
+          464
+        ],
+        [
+          660,
+          0,
+          880,
+          464
+        ],
+        [
+          880,
+          0,
+          1100,
+          464
+        ]
+      ]
+    },
+    {
+      "path": "boards/V11-02.jpg",
+      "boxes": [
+        [
+          0,
+          1040,
+          220,
+          1504
+        ],
+        [
+          220,
+          1040,
+          440,
+          1504
+        ]
+      ]
+    },
+    {
+      "path": "boards/V11-03.jpg",
+      "boxes": [
+        [
+          880,
+          0,
+          1100,
+          464
+        ]
+      ]
+    },
+    {
+      "path": "boards/V12-01.jpg",
+      "boxes": [
+        [
+          660,
+          520,
+          880,
+          984
+        ],
+        [
+          880,
+          520,
+          1100,
+          984
+        ]
+      ]
+    },
+    {
+      "path": "boards/v2-Fitbod-trajectory-02.jpg",
+      "boxes": [
+        [
+          440,
+          0,
+          660,
+          464
+        ],
+        [
+          660,
+          0,
+          880,
+          464
+        ]
+      ]
+    },
+    {
+      "path": "frames/V01/00270.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V01/00300.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V01/00540.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V02/00270.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V02/00300.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V02/00600.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V02/00630.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V02/01020.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V02/01200.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V02/01230.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V02/01260.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V02/01440.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V02/01470.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V03/00210.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V04/00030.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V04/00300.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V04/00510.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V04/00540.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V04/00570.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V04/00630.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V04/01080.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V05/00000.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V05/00030.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V05/00060.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V05/00090.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V05/00120.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V05/00180.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V06/00600.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V07/00270.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V07/00360.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V07/00690.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V07/00720.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V08/00120.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V08/00150.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V09/00030.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V09/00060.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V09/00090.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V09/00120.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V09/00150.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V09/00180.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V09/00210.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V10/00000.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V10/00030.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V10/00060.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V10/00090.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V10/00120.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V10/00150.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V10/00180.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V10/01140.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V10/01170.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V11/00060.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V11/00090.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V11/00120.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V11/00150.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V11/00750.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V11/00780.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V11/01020.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V12/00240.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "frames/V12/00270.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "v2-media/09-15/bodi-hud-0142.png",
+      "boxes": [
+        [
+          0,
+          0,
+          360,
+          640
+        ]
+      ]
+    },
+    {
+      "path": "v2-media/09-15/bodi-hud-0146.png",
+      "boxes": [
+        [
+          0,
+          0,
+          360,
+          640
+        ]
+      ]
+    },
+    {
+      "path": "v2-media/09-15/bodi-hud-detailboard-1.jpg",
+      "boxes": [
+        [
+          866.0,
+          1317.25,
+          1069.0,
+          1509.1
+        ]
+      ]
+    },
+    {
+      "path": "v2-media/09-15/strava-official-recorder-2.img",
+      "boxes": [
+        [
+          0,
+          0,
+          809,
+          1600
+        ]
+      ]
+    },
+    {
+      "path": "v2-media/09-15/strava-official-recorder-2.png",
+      "boxes": [
+        [
+          0,
+          0,
+          809,
+          1600
+        ]
+      ]
+    },
+    {
+      "path": "v2-media/16-22/monster-showcase-07.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          640,
+          1384
+        ]
+      ]
+    },
+    {
+      "path": "v2-media/16-22/gravl-edit/0000.00.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          462,
+          1000
+        ]
+      ]
+    },
+    {
+      "path": "v2-media/16-22/gravl-edit/0001.00.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          462,
+          1000
+        ]
+      ]
+    },
+    {
+      "path": "v2-media/16-22/peloton-sara-2021-samples/0410.00.jpg",
+      "boxes": [
+        [
+          390.8,
+          437.0,
+          578.8,
+          540
+        ]
+      ]
+    },
+    {
+      "path": "v2-media/utility/strava-old-014.png",
+      "boxes": [
+        [
+          0,
+          0,
+          350,
+          720
+        ]
+      ]
+    },
+    {
+      "path": "v2-media/utility/strava-old-016.png",
+      "boxes": [
+        [
+          0,
+          0,
+          350,
+          720
+        ]
+      ]
+    },
+    {
+      "path": "v2-media/utility/strava-old-019.png",
+      "boxes": [
+        [
+          0,
+          0,
+          350,
+          720
+        ]
+      ]
+    },
+    {
+      "path": "v2-media/utility/strava-old-board-2.jpg",
+      "boxes": [
+        [
+          258.6,
+          97.5,
+          578.6,
+          273.8
+        ],
+        [
+          818.6,
+          97.5,
+          1120,
+          273.8
+        ]
+      ]
+    },
+    {
+      "path": "v2-media/utility/strong-detail-2.jpg",
+      "boxes": [
+        [
+          830.5,
+          623.25,
+          1078.0,
+          795.7
+        ]
+      ]
+    },
+    {
+      "path": "v2-media/utility-09-15/strava-flow-0054.png",
+      "boxes": [
+        [
+          0,
+          0,
+          394,
+          854
+        ]
+      ]
+    },
+    {
+      "path": "v2-media/utility-09-15/strava-flow-0057.png",
+      "boxes": [
+        [
+          0,
+          0,
+          394,
+          854
+        ]
+      ]
+    },
+    {
+      "path": "v2-media/utility-09-15/strava-flow-detail-2.jpg",
+      "boxes": [
+        [
+          580.0,
+          722.5,
+          835.0,
+          909.2
+        ],
+        [
+          880.0,
+          722.5,
+          1135.0,
+          909.2
+        ]
+      ]
+    },
+    {
+      "path": "v2-media/utility-09-15/strong-ByvaXMey8OU-board-1.jpg",
+      "boxes": [
+        [
+          941.0,
+          766.0,
+          1200,
+          891.4
+        ]
+      ]
+    },
+    {
+      "path": "v2-media/utility-09-15/strong-ByvaXMey8OU-frame-0180.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          232,
+          412
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A22-onb_8ki1d-01.jpg",
+      "boxes": [
+        [
+          660,
+          0,
+          880,
+          464
+        ],
+        [
+          880,
+          0,
+          1100,
+          464
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A16-onb_6y1p3/00005.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A16-onb_6y1p3/00010.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A16-onb_6y1p3/00015.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A16-onb_6y1p3-motion/19.00.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          400,
+          865
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A16-onb_6y1p3-motion/19.20.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          400,
+          865
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A16-onb_6y1p3-motion/19.40.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          400,
+          865
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A16-onb_6y1p3-motion/19.60.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          400,
+          865
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A17-onb_6swxj/00100.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A17-onb_6swxj/00105.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A17-onb_6swxj/00110.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A17-onb_6swxj/00115.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A17-onb_6swxj/00120.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A18-onb_urj0o/00040.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A18-onb_urj0o/00045.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A18-onb_urj0o/00085.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A18-onb_urj0o/00130.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A18-onb_urj0o/00135.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A18-onb_urj0o/00140.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A19-onb_ygbmx/00065.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A19-onb_ygbmx/00070.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A19-onb_ygbmx/00075.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A20-onb_tyza6/00130.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A20-onb_tyza6/00135.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A20-onb_tyza6/00140.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A20-onb_tyza6/00145.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A20-onb_tyza6/00150.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A20-onb_tyza6/00155.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A20-onb_tyza6/00160.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A20-onb_tyza6/00165.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A20-onb_tyza6/00170.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A20-onb_tyza6/00175.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A20-onb_tyza6/00180.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          954
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A21-onb_dt7pt/00100.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A21-onb_dt7pt/00125.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A21-onb_dt7pt/00130.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A21-onb_dt7pt/00135.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A21-onb_dt7pt/00140.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A21-onb_dt7pt/00145.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A21-onb_dt7pt/00150.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A21-onb_dt7pt-motion/100.00.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          400,
+          865
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A21-onb_dt7pt-motion/100.50.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          400,
+          865
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A21-onb_dt7pt-motion/101.00.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          400,
+          865
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A21-onb_dt7pt-motion/101.50.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          400,
+          865
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A21-onb_dt7pt-motion/102.00.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          400,
+          865
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A21-onb_dt7pt-motion/102.50.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          400,
+          865
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A21-onb_dt7pt-motion/103.00.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          400,
+          865
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A21-onb_dt7pt-motion/103.50.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          400,
+          865
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A21-onb_dt7pt-motion/104.00.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          400,
+          865
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A21-onb_dt7pt-motion/97.00.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          400,
+          865
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A21-onb_dt7pt-motion/97.50.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          400,
+          865
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A21-onb_dt7pt-motion/98.00.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          400,
+          865
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A21-onb_dt7pt-motion/98.50.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          400,
+          865
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A21-onb_dt7pt-motion/99.00.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          400,
+          865
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A21-onb_dt7pt-motion/99.50.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          400,
+          865
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A22-onb_8ki1d/00010.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A22-onb_8ki1d/00015.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A22-onb_8ki1d/00020.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A22-onb_8ki1d/00025.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "16-22-media/A22-onb_8ki1d/00030.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "motion/M-Fitbod-sheet/0011.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          260,
+          564
+        ]
+      ]
+    },
+    {
+      "path": "motion/M-Lyfta-onb/0018.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          260,
+          562
+        ]
+      ]
+    },
+    {
+      "path": "motion/M-Lyfta-onb/0020.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          260,
+          562
+        ]
+      ]
+    },
+    {
+      "path": "motion/M-Lyfta-onb/0021.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          260,
+          562
+        ]
+      ]
+    },
+    {
+      "path": "motion/M-Strava-onb/0002.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          260,
+          562
+        ]
+      ]
+    },
+    {
+      "path": "motion/M-Strava-onb/0003.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          260,
+          562
+        ]
+      ]
+    },
+    {
+      "path": "motion/M-Strava-onb/0004.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          260,
+          562
+        ]
+      ]
+    },
+    {
+      "path": "motion/v2-Fitbod-trajectory/0018.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          260,
+          564
+        ]
+      ]
+    },
+    {
+      "path": "motion/v2-Fitbod-trajectory/0019.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          260,
+          564
+        ]
+      ]
+    },
+    {
+      "path": "09-15-A09-onb_fln21-034.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "09-15-A09-onb_fln21-035.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "09-15-A09-onb_fln21-036.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "09-15-A09-onb_fln21-037.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "09-15-A12-onb_36vkx-005.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "09-15-A12-onb_36vkx-006.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "09-15-A12-onb_36vkx-007.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "09-15-A12-onb_36vkx-008.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "09-15-A12-onb_36vkx-009.jpg",
+      "boxes": [
+        [
+          0,
+          0,
+          440,
+          952
+        ]
+      ]
+    },
+    {
+      "path": "09-15-board-A09-onb_fln21-2.jpg",
+      "boxes": [
+        [
+          660,
+          520,
+          880,
+          984
+        ]
+      ]
+    }
+  ],
+  "recordings": [
+    {
+      "audit_id": "V01",
+      "onboarding_id": "U07",
+      "intervals_s": [
+        [
+          261.0,
+          290.5
+        ],
+        [
+          300.0,
+          310.5
+        ],
+        [
+          368.0,
+          374.0
+        ],
+        [
+          457.5,
+          463.5
+        ],
+        [
+          497.0,
+          504.5
+        ],
+        [
+          536.5,
+          544.0
+        ]
+      ]
+    },
+    {
+      "audit_id": "V02",
+      "onboarding_id": "U11",
+      "intervals_s": [
+        [
+          210.5,
+          223.0
+        ],
+        [
+          250,
+          307
+        ],
+        [
+          437.5,
+          447.0
+        ],
+        [
+          595.5,
+          616.0
+        ],
+        [
+          626.5,
+          655.5
+        ],
+        [
+          677.0,
+          684.5
+        ],
+        [
+          706.0,
+          714.0
+        ],
+        [
+          737.5,
+          744.5
+        ],
+        [
+          1012.0,
+          1021.0
+        ],
+        [
+          1037.0,
+          1045.0
+        ],
+        [
+          1184.0,
+          1192.0
+        ],
+        [
+          1197.0,
+          1229.0
+        ],
+        [
+          1237.5,
+          1288.5
+        ],
+        [
+          1398.0,
+          1409.0
+        ],
+        [
+          1422.5,
+          1485.0
+        ],
+        [
+          1662.0,
+          1669.0
+        ]
+      ]
+    },
+    {
+      "audit_id": "V03",
+      "onboarding_id": "U01",
+      "intervals_s": [
+        [
+          42.0,
+          48.5
+        ],
+        [
+          189.5,
+          232.0
+        ],
+        [
+          279.5,
+          290.5
+        ]
+      ]
+    },
+    {
+      "audit_id": "V04",
+      "onboarding_id": "U08",
+      "intervals_s": [
+        [
+          4,
+          30
+        ],
+        [
+          332.5,
+          356.5
+        ],
+        [
+          501.0,
+          521.0
+        ],
+        [
+          525.5,
+          555.5
+        ],
+        [
+          566.0,
+          572.0
+        ],
+        [
+          619.5,
+          632.5
+        ],
+        [
+          913.5,
+          927.0
+        ],
+        [
+          1074.0,
+          1082.0
+        ]
+      ]
+    },
+    {
+      "audit_id": "V05",
+      "onboarding_id": "U02",
+      "intervals_s": [
+        [
+          0,
+          44
+        ],
+        [
+          48,
+          137.5
+        ],
+        [
+          179.5,
+          186.5
+        ],
+        [
+          422.0,
+          428.0
+        ]
+      ]
+    },
+    {
+      "audit_id": "V06",
+      "onboarding_id": "U05",
+      "intervals_s": [
+        [
+          574.5,
+          581.5
+        ],
+        [
+          595.5,
+          601.5
+        ]
+      ]
+    },
+    {
+      "audit_id": "V07",
+      "onboarding_id": "U04",
+      "intervals_s": [
+        [
+          253.0,
+          290.5
+        ],
+        [
+          303.0,
+          329.5
+        ],
+        [
+          356.5,
+          369.0
+        ],
+        [
+          521.5,
+          528.0
+        ],
+        [
+          548.0,
+          554.0
+        ],
+        [
+          638.0,
+          644.0
+        ],
+        [
+          680,
+          732.96
+        ]
+      ]
+    },
+    {
+      "audit_id": "V08",
+      "onboarding_id": "U06",
+      "intervals_s": [
+        [
+          104.5,
+          169
+        ],
+        [
+          194.0,
+          202.0
+        ],
+        [
+          552.5,
+          563.5
+        ]
+      ]
+    },
+    {
+      "audit_id": "V09",
+      "onboarding_id": "U09",
+      "intervals_s": [
+        [
+          4.0,
+          146
+        ],
+        [
+          149.5,
+          217.5
+        ],
+        [
+          271.5,
+          286.5
+        ],
+        [
+          317.0,
+          331.915
+        ]
+      ]
+    },
+    {
+      "audit_id": "V10",
+      "onboarding_id": "U12",
+      "intervals_s": [
+        [
+          0,
+          157.0
+        ],
+        [
+          177.0,
+          190.0
+        ],
+        [
+          1135.0,
+          1193.0
+        ]
+      ]
+    },
+    {
+      "audit_id": "V11",
+      "onboarding_id": "U03",
+      "intervals_s": [
+        [
+          35.5,
+          171.5
+        ],
+        [
+          241.0,
+          266.5
+        ],
+        [
+          412.5,
+          418.5
+        ],
+        [
+          732.5,
+          739.0
+        ],
+        [
+          743.0,
+          751.0
+        ],
+        [
+          756.0,
+          802.0
+        ],
+        [
+          1015.5,
+          1024.5
+        ],
+        [
+          1046.0,
+          1052.492
+        ]
+      ]
+    },
+    {
+      "audit_id": "V12",
+      "onboarding_id": "U10",
+      "intervals_s": [
+        [
+          215.5,
+          289
+        ],
+        [
+          291.5,
+          298.5
+        ],
+        [
+          642.5,
+          650.5
+        ],
+        [
+          1280.5,
+          1285.56
+        ]
+      ]
+    }
+  ]
+}

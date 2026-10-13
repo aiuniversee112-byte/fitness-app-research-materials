@@ -1,0 +1,232 @@
+[
+  {
+    "number": 1,
+    "name": "BeFit",
+    "app_id": "6504535443",
+    "appllama_found": false,
+    "archive": "V02",
+    "hud": "partial_editor_and_manual_completion",
+    "motion": "archive_sheet_exercise_media_streak_confetti",
+    "source": "Video Archive"
+  },
+  {
+    "number": 2,
+    "name": "MacroFactor",
+    "app_id": "1553503471",
+    "appllama_found": true,
+    "archive": "V01",
+    "hud": "not_applicable_nutrition",
+    "motion": "archive_data_entry",
+    "source": "Hybrid: Applama + Video"
+  },
+  {
+    "number": 3,
+    "name": "Fitbod",
+    "app_id": "1041517543",
+    "appllama_found": true,
+    "archive": "V03",
+    "hud": "active_timed_exercise",
+    "motion": "archive_timer_sheet_countdown",
+    "source": "Hybrid: Applama + Video"
+  },
+  {
+    "number": 4,
+    "name": "Gymverse",
+    "app_id": "1048454034",
+    "appllama_found": true,
+    "archive": null,
+    "hud": "static_set_timer_rest",
+    "motion": "appllama_onboarding",
+    "source": "Applama"
+  },
+  {
+    "number": 5,
+    "name": "TRX",
+    "app_id": "949905528",
+    "appllama_found": false,
+    "archive": "V05",
+    "hud": "active_video_player",
+    "motion": "archive_playback",
+    "source": "Video Archive"
+  },
+  {
+    "number": 6,
+    "name": "Muscle Booster",
+    "app_id": "1446447749",
+    "appllama_found": true,
+    "archive": "V06",
+    "hud": "official_help_static_player_cross_platform",
+    "motion": "archive_onboarding_only",
+    "source": "Hybrid: Applama + Video"
+  },
+  {
+    "number": 7,
+    "name": "Strava",
+    "app_id": "426826309",
+    "appllama_found": true,
+    "archive": null,
+    "hud": "active_android2026_recorder_historical_pause_save",
+    "motion": "public_android2026_map_stats_and2025_pause_finish_save",
+    "source": "Applama"
+  },
+  {
+    "number": 8,
+    "name": "Lyfta",
+    "app_id": "6443740936",
+    "appllama_found": true,
+    "archive": null,
+    "hud": "static_current_hud_historical_android_logging_errors",
+    "motion": "historical_android_log_undo_discard_rest_off",
+    "source": "Applama"
+  },
+  {
+    "number": 9,
+    "name": "Fitify: Home Workout, AI Coach",
+    "app_id": "1463386686",
+    "appllama_found": true,
+    "archive": null,
+    "hud": "static_current_hud_historical_android_active_player",
+    "motion": "historical_android_prep_pause_skip_early_exit",
+    "source": "Applama"
+  },
+  {
+    "number": 10,
+    "name": "FitOn Workouts & Fitness Plans",
+    "app_id": "1442473191",
+    "appllama_found": true,
+    "archive": null,
+    "hud": "public_ios2026_active_player_and_historical_social",
+    "motion": "public_ios2026_countdown_orientation_transport_exit_resume",
+    "source": "Applama"
+  },
+  {
+    "number": 11,
+    "name": "SmartGym",
+    "app_id": "922744883",
+    "appllama_found": true,
+    "archive": null,
+    "hud": "static_current_strength_historical_ios_hiit",
+    "motion": "historical_hiit_pause_stop_scopes_documented_strengthchain",
+    "source": "Applama"
+  },
+  {
+    "number": 12,
+    "name": "BODi",
+    "app_id": "1031660123",
+    "appllama_found": true,
+    "archive": null,
+    "hud": "static_current_player_historical_android_cast",
+    "motion": "historical_cast_seek_pause_manual_log_incomplete",
+    "source": "Applama"
+  },
+  {
+    "number": 13,
+    "name": "Gymdone",
+    "app_id": "1350534443",
+    "appllama_found": false,
+    "archive": "V08",
+    "hud": "microcycle_logged_warmup_rest_adjust_next_finish",
+    "motion": "archive_complete_short_set_rest_finish_cycle",
+    "source": "Video Archive"
+  },
+  {
+    "number": 14,
+    "name": "Technogym",
+    "app_id": "976506047",
+    "appllama_found": false,
+    "archive": "V10",
+    "hud": "active_portrait_and_landscape",
+    "motion": "archive_orientation_and_hud",
+    "source": "Video Archive"
+  },
+  {
+    "number": 15,
+    "name": "Buddyfit",
+    "app_id": "1483572798",
+    "appllama_found": false,
+    "archive": "V11",
+    "hud": "active_video_class",
+    "motion": "archive_playback_and_countdown",
+    "source": "Video Archive"
+  },
+  {
+    "number": 16,
+    "name": "Strong Workout Tracker Gym Log",
+    "app_id": "464254577",
+    "appllama_found": true,
+    "archive": null,
+    "hud": "static_current_hud_historical_ios_rest_finish",
+    "motion": "historical2025_countdown_restcomplete_finish_template",
+    "source": "Applama"
+  },
+  {
+    "number": 17,
+    "name": "JEFIT",
+    "app_id": "449810000",
+    "appllama_found": true,
+    "archive": null,
+    "hud": "active_logger_rest_video",
+    "motion": "appllama_onboarding_and_rest",
+    "source": "Applama"
+  },
+  {
+    "number": 18,
+    "name": "Muscle Monster Workout Planner",
+    "app_id": "6471547318",
+    "appllama_found": true,
+    "archive": null,
+    "hud": "advertised_player_composite_mismatch_not_runtime",
+    "motion": "onboarding_celebration_no_active_workout",
+    "source": "Applama"
+  },
+  {
+    "number": 19,
+    "name": "SHRED",
+    "app_id": "1439828095",
+    "appllama_found": true,
+    "archive": null,
+    "hud": "static_strength_cardio_class",
+    "motion": "appllama_onboarding",
+    "source": "Applama"
+  },
+  {
+    "number": 20,
+    "name": "Symmetry",
+    "app_id": "6474446718",
+    "appllama_found": true,
+    "archive": null,
+    "hud": "static_sets_completion",
+    "motion": "appllama_onboarding_ranks",
+    "source": "Applama"
+  },
+  {
+    "number": 21,
+    "name": "Gravl",
+    "app_id": "6450921637",
+    "appllama_found": true,
+    "archive": null,
+    "hud": "official_videos_retrospective_log_edit_set_tables",
+    "motion": "official_past_log_edit_save_and_pause_settings",
+    "source": "Applama"
+  },
+  {
+    "number": 22,
+    "name": "Peloton",
+    "app_id": "792750948",
+    "appllama_found": true,
+    "archive": null,
+    "hud": "historical_ios2021_player_2023_gym_static_current_store",
+    "motion": "historical_class_pause_audio_and_onboarding_current",
+    "source": "Applama"
+  },
+  {
+    "number": 23,
+    "name": "MCI",
+    "app_id": "1645679272",
+    "appllama_found": true,
+    "archive": "V12",
+    "hud": "active_strength_and_cardio",
+    "motion": "archive_sheet_cardio_timer",
+    "source": "Hybrid: Applama + Video"
+  }
+]

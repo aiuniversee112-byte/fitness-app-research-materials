@@ -1,0 +1,1574 @@
+{
+  "schema_version": "2.0",
+  "checked_on": "2026-10-11",
+  "scope": "23 applications; official themes, native typography evidence, documented materials/motion/accessibility. No new HUD audit. No account creation or payments.",
+  "methods": [
+    "agent-reach/Exa discovery until rate limit; Jina Reader and official Apple Lookup API; fallback web search/open",
+    "Current App Store description/history/Accessibility read for all 23",
+    "Primary help/release/brand sources and first-person or named-team design cases only",
+    "No native font inference from website CSS, visual resemblance, OCR or third-party DESIGN.md"
+  ],
+  "status_legend": {
+    "confirmed_user_modes": "Официально подтверждены пользовательские варианты и путь хотя бы до Settings/Theme.",
+    "dark_support_confirmed_options_partial": "Dark Mode подтверждён, но полный список/путь в публичных источниках не установлен.",
+    "dark_and_custom_theme_support_confirmed_options_partial": "Dark и custom themes подтверждены; полного списка/актуального menu contract нет.",
+    "official_demo_variants_only": "Light/Dark есть в официальной веб-демонстрации; native switching не доказан.",
+    "not_established_after_public_source_check": "Публичные источники проверены, подтверждения нет. Это не утверждение об отсутствии функции.",
+    "native_family_not_established": "Проверенные источники не называют native family; растровое сходство не принято за доказательство."
+  },
+  "global_limits": [
+    "Store current release date is not archive capture version/date.",
+    "Release history dates lacking year are kept as source labels; no year is invented.",
+    "All23 App Store Accessibility sections say the developer has not yet indicated supported features; this is not evidence of inaccessible implementation.",
+    "Documented use of Liquid Glass or haptics is version/platform scoped; screenshot appearance and measured runtime motion remain separate.",
+    "Font files, native font stack, tabular-numeral flags, animation library/spring parameters, accessibility tree and complete dynamic-type behavior cannot be reliably recovered from still rasters alone."
+  ],
+  "apps": [
+    {
+      "index": 1,
+      "app": "BeFit",
+      "checked_on": "2026-10-11",
+      "store_snapshot": {
+        "version": "1.2.21",
+        "current_release_date_utc": "2026-10-09T15:07:26Z",
+        "url": "https://apps.apple.com/us/app/befit-gym-workout-tracker/id6504535443",
+        "not_archive_version": true
+      },
+      "status": {
+        "theme": "not_established_after_public_source_check",
+        "font": "native_family_not_established",
+        "materials_motion_accessibility": "no_complete_implementation_spec"
+      },
+      "theme_options": [],
+      "theme_settings_path": null,
+      "theme_scope_note": "Архив показывает dark, но официальный FAQ и текущая история магазина не устанавливают Light/Dark/System. Одноимённый BeFit другого издателя исключён.",
+      "font_evidence": {
+        "native_families": [],
+        "brand_only_families": [],
+        "note": "Семейство native UI не раскрыто проверенными источниками. По screenshot/веб-CSS не определялось."
+      },
+      "materials_motion_accessibility": [],
+      "app_store_accessibility": {
+        "status": "developer_has_not_indicated",
+        "note": "В разделе Accessibility магазина разработчик ещё не указал поддерживаемые функции. Это не означает отсутствия поддержки."
+      },
+      "source": [
+        {
+          "url": "https://apps.apple.com/us/app/befit-gym-workout-tracker/id6504535443",
+          "kind": "developer_app_store_listing",
+          "read": true,
+          "outcome": "Прочитаны описание, доступная история релизов и раздел Accessibility. Отдельные положительные утверждения и ограничения перечислены в строке."
+        },
+        {
+          "url": "https://appbefit.com/help-center/",
+          "kind": "official_help",
+          "read": true,
+          "outcome": "Прочитан FAQ, включая редактирование чисел, Profile→Sounds и настройки плана; Theme/Light/Dark, font family и технические материалы не раскрыты."
+        }
+      ],
+      "checked_searches": [
+        "site:appbefit.com dark light theme font accessibility",
+        "Befit 3APPS typography typeface design system"
+      ],
+      "remaining_unknowns": [
+        "Пользовательские варианты Light/Dark/System и точный путь их выбора",
+        "Точное семейство native body/numeric font и font-feature settings",
+        "Точная реализация/параметры motion и полный набор accessibility states"
+      ],
+      "temporal_note": "Текущая версия магазина и дата проверки отделены от версии AppLlama/локальной записи; даты release notes без года сохранены без добавления года."
+    },
+    {
+      "index": 2,
+      "app": "MacroFactor Nutrition",
+      "checked_on": "2026-10-11",
+      "store_snapshot": {
+        "version": "5.8.9",
+        "current_release_date_utc": "2026-09-24T15:08:27Z",
+        "url": "https://apps.apple.com/us/app/macrofactor-macro-tracker/id1553503471",
+        "not_archive_version": true
+      },
+      "status": {
+        "theme": "confirmed_user_modes",
+        "font": "confirmed_display_scope_body_unknown",
+        "materials_motion_accessibility": "no_complete_implementation_spec"
+      },
+      "theme_options": [
+        "System",
+        "Light",
+        "Dark"
+      ],
+      "theme_settings_path": "More → Theme",
+      "theme_scope_note": "Подтверждено именно для Nutrition; не перенесено из Workouts.",
+      "font_evidence": {
+        "native_families": [
+          {
+            "family": "Macro Sans",
+            "scope": "logo/wordmark; key headlines and important messages",
+            "platform": "ecosystem, не исчерпывающий native font inventory",
+            "source_url": "https://macrofactor.com/new-look/"
+          }
+        ],
+        "brand_only_families": [
+          {
+            "family": "DM Sans",
+            "scope": "partner marketing graphics only",
+            "source_url": "https://macrofactor.com/brand-guidelines/"
+          }
+        ],
+        "note": "Macro Sans подтверждён для брендового display/key headlines. Native body, numbers и tnum не раскрыты."
+      },
+      "materials_motion_accessibility": [
+        {
+          "category": "motion",
+          "text": "Космические in-app illustrations/animations для onboarding и weekly check-ins официально описаны; engine/easing не раскрыты.",
+          "scope": "brand update",
+          "version": null,
+          "date_label": "2025-09-16",
+          "source_url": "https://macrofactor.com/new-look/"
+        }
+      ],
+      "app_store_accessibility": {
+        "status": "developer_has_not_indicated",
+        "note": "В разделе Accessibility магазина разработчик ещё не указал поддерживаемые функции. Это не означает отсутствия поддержки."
+      },
+      "source": [
+        {
+          "url": "https://apps.apple.com/us/app/macrofactor-macro-tracker/id1553503471",
+          "kind": "developer_app_store_listing",
+          "read": true,
+          "outcome": "Прочитаны описание, доступная история релизов и раздел Accessibility. Отдельные положительные утверждения и ограничения перечислены в строке."
+        },
+        {
+          "url": "https://help.macrofactorapp.com/en/articles/73-switch-between-dark-and-light-mode",
+          "kind": "official_help",
+          "read": true,
+          "outcome": "Nutrition: More→Theme→System/Light/Dark; System следует телефону."
+        },
+        {
+          "url": "https://macrofactor.com/new-look/",
+          "kind": "official_product_design_announcement",
+          "read": true,
+          "outcome": "Ребрендинг 16.09.2025: Macro Sans для логотипа/wordmark и ключевых headlines/messages; новые in-app illustrations/animations."
+        },
+        {
+          "url": "https://macrofactor.com/brand-guidelines/",
+          "kind": "official_brand_guide",
+          "read": true,
+          "outcome": "DM Sans указан для партнёрских marketing images; это не доказательство body font приложения."
+        }
+      ],
+      "checked_searches": [],
+      "remaining_unknowns": [
+        "Точное семейство native body/numeric font и font-feature settings",
+        "Точная реализация/параметры motion и полный набор accessibility states"
+      ],
+      "temporal_note": "Текущая версия магазина и дата проверки отделены от версии AppLlama/локальной записи; даты release notes без года сохранены без добавления года."
+    },
+    {
+      "index": 3,
+      "app": "Fitbod",
+      "checked_on": "2026-10-11",
+      "store_snapshot": {
+        "version": "8.35.1",
+        "current_release_date_utc": "2026-10-06T01:37:53Z",
+        "url": "https://apps.apple.com/us/app/fitbod-gym-fitness-planner/id1041517543",
+        "not_archive_version": true
+      },
+      "status": {
+        "theme": "not_established_after_public_source_check",
+        "font": "native_family_not_established",
+        "materials_motion_accessibility": "no_complete_implementation_spec"
+      },
+      "theme_options": [],
+      "theme_settings_path": null,
+      "theme_scope_note": "Сведения о переключении не найдены в проверенных публичных источниках; это не утверждение о единственной теме.",
+      "font_evidence": {
+        "native_families": [],
+        "brand_only_families": [],
+        "note": "Первичный кейс автора design system подтверждает саму систему, но не называет native fonts. Стороннее «similar to Brandon Grotesque» и storefront CSS отвергнуты."
+      },
+      "materials_motion_accessibility": [],
+      "app_store_accessibility": {
+        "status": "developer_has_not_indicated",
+        "note": "В разделе Accessibility магазина разработчик ещё не указал поддерживаемые функции. Это не означает отсутствия поддержки."
+      },
+      "source": [
+        {
+          "url": "https://apps.apple.com/us/app/fitbod-gym-fitness-planner/id1041517543",
+          "kind": "developer_app_store_listing",
+          "read": true,
+          "outcome": "Прочитаны описание, доступная история релизов и раздел Accessibility. Отдельные положительные утверждения и ограничения перечислены в строке."
+        },
+        {
+          "url": "https://help.fitbod.me/api/v2/help_center/articles/search.json?query=dark",
+          "kind": "official_help_search_api",
+          "read": true,
+          "outcome": "Read-only поиск вернул count 0; это только результат индекса справки, не отсутствие функции."
+        },
+        {
+          "url": "https://help.fitbod.me/hc/en-us/sections/360012732693-App-Features",
+          "kind": "official_help",
+          "read": true,
+          "outcome": "Feature Overview не описывает theme/font contract."
+        },
+        {
+          "url": "https://www.bpowell.co/design/fitbod",
+          "kind": "first_person_designer_case_study",
+          "read": true,
+          "outcome": "Principal designer описывает внедрение iOS/Android/web design system в конце 2021; семейства шрифтов и переключатель темы в тексте не названы."
+        }
+      ],
+      "checked_searches": [
+        "site:help.fitbod.me dark mode appearance theme",
+        "Fitbod typeface typography design studio brand app"
+      ],
+      "remaining_unknowns": [
+        "Пользовательские варианты Light/Dark/System и точный путь их выбора",
+        "Точное семейство native body/numeric font и font-feature settings",
+        "Точная реализация/параметры motion и полный набор accessibility states"
+      ],
+      "temporal_note": "Текущая версия магазина и дата проверки отделены от версии AppLlama/локальной записи; даты release notes без года сохранены без добавления года."
+    },
+    {
+      "index": 4,
+      "app": "Gymverse",
+      "checked_on": "2026-10-11",
+      "store_snapshot": {
+        "version": "8.8800",
+        "current_release_date_utc": "2026-09-27T08:32:37Z",
+        "url": "https://apps.apple.com/us/app/gymverse-gym-workout-planner/id1048454034",
+        "not_archive_version": true
+      },
+      "status": {
+        "theme": "not_established_after_public_source_check",
+        "font": "native_family_not_established",
+        "materials_motion_accessibility": "no_complete_implementation_spec"
+      },
+      "theme_options": [],
+      "theme_settings_path": null,
+      "theme_scope_note": "Тёмная визуальная выборка не превращена в вывод dark-only. Сторонние GymApp repositories и icon Light/Dark/Tinted previews не относятся к theme engine Gymverse.",
+      "font_evidence": {
+        "native_families": [],
+        "brand_only_families": [],
+        "note": "Семейство native UI не раскрыто проверенными источниками. По screenshot/веб-CSS не определялось."
+      },
+      "materials_motion_accessibility": [],
+      "app_store_accessibility": {
+        "status": "developer_has_not_indicated",
+        "note": "В разделе Accessibility магазина разработчик ещё не указал поддерживаемые функции. Это не означает отсутствия поддержки."
+      },
+      "source": [
+        {
+          "url": "https://apps.apple.com/us/app/gymverse-gym-workout-planner/id1048454034",
+          "kind": "developer_app_store_listing",
+          "read": true,
+          "outcome": "Прочитаны описание, доступная история релизов и раздел Accessibility. Отдельные положительные утверждения и ограничения перечислены в строке."
+        },
+        {
+          "url": "https://gymverse.app/",
+          "kind": "official_product_site",
+          "read": true,
+          "outcome": "Прочитан полный публичный product/FAQ; настройки theme и native typography не документированы."
+        }
+      ],
+      "checked_searches": [
+        "Gymverse workout app dark mode theme typography",
+        "Gymverse Fitness22 typography font design system"
+      ],
+      "remaining_unknowns": [
+        "Пользовательские варианты Light/Dark/System и точный путь их выбора",
+        "Точное семейство native body/numeric font и font-feature settings",
+        "Точная реализация/параметры motion и полный набор accessibility states"
+      ],
+      "temporal_note": "Текущая версия магазина и дата проверки отделены от версии AppLlama/локальной записи; даты release notes без года сохранены без добавления года."
+    },
+    {
+      "index": 5,
+      "app": "TRX",
+      "checked_on": "2026-10-11",
+      "store_snapshot": {
+        "version": "10.8.17",
+        "current_release_date_utc": "2026-10-01T15:37:15Z",
+        "url": "https://apps.apple.com/us/app/trx-strength-home-workouts/id949905528",
+        "not_archive_version": true
+      },
+      "status": {
+        "theme": "not_established_after_public_source_check",
+        "font": "brand_family_confirmed_native_unknown",
+        "materials_motion_accessibility": "no_complete_implementation_spec"
+      },
+      "theme_options": [],
+      "theme_settings_path": null,
+      "theme_scope_note": "Сведения о переключении не найдены в проверенных публичных источниках; это не утверждение о единственной теме.",
+      "font_evidence": {
+        "native_families": [],
+        "brand_only_families": [
+          {
+            "family": "Montserrat",
+            "scope": "TRX communications, standard and italic weights",
+            "source_url": "https://www.trxtraining.com/pages/trx-branding"
+          }
+        ],
+        "note": "Montserrat — подтверждённая коммуникационная гарнитура бренда. Ни её, ни системное семейство нельзя объявлять точным native body font без app-specific evidence."
+      },
+      "materials_motion_accessibility": [],
+      "app_store_accessibility": {
+        "status": "developer_has_not_indicated",
+        "note": "В разделе Accessibility магазина разработчик ещё не указал поддерживаемые функции. Это не означает отсутствия поддержки."
+      },
+      "source": [
+        {
+          "url": "https://apps.apple.com/us/app/trx-strength-home-workouts/id949905528",
+          "kind": "developer_app_store_listing",
+          "read": true,
+          "outcome": "Прочитаны описание, доступная история релизов и раздел Accessibility. Отдельные положительные утверждения и ограничения перечислены в строке."
+        },
+        {
+          "url": "https://www.trxtraining.com/pages/getstarted-with-trx-app",
+          "kind": "official_help_faq",
+          "read": true,
+          "outcome": "Проверен FAQ: app navigation/music controls; переключение app theme не описано."
+        },
+        {
+          "url": "https://www.trxtraining.com/pages/trx-branding",
+          "kind": "official_brand_guide",
+          "read": true,
+          "outcome": "Montserrat назван primary typeface для TRX communications; native app UI явно не указан."
+        }
+      ],
+      "checked_searches": [
+        "TRX app dark mode accessibility captions",
+        "TRX Training app typography typeface design system"
+      ],
+      "remaining_unknowns": [
+        "Пользовательские варианты Light/Dark/System и точный путь их выбора",
+        "Точное семейство native body/numeric font и font-feature settings",
+        "Точная реализация/параметры motion и полный набор accessibility states"
+      ],
+      "temporal_note": "Текущая версия магазина и дата проверки отделены от версии AppLlama/локальной записи; даты release notes без года сохранены без добавления года."
+    },
+    {
+      "index": 6,
+      "app": "Muscle Booster",
+      "checked_on": "2026-10-11",
+      "store_snapshot": {
+        "version": "3.83.0",
+        "current_release_date_utc": "2026-10-09T08:08:28Z",
+        "url": "https://apps.apple.com/us/app/muscle-booster-workout-tracker/id1446447749",
+        "not_archive_version": true
+      },
+      "status": {
+        "theme": "not_established_after_public_source_check",
+        "font": "native_family_not_established",
+        "materials_motion_accessibility": "no_complete_implementation_spec"
+      },
+      "theme_options": [],
+      "theme_settings_path": null,
+      "theme_scope_note": "Сведения о переключении не найдены в проверенных публичных источниках; это не утверждение о единственной теме.",
+      "font_evidence": {
+        "native_families": [],
+        "brand_only_families": [],
+        "note": "Семейство native UI не раскрыто проверенными источниками. По screenshot/веб-CSS не определялось."
+      },
+      "materials_motion_accessibility": [
+        {
+          "category": "audio_feedback",
+          "text": "Голос называет упражнение и начало/конец интервала; его можно отключить отдельно от музыки.",
+          "scope": "help screenshots разных платформ; не весь accessibility contract",
+          "version": null,
+          "date_label": "2025-12-03",
+          "source_url": "https://musclebooster.welltech.com/help-center/features-personalization/how-do-i-turn-off-the-background-music/"
+        }
+      ],
+      "app_store_accessibility": {
+        "status": "developer_has_not_indicated",
+        "note": "В разделе Accessibility магазина разработчик ещё не указал поддерживаемые функции. Это не означает отсутствия поддержки."
+      },
+      "source": [
+        {
+          "url": "https://apps.apple.com/us/app/muscle-booster-workout-tracker/id1446447749",
+          "kind": "developer_app_store_listing",
+          "read": true,
+          "outcome": "Прочитаны описание, доступная история релизов и раздел Accessibility. Отдельные положительные утверждения и ограничения перечислены в строке."
+        },
+        {
+          "url": "https://musclebooster.welltech.com/help-center/features-personalization/",
+          "kind": "official_help_index_and_articles",
+          "read": true,
+          "outcome": "Прочитан список features/preferences; глобальная тема и семейство native fonts не раскрыты."
+        },
+        {
+          "url": "https://musclebooster.welltech.com/help-center/features-personalization/how-do-i-turn-off-the-background-music/",
+          "kind": "official_help",
+          "read": true,
+          "outcome": "Подтверждены отдельные voiceover/audio controls и голосовые сигналы интервалов; это не доказательство screen-reader support."
+        }
+      ],
+      "checked_searches": [
+        "site:musclebooster.welltech.com dark mode theme",
+        "Muscle Booster app typography font design system Welltech"
+      ],
+      "remaining_unknowns": [
+        "Пользовательские варианты Light/Dark/System и точный путь их выбора",
+        "Точное семейство native body/numeric font и font-feature settings",
+        "Точная реализация/параметры motion и полный набор accessibility states"
+      ],
+      "temporal_note": "Текущая версия магазина и дата проверки отделены от версии AppLlama/локальной записи; даты release notes без года сохранены без добавления года."
+    },
+    {
+      "index": 7,
+      "app": "Strava",
+      "checked_on": "2026-10-11",
+      "store_snapshot": {
+        "version": "484.0.0",
+        "current_release_date_utc": "2026-10-07T20:15:48Z",
+        "url": "https://apps.apple.com/us/app/strava-run-bike-walk/id426826309",
+        "not_archive_version": true
+      },
+      "status": {
+        "theme": "confirmed_user_modes",
+        "font": "native_family_not_established",
+        "materials_motion_accessibility": "no_complete_implementation_spec"
+      },
+      "theme_options": [
+        "Phone default",
+        "Light Mode",
+        "Dark Mode"
+      ],
+      "theme_settings_path": "You → Settings → Preferences → Appearance",
+      "theme_scope_note": "Доступность подтверждена справкой; вся Dark palette в старой выборке не измерена.",
+      "font_evidence": {
+        "native_families": [],
+        "brand_only_families": [],
+        "note": "Текущий native family не установлен. Найденный сторонний mirror Spandex brand PDF, неофициальные DESIGN.md с конфликтующими SF Pro/Inter и webCSS не использованы. Исторический дизайнерский кейс сейчас 404."
+      },
+      "materials_motion_accessibility": [
+        {
+          "category": "theme_accessibility",
+          "text": "Phone default/Light/Dark — документированная настройка восприятия; наличие темы не равно WCAG соответствию.",
+          "scope": "mobile app",
+          "version": null,
+          "date_label": "2026-09-14",
+          "source_url": "https://support.strava.com/en-us/articles/15401628-how-do-i-enable-dark-mode-on-strava"
+        }
+      ],
+      "app_store_accessibility": {
+        "status": "developer_has_not_indicated",
+        "note": "В разделе Accessibility магазина разработчик ещё не указал поддерживаемые функции. Это не означает отсутствия поддержки."
+      },
+      "source": [
+        {
+          "url": "https://apps.apple.com/us/app/strava-run-bike-walk/id426826309",
+          "kind": "developer_app_store_listing",
+          "read": true,
+          "outcome": "Прочитаны описание, доступная история релизов и раздел Accessibility. Отдельные положительные утверждения и ограничения перечислены в строке."
+        },
+        {
+          "url": "https://support.strava.com/en-us/articles/15401628-how-do-i-enable-dark-mode-on-strava",
+          "kind": "official_help",
+          "read": true,
+          "outcome": "You→Settings→Preferences→Appearance: Phone default/Light Mode/Dark Mode."
+        },
+        {
+          "url": "https://www.designbyti.com/strava-brand",
+          "kind": "designer_case_study_unavailable",
+          "read": false,
+          "outcome": "Поисковый индекс содержит историческое brand-Maison-Neue утверждение автора; прямое чтение вернуло 404. Не использовано как подтверждение текущей native гарнитуры."
+        }
+      ],
+      "checked_searches": [
+        "site:strava.com Maison Neue",
+        "Strava Spandex design system typography Maison Neue"
+      ],
+      "remaining_unknowns": [
+        "Точное семейство native body/numeric font и font-feature settings",
+        "Точная реализация/параметры motion и полный набор accessibility states"
+      ],
+      "temporal_note": "Текущая версия магазина и дата проверки отделены от версии AppLlama/локальной записи; даты release notes без года сохранены без добавления года."
+    },
+    {
+      "index": 8,
+      "app": "Lyfta",
+      "checked_on": "2026-10-11",
+      "store_snapshot": {
+        "version": "1.163",
+        "current_release_date_utc": "2026-10-01T15:51:47Z",
+        "url": "https://apps.apple.com/us/app/lyfta-gym-workout-tracker-log/id6443740936",
+        "not_archive_version": true
+      },
+      "status": {
+        "theme": "not_established_after_public_source_check",
+        "font": "native_family_not_established",
+        "materials_motion_accessibility": "no_complete_implementation_spec"
+      },
+      "theme_options": [],
+      "theme_settings_path": null,
+      "theme_scope_note": "В исходном UI есть пункт Theme, но публичная справка не устанавливает варианты/следование системе. Lyfta AI id6762280855 исключён как другой продукт.",
+      "font_evidence": {
+        "native_families": [],
+        "brand_only_families": [],
+        "note": "Семейство не названо в проверенной справке/релизах. Одноимённые образовательные Lyfta design-system материалы и новый Lyfta AI не применялись."
+      },
+      "materials_motion_accessibility": [],
+      "app_store_accessibility": {
+        "status": "developer_has_not_indicated",
+        "note": "В разделе Accessibility магазина разработчик ещё не указал поддерживаемые функции. Это не означает отсутствия поддержки."
+      },
+      "source": [
+        {
+          "url": "https://apps.apple.com/us/app/lyfta-gym-workout-tracker-log/id6443740936",
+          "kind": "developer_app_store_listing",
+          "read": true,
+          "outcome": "Прочитаны описание, доступная история релизов и раздел Accessibility. Отдельные положительные утверждения и ограничения перечислены в строке."
+        },
+        {
+          "url": "https://support.lyfta.app/en",
+          "kind": "official_help_index",
+          "read": true,
+          "outcome": "Прочитаны доступные категории/статьи account, using app, devices: theme options и native typeface не документированы."
+        }
+      ],
+      "checked_searches": [
+        "site:lyfta.app dark mode theme settings",
+        "Lyfta theme dark light settings",
+        "Lyfta typography"
+      ],
+      "remaining_unknowns": [
+        "Пользовательские варианты Light/Dark/System и точный путь их выбора",
+        "Точное семейство native body/numeric font и font-feature settings",
+        "Точная реализация/параметры motion и полный набор accessibility states"
+      ],
+      "temporal_note": "Текущая версия магазина и дата проверки отделены от версии AppLlama/локальной записи; даты release notes без года сохранены без добавления года."
+    },
+    {
+      "index": 9,
+      "app": "Fitify",
+      "checked_on": "2026-10-11",
+      "store_snapshot": {
+        "version": "1.135.1",
+        "current_release_date_utc": "2026-10-05T08:52:38Z",
+        "url": "https://apps.apple.com/us/app/fitify-home-workout-ai-coach/id1463386686",
+        "not_archive_version": true
+      },
+      "status": {
+        "theme": "not_established_after_public_source_check",
+        "font": "native_family_not_established",
+        "materials_motion_accessibility": "no_complete_implementation_spec"
+      },
+      "theme_options": [],
+      "theme_settings_path": null,
+      "theme_scope_note": "Сведения о переключении не найдены в проверенных публичных источниках; это не утверждение о единственной теме.",
+      "font_evidence": {
+        "native_families": [],
+        "brand_only_families": [],
+        "note": "Проверен первичный кейс бывшего UX/UI designer. Семейство не названо; многочисленные Fitify учебные концепты не являются спецификацией продукта."
+      },
+      "materials_motion_accessibility": [],
+      "app_store_accessibility": {
+        "status": "developer_has_not_indicated",
+        "note": "В разделе Accessibility магазина разработчик ещё не указал поддерживаемые функции. Это не означает отсутствия поддержки."
+      },
+      "source": [
+        {
+          "url": "https://apps.apple.com/us/app/fitify-home-workout-ai-coach/id1463386686",
+          "kind": "developer_app_store_listing",
+          "read": true,
+          "outcome": "Прочитаны описание, доступная история релизов и раздел Accessibility. Отдельные положительные утверждения и ограничения перечислены в строке."
+        },
+        {
+          "url": "https://gofitify.com/contact",
+          "kind": "official_support_route",
+          "read": true,
+          "outcome": "Страница даёт email/social contact, но публичной спецификации тем и шрифтов нет; никто не был contacted."
+        },
+        {
+          "url": "https://gofitify.com/faq",
+          "kind": "failed_official_route",
+          "read": false,
+          "outcome": "404. Не посчитано успешным чтением."
+        },
+        {
+          "url": "https://www.jakubfoglar.com/project/fitify",
+          "kind": "first_person_designer_case_study",
+          "read": true,
+          "outcome": "Автор и iOS ID совпадают; кейс 2021 описывает refinement/reward moments, но не называет fonts/themes или motion engine."
+        }
+      ],
+      "checked_searches": [
+        "site:fitifyapps.com dark mode",
+        "Fitify app design typography case study",
+        "site:gofitify.com dark mode light theme"
+      ],
+      "remaining_unknowns": [
+        "Пользовательские варианты Light/Dark/System и точный путь их выбора",
+        "Точное семейство native body/numeric font и font-feature settings",
+        "Точная реализация/параметры motion и полный набор accessibility states"
+      ],
+      "temporal_note": "Текущая версия магазина и дата проверки отделены от версии AppLlama/локальной записи; даты release notes без года сохранены без добавления года."
+    },
+    {
+      "index": 10,
+      "app": "FitOn",
+      "checked_on": "2026-10-11",
+      "store_snapshot": {
+        "version": "v7.6.2",
+        "current_release_date_utc": "2026-10-02T16:42:03Z",
+        "url": "https://apps.apple.com/us/app/fiton-workouts-fitness-plans/id1442473191",
+        "not_archive_version": true
+      },
+      "status": {
+        "theme": "not_established_after_public_source_check",
+        "font": "native_family_not_established",
+        "materials_motion_accessibility": "no_complete_implementation_spec"
+      },
+      "theme_options": [],
+      "theme_settings_path": null,
+      "theme_scope_note": "Сведения о переключении не найдены в проверенных публичных источниках; это не утверждение о единственной теме.",
+      "font_evidence": {
+        "native_families": [],
+        "brand_only_families": [],
+        "note": "Native font не установлен; первичный case study не раскрывает family. Personal redesign portfolios исключены."
+      },
+      "materials_motion_accessibility": [],
+      "app_store_accessibility": {
+        "status": "developer_has_not_indicated",
+        "note": "В разделе Accessibility магазина разработчик ещё не указал поддерживаемые функции. Это не означает отсутствия поддержки."
+      },
+      "source": [
+        {
+          "url": "https://apps.apple.com/us/app/fiton-workouts-fitness-plans/id1442473191",
+          "kind": "developer_app_store_listing",
+          "read": true,
+          "outcome": "Прочитаны описание, доступная история релизов и раздел Accessibility. Отдельные положительные утверждения и ограничения перечислены в строке."
+        },
+        {
+          "url": "https://help.fitonapp.com/en/collections/3984049-your-account",
+          "kind": "official_help",
+          "read": true,
+          "outcome": "Прочитан account-settings index: email/privacy/notifications/calendar; theme/font не раскрыты."
+        },
+        {
+          "url": "https://www.interactivelabs.com/case-studies/fiton",
+          "kind": "vendor_primary_case_study",
+          "read": true,
+          "outcome": "Исполнитель iOS/Android/web описывает насыщенную палитру, real-time feedback и achievement badges; font family и dark switch не названы."
+        },
+        {
+          "url": "https://www.fitonhealth.com/accessibility",
+          "kind": "official_related_web_statement",
+          "read": true,
+          "outcome": "Относится к FitOn Health website: font resizing/contrast/readers/keyboard; не перенесено как native FitOn app conformity."
+        }
+      ],
+      "checked_searches": [
+        "site:fitonapp.com dark mode",
+        "FitOn app design typeface case study",
+        "FitOn subtitles captions accessibility"
+      ],
+      "remaining_unknowns": [
+        "Пользовательские варианты Light/Dark/System и точный путь их выбора",
+        "Точное семейство native body/numeric font и font-feature settings",
+        "Точная реализация/параметры motion и полный набор accessibility states"
+      ],
+      "temporal_note": "Текущая версия магазина и дата проверки отделены от версии AppLlama/локальной записи; даты release notes без года сохранены без добавления года."
+    },
+    {
+      "index": 11,
+      "app": "SmartGym",
+      "checked_on": "2026-10-11",
+      "store_snapshot": {
+        "version": "8.0.3",
+        "current_release_date_utc": "2026-09-16T03:24:24Z",
+        "url": "https://apps.apple.com/us/app/smartgym-gym-home-workouts/id922744883",
+        "not_archive_version": true
+      },
+      "status": {
+        "theme": "dark_support_confirmed_options_partial",
+        "font": "native_family_not_established",
+        "materials_motion_accessibility": "documented_native_materials_and_accessibility_apis"
+      },
+      "theme_options": [
+        "Dark Mode (documented)"
+      ],
+      "theme_settings_path": null,
+      "theme_scope_note": "Положительный Dark Mode claim подтверждён; список ручных опций Light/System и точный путь не установлен.",
+      "font_evidence": {
+        "native_families": [],
+        "brand_only_families": [],
+        "note": "Семейство native UI не раскрыто проверенными источниками. По screenshot/веб-CSS не определялось."
+      },
+      "materials_motion_accessibility": [
+        {
+          "category": "materials",
+          "text": "Официально Apple Liquid Glass; в 8.0.3 расширен на segmented controls, muscle-group picker, alerts и duration timer.",
+          "scope": "iOS 26+ для LiquidGlass; текущий store8.0.3",
+          "version": "7.7 / 8.0.3",
+          "date_label": "2025-09-03 / Sep 16",
+          "source_url": "https://smartgymapp.com/releases/smartgym-7-7.html"
+        },
+        {
+          "category": "motion",
+          "text": "Haptic Feedback — прямо указанная технология; параметры/виды импульсов не раскрыты.",
+          "scope": "feature inventory",
+          "version": "7.11",
+          "date_label": "2026-07-23",
+          "source_url": "https://smartgymapp.com/releases/smartgym-7-11.html"
+        },
+        {
+          "category": "accessibility",
+          "text": "Accessibility APIs указаны; Voice Over for HIIT Workouts не интерпретирован как полное покрытие Apple VoiceOver screen reader.",
+          "scope": "feature inventory",
+          "version": "7.11",
+          "date_label": null,
+          "source_url": "https://smartgymapp.com/releases/smartgym-7-11.html"
+        }
+      ],
+      "app_store_accessibility": {
+        "status": "developer_has_not_indicated",
+        "note": "В разделе Accessibility магазина разработчик ещё не указал поддерживаемые функции. Это не означает отсутствия поддержки."
+      },
+      "source": [
+        {
+          "url": "https://apps.apple.com/us/app/smartgym-gym-home-workouts/id922744883",
+          "kind": "developer_app_store_listing",
+          "read": true,
+          "outcome": "Прочитаны описание, доступная история релизов и раздел Accessibility. Отдельные положительные утверждения и ограничения перечислены в строке."
+        },
+        {
+          "url": "https://smartgymapp.com/releases/smartgym-7-7.html",
+          "kind": "official_release_notes",
+          "read": true,
+          "outcome": "Liquid Glass в buttons/alerts/charts/views и Watch; функция требует iOS 26+, а базовый app поддерживает iOS 15+."
+        },
+        {
+          "url": "https://smartgymapp.com/releases/smartgym-7-11.html",
+          "kind": "official_technical_feature_list",
+          "read": true,
+          "outcome": "Прямо перечислены Dark Mode, SwiftUI, Swift Charts, Haptic Feedback, Accessibility APIs; исчерпывающее accessibility покрытие не заявлено."
+        }
+      ],
+      "checked_searches": [
+        "site:smartgymapp.com Liquid Glass accessibility font themes",
+        "SmartGym font"
+      ],
+      "remaining_unknowns": [
+        "Точное семейство native body/numeric font и font-feature settings",
+        "Точная реализация/параметры motion и полный набор accessibility states"
+      ],
+      "temporal_note": "Текущая версия магазина и дата проверки отделены от версии AppLlama/локальной записи; даты release notes без года сохранены без добавления года."
+    },
+    {
+      "index": 12,
+      "app": "BODi",
+      "checked_on": "2026-10-11",
+      "store_snapshot": {
+        "version": "11.13.2",
+        "current_release_date_utc": "2026-10-07T17:49:50Z",
+        "url": "https://apps.apple.com/us/app/bodi-fitness-home-workouts/id1031660123",
+        "not_archive_version": true
+      },
+      "status": {
+        "theme": "confirmed_user_modes",
+        "font": "native_family_not_established",
+        "materials_motion_accessibility": "no_complete_implementation_spec"
+      },
+      "theme_options": [
+        "System (default follows iPhone)",
+        "Light",
+        "Dark"
+      ],
+      "theme_settings_path": "Settings → override appearance (название конечного элемента не раскрыто)",
+      "theme_scope_note": "Developer release notes11.1.0/11.2.0; даты Apr 21/May 5 без явно указанного года.",
+      "font_evidence": {
+        "native_families": [],
+        "brand_only_families": [],
+        "note": "Семейство native UI не раскрыто проверенными источниками. По screenshot/веб-CSS не определялось."
+      },
+      "materials_motion_accessibility": [
+        {
+          "category": "materials",
+          "text": "Релиз 11.3.0 прямо заявляет iOS 26 Liquid Glass; это более новая документация, чем возможная старая flat выборка.",
+          "scope": "iOS 26",
+          "version": "11.3.0",
+          "date_label": "May 18",
+          "source_url": "https://apps.apple.com/us/app/bodi-fitness-home-workouts/id1031660123"
+        }
+      ],
+      "app_store_accessibility": {
+        "status": "developer_has_not_indicated",
+        "note": "В разделе Accessibility магазина разработчик ещё не указал поддерживаемые функции. Это не означает отсутствия поддержки."
+      },
+      "source": [
+        {
+          "url": "https://apps.apple.com/us/app/bodi-fitness-home-workouts/id1031660123",
+          "kind": "developer_app_store_listing",
+          "read": true,
+          "outcome": "Прочитаны описание, доступная история релизов и раздел Accessibility. Отдельные положительные утверждения и ограничения перечислены в строке."
+        },
+        {
+          "url": "https://www.jdnco.com/case_study/bodi/",
+          "kind": "designer_case_study_partial_access",
+          "read": false,
+          "outcome": "Индекс прочитан: expanded headlines/mixed-font callouts; полный reader timeout. Native font family не получен; не используется как native proof."
+        },
+        {
+          "url": "https://www.bodi.com/us/en/accessibility-statement",
+          "kind": "official_statement_incomplete_render",
+          "read": true,
+          "outcome": "Страница открыта, но body statement не извлечён, только заголовок/оболочка; никакого compliance claim не добавлено."
+        }
+      ],
+      "checked_searches": [
+        "BODi app typography designer",
+        "BODi app closed captions accessibility"
+      ],
+      "remaining_unknowns": [
+        "Точное семейство native body/numeric font и font-feature settings",
+        "Точная реализация/параметры motion и полный набор accessibility states"
+      ],
+      "temporal_note": "Текущая версия магазина и дата проверки отделены от версии AppLlama/локальной записи; даты release notes без года сохранены без добавления года."
+    },
+    {
+      "index": 13,
+      "app": "Gymdone",
+      "checked_on": "2026-10-11",
+      "store_snapshot": {
+        "version": "3.8.7",
+        "current_release_date_utc": "2026-10-11T06:44:53Z",
+        "url": "https://apps.apple.com/us/app/gymdone-workout-planner-log/id1350534443",
+        "not_archive_version": true
+      },
+      "status": {
+        "theme": "official_demo_variants_only",
+        "font": "native_family_not_established",
+        "materials_motion_accessibility": "no_complete_implementation_spec"
+      },
+      "theme_options": [
+        "Light (web-demo)",
+        "Dark (web-demo)"
+      ],
+      "theme_settings_path": null,
+      "theme_scope_note": "Официально показаны два оформления app demo. Это не подтверждение ручного native switch или следование системе.",
+      "font_evidence": {
+        "native_families": [],
+        "brand_only_families": [],
+        "note": "Native family не раскрыт. CSS современного Next.js маркетингового сайта не переносился в iPhone UI."
+      },
+      "materials_motion_accessibility": [],
+      "app_store_accessibility": {
+        "status": "developer_has_not_indicated",
+        "note": "В разделе Accessibility магазина разработчик ещё не указал поддерживаемые функции. Это не означает отсутствия поддержки."
+      },
+      "source": [
+        {
+          "url": "https://apps.apple.com/us/app/gymdone-workout-planner-log/id1350534443",
+          "kind": "developer_app_store_listing",
+          "read": true,
+          "outcome": "Прочитаны описание, доступная история релизов и раздел Accessibility. Отдельные положительные утверждения и ограничения перечислены в строке."
+        },
+        {
+          "url": "https://gymdone.com/",
+          "kind": "official_interactive_marketing_demo",
+          "read": true,
+          "outcome": "Light/Dark переключает веб-демо App appearance; сам сайт называет данные illustrative. Native settings contract не установлен."
+        }
+      ],
+      "checked_searches": [
+        "site:gymdone.com dark light theme settings",
+        "GymDone app typography font design"
+      ],
+      "remaining_unknowns": [
+        "Точное семейство native body/numeric font и font-feature settings",
+        "Точная реализация/параметры motion и полный набор accessibility states"
+      ],
+      "temporal_note": "Текущая версия магазина и дата проверки отделены от версии AppLlama/локальной записи; даты release notes без года сохранены без добавления года."
+    },
+    {
+      "index": 14,
+      "app": "Technogym",
+      "checked_on": "2026-10-11",
+      "store_snapshot": {
+        "version": "3.45.5",
+        "current_release_date_utc": "2026-09-25T08:00:11Z",
+        "url": "https://apps.apple.com/us/app/technogym-training-gym-app/id976506047",
+        "not_archive_version": true
+      },
+      "status": {
+        "theme": "not_established_after_public_source_check",
+        "font": "native_family_not_established",
+        "materials_motion_accessibility": "no_complete_implementation_spec"
+      },
+      "theme_options": [],
+      "theme_settings_path": null,
+      "theme_scope_note": "Сведения о переключении не найдены в проверенных публичных источниках; это не утверждение о единственной теме.",
+      "font_evidence": {
+        "native_families": [],
+        "brand_only_families": [],
+        "note": "Историческая кастомная typography оборудования подтверждена дизайнером, но не применена к native mobile app. Текущий family остаётся unknown."
+      },
+      "materials_motion_accessibility": [],
+      "app_store_accessibility": {
+        "status": "developer_has_not_indicated",
+        "note": "В разделе Accessibility магазина разработчик ещё не указал поддерживаемые функции. Это не означает отсутствия поддержки."
+      },
+      "source": [
+        {
+          "url": "https://apps.apple.com/us/app/technogym-training-gym-app/id976506047",
+          "kind": "developer_app_store_listing",
+          "read": true,
+          "outcome": "Прочитаны описание, доступная история релизов и раздел Accessibility. Отдельные положительные утверждения и ограничения перечислены в строке."
+        },
+        {
+          "url": "https://support.technogym.com/products/technogym-app",
+          "kind": "official_help_hub_unreachable",
+          "read": false,
+          "outcome": "Прямое чтение ранее вернуло SSL error; индекс страниц доступен, техническая спецификация тем/шрифтов не получена."
+        },
+        {
+          "url": "https://www.studiovisuale.it/it/all-projects/ux/technogym-wellness-experience-design",
+          "kind": "design_vendor_case_study",
+          "read": true,
+          "outcome": "Полностью прочитан кейс: custom pixel-font2010 и seven-segment digits относятся к оборудованию MyRun/GroupCycle; это не family текущего мобильного App."
+        }
+      ],
+      "checked_searches": [
+        "Technogym app design system typography",
+        "site:technogym.com app dark mode theme settings"
+      ],
+      "remaining_unknowns": [
+        "Пользовательские варианты Light/Dark/System и точный путь их выбора",
+        "Точное семейство native body/numeric font и font-feature settings",
+        "Точная реализация/параметры motion и полный набор accessibility states"
+      ],
+      "temporal_note": "Текущая версия магазина и дата проверки отделены от версии AppLlama/локальной записи; даты release notes без года сохранены без добавления года."
+    },
+    {
+      "index": 15,
+      "app": "Buddyfit",
+      "checked_on": "2026-10-11",
+      "store_snapshot": {
+        "version": "2026.20.0",
+        "current_release_date_utc": "2026-10-05T08:32:25Z",
+        "url": "https://apps.apple.com/us/app/buddyfit-exercise-at-home/id1483572798",
+        "not_archive_version": true
+      },
+      "status": {
+        "theme": "not_established_after_public_source_check",
+        "font": "native_family_not_established",
+        "materials_motion_accessibility": "documented_partial_accessibility_with_limitations"
+      },
+      "theme_options": [],
+      "theme_settings_path": null,
+      "theme_scope_note": "Сведения о переключении не найдены в проверенных публичных источниках; это не утверждение о единственной теме.",
+      "font_evidence": {
+        "native_families": [],
+        "brand_only_families": [],
+        "note": "Семейство native UI не раскрыто проверенными источниками. По screenshot/веб-CSS не определялось."
+      },
+      "materials_motion_accessibility": [
+        {
+          "category": "accessibility",
+          "text": "Заявлена базовая совместимость iOS VoiceOver и Android TalkBack; производитель признаёт неполные labels и возможную ненадёжность dynamic text. WCAG2.1AA назван ориентиром, не результатом полного прохождения.",
+          "scope": "iOS / Android mobile apps",
+          "version": null,
+          "date_label": "June 2025",
+          "source_url": "https://www.buddyfit.club/de/accessibility"
+        }
+      ],
+      "app_store_accessibility": {
+        "status": "developer_has_not_indicated",
+        "note": "В разделе Accessibility магазина разработчик ещё не указал поддерживаемые функции. Это не означает отсутствия поддержки."
+      },
+      "source": [
+        {
+          "url": "https://apps.apple.com/us/app/buddyfit-exercise-at-home/id1483572798",
+          "kind": "developer_app_store_listing",
+          "read": true,
+          "outcome": "Прочитаны описание, доступная история релизов и раздел Accessibility. Отдельные положительные утверждения и ограничения перечислены в строке."
+        },
+        {
+          "url": "https://www.buddyfit.club/de/accessibility",
+          "kind": "official_accessibility_statement",
+          "read": true,
+          "outcome": "June 2025: mobile VoiceOver/TalkBack basic compatibility; возможны непомеченные controls/images и ненадёжное dynamic text resizing."
+        },
+        {
+          "url": "https://www.thefancyfactory.com/en/portfolio/buddyfit-en/",
+          "kind": "vendor_case_study_scope_exclusion",
+          "read": true,
+          "outcome": "Автор делал logo animations/GIF для Instagram/social/website. Не использовано как доказательство in-app motion engine."
+        }
+      ],
+      "checked_searches": [
+        "Buddyfit modalità scura tema dark mode impostazioni",
+        "Buddyfit app brand typography typeface"
+      ],
+      "remaining_unknowns": [
+        "Пользовательские варианты Light/Dark/System и точный путь их выбора",
+        "Точное семейство native body/numeric font и font-feature settings",
+        "Точная реализация/параметры motion и полный набор accessibility states"
+      ],
+      "temporal_note": "Текущая версия магазина и дата проверки отделены от версии AppLlama/локальной записи; даты release notes без года сохранены без добавления года."
+    },
+    {
+      "index": 16,
+      "app": "Strong",
+      "checked_on": "2026-10-11",
+      "store_snapshot": {
+        "version": "6.5.1",
+        "current_release_date_utc": "2026-10-08T07:30:06Z",
+        "url": "https://apps.apple.com/us/app/strong-workout-tracker-gym-log/id464254577",
+        "not_archive_version": true
+      },
+      "status": {
+        "theme": "dark_and_custom_theme_support_confirmed_options_partial",
+        "font": "native_family_not_established",
+        "materials_motion_accessibility": "documented_theme_and_accessibility_setting"
+      },
+      "theme_options": [
+        "Dark Mode (documented)",
+        "Custom themes (names not fully documented)"
+      ],
+      "theme_settings_path": null,
+      "theme_scope_note": "Dark и custom themes официально существуют; полный список, System mode и точный settings path в проверенных документах не установлены.",
+      "font_evidence": {
+        "native_families": [],
+        "brand_only_families": [],
+        "note": "Семейство native UI не раскрыто проверенными источниками. По screenshot/веб-CSS не определялось."
+      },
+      "materials_motion_accessibility": [
+        {
+          "category": "materials",
+          "text": "Release note о readability fix у Calendar highlight прямо называет Liquid Glass theme; общий охват приложения/API не детализирован.",
+          "scope": "iOS app",
+          "version": "6.4.3",
+          "date_label": "Jul 23",
+          "source_url": "https://apps.apple.com/us/app/strong-workout-tracker-gym-log/id464254577"
+        },
+        {
+          "category": "accessibility",
+          "text": "Разработчик заявляет improved support for Show Borders. Это конкретная поддержка accessibility setting, не полная сертификация.",
+          "scope": "iOS app",
+          "version": "6.3.1",
+          "date_label": "Apr 7",
+          "source_url": "https://apps.apple.com/us/app/strong-workout-tracker-gym-log/id464254577"
+        }
+      ],
+      "app_store_accessibility": {
+        "status": "developer_has_not_indicated",
+        "note": "В разделе Accessibility магазина разработчик ещё не указал поддерживаемые функции. Это не означает отсутствия поддержки."
+      },
+      "source": [
+        {
+          "url": "https://apps.apple.com/us/app/strong-workout-tracker-gym-log/id464254577",
+          "kind": "developer_app_store_listing",
+          "read": true,
+          "outcome": "Прочитаны описание, доступная история релизов и раздел Accessibility. Отдельные положительные утверждения и ограничения перечислены в строке."
+        },
+        {
+          "url": "https://www.strong.app/",
+          "kind": "official_product_site",
+          "read": true,
+          "outcome": "Прямо указан Dark Mode; полный перечень appearance options не опубликован."
+        },
+        {
+          "url": "https://help.strongapp.io/article/132-strong-pro",
+          "kind": "official_help",
+          "read": true,
+          "outcome": "Help19 May 2021 перечисляет Custom Icons(iPhone) and Themes среди PRO features; нельзя считать актуальную цену/entitlement всех themes доказанной по этой старой статье."
+        }
+      ],
+      "checked_searches": [
+        "site:help.strongapp.io dark light theme",
+        "Strong app dark mode Light Dark Midnight",
+        "Strong workout typeface"
+      ],
+      "remaining_unknowns": [
+        "Точное семейство native body/numeric font и font-feature settings",
+        "Точная реализация/параметры motion и полный набор accessibility states"
+      ],
+      "temporal_note": "Текущая версия магазина и дата проверки отделены от версии AppLlama/локальной записи; даты release notes без года сохранены без добавления года."
+    },
+    {
+      "index": 17,
+      "app": "JEFIT",
+      "checked_on": "2026-10-11",
+      "store_snapshot": {
+        "version": "17.2.7",
+        "current_release_date_utc": "2026-10-09T16:01:26Z",
+        "url": "https://apps.apple.com/us/app/jefit-workout-plan-gym-tracker/id449810000",
+        "not_archive_version": true
+      },
+      "status": {
+        "theme": "dark_support_confirmed_options_partial",
+        "font": "native_family_not_established",
+        "materials_motion_accessibility": "documented_liquid_glass_and_motion"
+      },
+      "theme_options": [
+        "Dark Mode (release-note confirmed)"
+      ],
+      "theme_settings_path": null,
+      "theme_scope_note": "Dark Mode прямо подтверждён v17.0.8. Light виден в исходной выборке; точный путь/полный список modes не выводился из пользовательских Q&A/Reddit.",
+      "font_evidence": {
+        "native_families": [],
+        "brand_only_families": [],
+        "note": "Семейство native UI не раскрыто проверенными источниками. По screenshot/веб-CSS не определялось."
+      },
+      "materials_motion_accessibility": [
+        {
+          "category": "materials",
+          "text": "Liquid Glass прямо заявлен для navigation, sheets и menus на iOS 26.",
+          "scope": "iOS 26",
+          "version": "17.2.1",
+          "date_label": "Sep 16",
+          "source_url": "https://apps.apple.com/us/app/jefit-workout-plan-gym-tracker/id449810000"
+        },
+        {
+          "category": "motion",
+          "text": "Onboarding entrance animations и haptics заявлены developer notes; confetti относится к завершению training phase, не произвольно каждому PR.",
+          "scope": "iOS releases",
+          "version": "17.1.2 / 17.0.7",
+          "date_label": "Aug 26 / May 22",
+          "source_url": "https://apps.apple.com/us/app/jefit-workout-plan-gym-tracker/id449810000"
+        }
+      ],
+      "app_store_accessibility": {
+        "status": "developer_has_not_indicated",
+        "note": "В разделе Accessibility магазина разработчик ещё не указал поддерживаемые функции. Это не означает отсутствия поддержки."
+      },
+      "source": [
+        {
+          "url": "https://apps.apple.com/us/app/jefit-workout-plan-gym-tracker/id449810000",
+          "kind": "developer_app_store_listing",
+          "read": true,
+          "outcome": "Прочитаны описание, доступная история релизов и раздел Accessibility. Отдельные положительные утверждения и ограничения перечислены в строке."
+        },
+        {
+          "url": "https://www.jefit.com/blog/upcoming-enhancements-revamped-workout-tab-and-improved-exercise-screens",
+          "kind": "official_product_blog",
+          "read": true,
+          "outcome": "Обновления UI и routes описаны, точное font family и полный theme menu не названы."
+        }
+      ],
+      "checked_searches": [
+        "site:jefit.com dark mode",
+        "JEFIT dark mode iOS August2025 official",
+        "JEFIT font design"
+      ],
+      "remaining_unknowns": [
+        "Точное семейство native body/numeric font и font-feature settings",
+        "Точная реализация/параметры motion и полный набор accessibility states"
+      ],
+      "temporal_note": "Текущая версия магазина и дата проверки отделены от версии AppLlama/локальной записи; даты release notes без года сохранены без добавления года."
+    },
+    {
+      "index": 18,
+      "app": "Muscle Monster",
+      "checked_on": "2026-10-11",
+      "store_snapshot": {
+        "version": "3.25.0",
+        "current_release_date_utc": "2026-09-08T02:26:30Z",
+        "url": "https://apps.apple.com/us/app/muscle-monster-workout-planner/id6471547318",
+        "not_archive_version": true
+      },
+      "status": {
+        "theme": "not_established_after_public_source_check",
+        "font": "font_change_documented_family_unknown",
+        "materials_motion_accessibility": "no_complete_implementation_spec"
+      },
+      "theme_options": [],
+      "theme_settings_path": null,
+      "theme_scope_note": "Сведения о переключении не найдены в проверенных публичных источниках; это не утверждение о единственной теме.",
+      "font_evidence": {
+        "native_families": [],
+        "brand_only_families": [],
+        "note": "В 3.25.0 явно обновлён app font, но гарнитура не названа. Поэтому старые визуальные guesses особенно ненадёжны."
+      },
+      "materials_motion_accessibility": [
+        {
+          "category": "typography_version_change",
+          "text": "Разработчик сообщает об обновлённом app font без имени семьи; улучшены male English voice и добавлен female English voice.",
+          "scope": "native app release",
+          "version": "3.25.0",
+          "date_label": "Sep 8",
+          "source_url": "https://apps.apple.com/us/app/muscle-monster-workout-planner/id6471547318"
+        }
+      ],
+      "app_store_accessibility": {
+        "status": "developer_has_not_indicated",
+        "note": "В разделе Accessibility магазина разработчик ещё не указал поддерживаемые функции. Это не означает отсутствия поддержки."
+      },
+      "source": [
+        {
+          "url": "https://apps.apple.com/us/app/muscle-monster-workout-planner/id6471547318",
+          "kind": "developer_app_store_listing",
+          "read": true,
+          "outcome": "Прочитаны описание, доступная история релизов и раздел Accessibility. Отдельные положительные утверждения и ограничения перечислены в строке."
+        },
+        {
+          "url": "https://supportcenter.musclemonster.fit/?from=officialweb",
+          "kind": "official_help",
+          "read": true,
+          "outcome": "Прочитан полный public help; settings/account/library guides не раскрывают theme switch или font family."
+        }
+      ],
+      "checked_searches": [
+        "Muscle Monster font typography app"
+      ],
+      "remaining_unknowns": [
+        "Пользовательские варианты Light/Dark/System и точный путь их выбора",
+        "Точное семейство native body/numeric font и font-feature settings",
+        "Точная реализация/параметры motion и полный набор accessibility states"
+      ],
+      "temporal_note": "Текущая версия магазина и дата проверки отделены от версии AppLlama/локальной записи; даты release notes без года сохранены без добавления года."
+    },
+    {
+      "index": 19,
+      "app": "SHRED",
+      "checked_on": "2026-10-11",
+      "store_snapshot": {
+        "version": "5.5.5",
+        "current_release_date_utc": "2026-10-08T16:03:26Z",
+        "url": "https://apps.apple.com/us/app/shred-gym-home-workouts/id1439828095",
+        "not_archive_version": true
+      },
+      "status": {
+        "theme": "not_established_after_public_source_check",
+        "font": "native_family_not_established",
+        "materials_motion_accessibility": "documented_liquid_glass"
+      },
+      "theme_options": [],
+      "theme_settings_path": null,
+      "theme_scope_note": "Liquid Glass — материал/дизайн-язык; сам по себе он не доказывает Light/Dark/System control.",
+      "font_evidence": {
+        "native_families": [],
+        "brand_only_families": [],
+        "note": "Семейство native UI не раскрыто проверенными источниками. По screenshot/веб-CSS не определялось."
+      },
+      "materials_motion_accessibility": [
+        {
+          "category": "materials",
+          "text": "Improved Liquid Glass Layout: UI components обновлены, CoachAI перенесён в floating Talk to Coach; доступно iOS 26+. Это заявленный design-language rollout, не измерение физики.",
+          "scope": "iOS 26+",
+          "version": "5.3.6",
+          "date_label": "12/17/2025",
+          "source_url": "https://apps.apple.com/us/app/shred-gym-home-workouts/id1439828095"
+        }
+      ],
+      "app_store_accessibility": {
+        "status": "developer_has_not_indicated",
+        "note": "В разделе Accessibility магазина разработчик ещё не указал поддерживаемые функции. Это не означает отсутствия поддержки."
+      },
+      "source": [
+        {
+          "url": "https://apps.apple.com/us/app/shred-gym-home-workouts/id1439828095",
+          "kind": "developer_app_store_listing",
+          "read": true,
+          "outcome": "Прочитаны описание, доступная история релизов и раздел Accessibility. Отдельные положительные утверждения и ограничения перечислены в строке."
+        },
+        {
+          "url": "https://www.shred.app/faq",
+          "kind": "official_faq",
+          "read": true,
+          "outcome": "Прочитаны публичные FAQ topics; global theme switch и native font family не описаны."
+        }
+      ],
+      "checked_searches": [
+        "SHRED app appearance dark light theme",
+        "SHRED app typeface"
+      ],
+      "remaining_unknowns": [
+        "Пользовательские варианты Light/Dark/System и точный путь их выбора",
+        "Точное семейство native body/numeric font и font-feature settings",
+        "Точная реализация/параметры motion и полный набор accessibility states"
+      ],
+      "temporal_note": "Текущая версия магазина и дата проверки отделены от версии AppLlama/локальной записи; даты release notes без года сохранены без добавления года."
+    },
+    {
+      "index": 20,
+      "app": "Symmetry",
+      "checked_on": "2026-10-11",
+      "store_snapshot": {
+        "version": "7.15.0",
+        "current_release_date_utc": "2026-10-07T18:04:57Z",
+        "url": "https://apps.apple.com/us/app/symmetry-gym-workout-tracker/id6474446718",
+        "not_archive_version": true
+      },
+      "status": {
+        "theme": "not_established_after_public_source_check",
+        "font": "native_family_not_established",
+        "materials_motion_accessibility": "documented_rank_and_streak_animations"
+      },
+      "theme_options": [],
+      "theme_settings_path": null,
+      "theme_scope_note": "Сведения о переключении не найдены в проверенных публичных источниках; это не утверждение о единственной теме.",
+      "font_evidence": {
+        "native_families": [],
+        "brand_only_families": [],
+        "note": "Семейство native UI не раскрыто проверенными источниками. По screenshot/веб-CSS не определялось."
+      },
+      "materials_motion_accessibility": [
+        {
+          "category": "motion",
+          "text": "New rank-up animation в 7.15.0; animated streak screen в 7.13.0; redesigned rank icons/colors и немедленное celebration screen в 7.12.0. Длительность/easing/library не раскрыты.",
+          "scope": "iOS developer release history",
+          "version": "7.15.0 / 7.13.0 / 7.12.0",
+          "date_label": "3d ago / Sep 17 / Sep 10 (labels captured 2026-10-11; year not inferred)",
+          "source_url": "https://apps.apple.com/us/app/symmetry-gym-workout-tracker/id6474446718"
+        }
+      ],
+      "app_store_accessibility": {
+        "status": "developer_has_not_indicated",
+        "note": "В разделе Accessibility магазина разработчик ещё не указал поддерживаемые функции. Это не означает отсутствия поддержки."
+      },
+      "source": [
+        {
+          "url": "https://apps.apple.com/us/app/symmetry-gym-workout-tracker/id6474446718",
+          "kind": "developer_app_store_listing",
+          "read": true,
+          "outcome": "Прочитаны описание, доступная история релизов и раздел Accessibility. Отдельные положительные утверждения и ограничения перечислены в строке."
+        },
+        {
+          "url": "https://symmetry.club/en",
+          "kind": "official_product_site",
+          "read": true,
+          "outcome": "Прочитаны brand/product pages; theme menu и native family не документированы."
+        }
+      ],
+      "checked_searches": [
+        "Symmetry app dark light theme font",
+        "Symmetry symmetry.club font typography"
+      ],
+      "remaining_unknowns": [
+        "Пользовательские варианты Light/Dark/System и точный путь их выбора",
+        "Точное семейство native body/numeric font и font-feature settings",
+        "Точная реализация/параметры motion и полный набор accessibility states"
+      ],
+      "temporal_note": "Текущая версия магазина и дата проверки отделены от версии AppLlama/локальной записи; даты release notes без года сохранены без добавления года."
+    },
+    {
+      "index": 21,
+      "app": "Gravl",
+      "checked_on": "2026-10-11",
+      "store_snapshot": {
+        "version": "1.53.4",
+        "current_release_date_utc": "2026-10-05T21:47:54Z",
+        "url": "https://apps.apple.com/us/app/gravl-ai-personal-trainer/id6450921637",
+        "not_archive_version": true
+      },
+      "status": {
+        "theme": "confirmed_user_modes",
+        "font": "native_family_not_established",
+        "materials_motion_accessibility": "no_complete_implementation_spec"
+      },
+      "theme_options": [
+        "Light",
+        "Original (dark)",
+        "System",
+        "Custom: Stealth",
+        "Custom: Pulse",
+        "Custom: Rose"
+      ],
+      "theme_settings_path": "Profile → App preferences → Theme",
+      "theme_scope_note": "System: Light/Rose для light; Original/Stealth/Pulse для dark. Light accents: Black/Blue/Violet/Rose/Emerald/Orange. New themes preview требует Keep this theme; dismiss отменяет preview. Настройка сохраняется на телефоне, не в account.",
+      "font_evidence": {
+        "native_families": [],
+        "brand_only_families": [],
+        "note": "Share editor содержит выбор fonts, но имена native UI font не раскрыты. Шрифт editable social card не равен body font приложения."
+      },
+      "materials_motion_accessibility": [
+        {
+          "category": "motion",
+          "text": "Paused подтверждается сообщением и мигающей точкой; это документированный feedback, не deduced animation engine.",
+          "scope": "mobile app",
+          "version": null,
+          "date_label": null,
+          "source_url": "https://gravl.ai/help/life-calling-pause-your-workout"
+        }
+      ],
+      "app_store_accessibility": {
+        "status": "developer_has_not_indicated",
+        "note": "В разделе Accessibility магазина разработчик ещё не указал поддерживаемые функции. Это не означает отсутствия поддержки."
+      },
+      "source": [
+        {
+          "url": "https://apps.apple.com/us/app/gravl-ai-personal-trainer/id6450921637",
+          "kind": "developer_app_store_listing",
+          "read": true,
+          "outcome": "Прочитаны описание, доступная история релизов и раздел Accessibility. Отдельные положительные утверждения и ограничения перечислены в строке."
+        },
+        {
+          "url": "https://gravl.ai/help/themes-change-how-gravl-looks",
+          "kind": "official_help",
+          "read": true,
+          "outcome": "27 Sep 2026: полный путь и варианты Light/Original/System/Custom, Stealth/Pulse/Rose, light accent choices; настройка device-local."
+        },
+        {
+          "url": "https://gravl.ai/help/life-calling-pause-your-workout",
+          "kind": "official_help",
+          "read": true,
+          "outcome": "Paused/Resumed confirmation и blinking status dot документированы; HUD layout отдельно исследует другой агент."
+        }
+      ],
+      "checked_searches": [
+        "Gravl app typography typeface design"
+      ],
+      "remaining_unknowns": [
+        "Точное семейство native body/numeric font и font-feature settings",
+        "Точная реализация/параметры motion и полный набор accessibility states"
+      ],
+      "temporal_note": "Текущая версия магазина и дата проверки отделены от версии AppLlama/локальной записи; даты release notes без года сохранены без добавления года."
+    },
+    {
+      "index": 22,
+      "app": "Peloton",
+      "checked_on": "2026-10-11",
+      "store_snapshot": {
+        "version": "15.134.0",
+        "current_release_date_utc": "2026-10-08T17:27:33Z",
+        "url": "https://apps.apple.com/us/app/peloton-fitness-workouts/id792750948",
+        "not_archive_version": true
+      },
+      "status": {
+        "theme": "confirmed_user_modes",
+        "font": "platform_typography_confirmed_design_system_scope",
+        "materials_motion_accessibility": "no_complete_implementation_spec"
+      },
+      "theme_options": [
+        "Light",
+        "Dark"
+      ],
+      "theme_settings_path": "Settings → Light/Dark toggle",
+      "theme_scope_note": "Подтверждено developer notes15.119.4,15.119.5,15.120.0. следование системе не добавлен без прямого доказательства.",
+      "font_evidence": {
+        "native_families": [
+          {
+            "family": "SF Pro",
+            "platform": "iOS",
+            "scope": "Kinetic platform type variables",
+            "source_url": "https://www.figma.com/customers/peloton-speeds-up-design-handoff-by-5x-with-figma/"
+          },
+          {
+            "family": "Inter",
+            "platform": "Android",
+            "scope": "Kinetic platform type variables",
+            "source_url": "https://www.figma.com/customers/peloton-speeds-up-design-handoff-by-5x-with-figma/"
+          }
+        ],
+        "brand_only_families": [],
+        "note": "Подтверждение изкейса design/engineering team, не web CSS. Это не доказательство каждого компонента старой записи: Kinetic внедрялся постепенно, Strength+создан с ним с самого начала."
+      },
+      "materials_motion_accessibility": [
+        {
+          "category": "accessibility",
+          "text": "Официально описана поддержка subtitles для on-demand и live English content; актуальный охват каждого player/platform отдельно не тестировался.",
+          "scope": "content ecosystem; historical article",
+          "version": null,
+          "date_label": "2021-12-03",
+          "source_url": "https://www.onepeloton.com/blog/hearing-accessibility"
+        }
+      ],
+      "app_store_accessibility": {
+        "status": "developer_has_not_indicated",
+        "note": "В разделе Accessibility магазина разработчик ещё не указал поддерживаемые функции. Это не означает отсутствия поддержки."
+      },
+      "source": [
+        {
+          "url": "https://apps.apple.com/us/app/peloton-fitness-workouts/id792750948",
+          "kind": "developer_app_store_listing",
+          "read": true,
+          "outcome": "Прочитаны описание, доступная история релизов и раздел Accessibility. Отдельные положительные утверждения и ограничения перечислены в строке."
+        },
+        {
+          "url": "https://www.figma.com/customers/peloton-speeds-up-design-handoff-by-5x-with-figma/",
+          "kind": "official_customer_case_with_named_design_engineering_team",
+          "read": true,
+          "outcome": "Kinetic использует platform typography variables: SF Pro iOS и Inter Android;12themes/24modes включают team colors и Strength+yellow, не 12global app skins."
+        },
+        {
+          "url": "https://www.onepeloton.com/blog/hearing-accessibility",
+          "kind": "official_product_accessibility_article",
+          "read": true,
+          "outcome": "3 Dec 2021: subtitles all on-demand и live English classes; исторический content-accessibility claim, не mobile VoiceOver coverage."
+        }
+      ],
+      "checked_searches": [
+        "Peloton typography typeface app design case study",
+        "Peloton app accessibility VoiceOver captions"
+      ],
+      "remaining_unknowns": [
+        "Точное семейство native body/numeric font и font-feature settings",
+        "Точная реализация/параметры motion и полный набор accessibility states"
+      ],
+      "temporal_note": "Текущая версия магазина и дата проверки отделены от версии AppLlama/локальной записи; даты release notes без года сохранены без добавления года."
+    },
+    {
+      "index": 23,
+      "app": "MCI",
+      "checked_on": "2026-10-11",
+      "store_snapshot": {
+        "version": "3.5.2850",
+        "current_release_date_utc": "2026-09-21T14:08:00Z",
+        "url": "https://apps.apple.com/us/app/mci-personal-training-ai/id1645679272",
+        "not_archive_version": true
+      },
+      "status": {
+        "theme": "not_established_after_public_source_check",
+        "font": "native_family_not_established",
+        "materials_motion_accessibility": "documented_watch_haptic_feedback"
+      },
+      "theme_options": [],
+      "theme_settings_path": null,
+      "theme_scope_note": "Сведения о переключении не найдены в проверенных публичных источниках; это не утверждение о единственной теме.",
+      "font_evidence": {
+        "native_families": [],
+        "brand_only_families": [],
+        "note": "Семейство native UI не раскрыто проверенными источниками. По screenshot/веб-CSS не определялось."
+      },
+      "materials_motion_accessibility": [
+        {
+          "category": "haptic_feedback",
+          "text": "Apple Watch вибрирует по окончании отдыха; характер iPhone haptics остаётся неизвестен.",
+          "scope": "Apple Watch",
+          "version": "3.0.2368",
+          "date_label": "2026-03-26",
+          "source_url": "https://roadmap.mcisolutions.de/de-de/changelogs/3-0-2368-workout-sharing"
+        }
+      ],
+      "app_store_accessibility": {
+        "status": "developer_has_not_indicated",
+        "note": "В разделе Accessibility магазина разработчик ещё не указал поддерживаемые функции. Это не означает отсутствия поддержки."
+      },
+      "source": [
+        {
+          "url": "https://apps.apple.com/us/app/mci-personal-training-ai/id1645679272",
+          "kind": "developer_app_store_listing",
+          "read": true,
+          "outcome": "Прочитаны описание, доступная история релизов и раздел Accessibility. Отдельные положительные утверждения и ограничения перечислены в строке."
+        },
+        {
+          "url": "https://roadmap.mcisolutions.de/de-de/changelogs",
+          "kind": "official_changelog",
+          "read": true,
+          "outcome": "Прочитаны публичные changelogs до 21 Sep 2026; theme switch и native font family не названы."
+        },
+        {
+          "url": "https://roadmap.mcisolutions.de/de-de/changelogs/3-0-2368-workout-sharing",
+          "kind": "official_release_note",
+          "read": true,
+          "outcome": "26 Mar 2026: haptic vibration на Apple Watch по окончании rest; long-press sharing cards. Не экстраполируется на iPhone haptics."
+        }
+      ],
+      "checked_searches": [
+        "MCI Personal Training dark mode theme settings Schriftart",
+        "MCI mcisolutions font typography"
+      ],
+      "remaining_unknowns": [
+        "Пользовательские варианты Light/Dark/System и точный путь их выбора",
+        "Точное семейство native body/numeric font и font-feature settings",
+        "Точная реализация/параметры motion и полный набор accessibility states"
+      ],
+      "temporal_note": "Текущая версия магазина и дата проверки отделены от версии AppLlama/локальной записи; даты release notes без года сохранены без добавления года."
+    }
+  ]
+}

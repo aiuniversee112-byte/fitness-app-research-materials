@@ -1,0 +1,11 @@
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+*.winocr.json
+*.mp4
+*.mkv
+*.webm
+*.mov
+*.zip

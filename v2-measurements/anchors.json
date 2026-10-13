@@ -1,0 +1,186 @@
+[
+  {
+    "n": 1,
+    "name": "BeFit",
+    "source": "V02",
+    "time_s": 540,
+    "state": "set editor",
+    "image": "v2-measurements\\A01.png"
+  },
+  {
+    "n": 2,
+    "name": "MacroFactor",
+    "source": "V01",
+    "time_s": 90,
+    "state": "weight entry",
+    "image": "v2-measurements\\A02.png"
+  },
+  {
+    "n": 3,
+    "name": "Fitbod",
+    "source": "V03",
+    "time_s": 481,
+    "state": "timed hold",
+    "image": "v2-measurements\\A03.png"
+  },
+  {
+    "n": 4,
+    "name": "Gymverse",
+    "source": "Gymverse/oth_b7685.png",
+    "time_s": null,
+    "state": "timed set",
+    "image": "v2-measurements\\A04.png"
+  },
+  {
+    "n": 5,
+    "name": "TRX",
+    "source": "V05",
+    "time_s": 300,
+    "state": "video player",
+    "image": "v2-measurements\\A05.png"
+  },
+  {
+    "n": 6,
+    "name": "Muscle Booster",
+    "source": "official-media/booster-player-help-01.webp",
+    "time_s": null,
+    "state": "player controls overlay, official cross-platform",
+    "image": "v2-measurements\\A06.png"
+  },
+  {
+    "n": 7,
+    "name": "Strava",
+    "source": "Strava/oth_veib4.png",
+    "time_s": null,
+    "state": "active stats",
+    "image": "v2-measurements\\A07.png"
+  },
+  {
+    "n": 8,
+    "name": "Lyfta",
+    "source": "Lyfta/oth_bk1t8.png",
+    "time_s": null,
+    "state": "set table",
+    "image": "v2-measurements\\A08.png"
+  },
+  {
+    "n": 9,
+    "name": "Fitify",
+    "source": "Fitify-Home-Workout-AI-Coach/oth_nar2c.png",
+    "time_s": null,
+    "state": "exercise player",
+    "image": "v2-measurements\\A09.png"
+  },
+  {
+    "n": 10,
+    "name": "FitOn",
+    "source": "FitOn-Workouts--Fitness-Plans/oth_w9d68.png",
+    "time_s": null,
+    "state": "preworkout",
+    "image": "v2-measurements\\A10.png"
+  },
+  {
+    "n": 11,
+    "name": "SmartGym",
+    "source": "SmartGym/oth_bzwhb.png",
+    "time_s": null,
+    "state": "rest timer",
+    "image": "v2-measurements\\A11.png"
+  },
+  {
+    "n": 12,
+    "name": "BODi",
+    "source": "BODi/oth_mj6kn.png",
+    "time_s": null,
+    "state": "video player",
+    "image": "v2-measurements\\A12.png"
+  },
+  {
+    "n": 13,
+    "name": "Gymdone",
+    "source": "V08",
+    "time_s": 270,
+    "state": "active logger",
+    "image": "v2-measurements\\A13.png"
+  },
+  {
+    "n": 14,
+    "name": "Technogym",
+    "source": "V10",
+    "time_s": 492,
+    "state": "landscape session",
+    "image": "v2-measurements\\A14.png"
+  },
+  {
+    "n": 15,
+    "name": "Buddyfit",
+    "source": "V11",
+    "time_s": 280,
+    "state": "video class",
+    "image": "v2-measurements\\A15.png"
+  },
+  {
+    "n": 16,
+    "name": "Strong",
+    "source": "Strong/oth_h8pxa.png",
+    "time_s": null,
+    "state": "set table",
+    "image": "v2-measurements\\A16.png"
+  },
+  {
+    "n": 17,
+    "name": "JEFIT",
+    "source": "JEFIT/oth_1nak1.png",
+    "time_s": null,
+    "state": "rest timer",
+    "image": "v2-measurements\\A17.png"
+  },
+  {
+    "n": 18,
+    "name": "Muscle Monster",
+    "source": "Muscle-Monster-Workout-Planner/oth_bxzjj.png",
+    "time_s": null,
+    "state": "workout editor, not active HUD",
+    "image": "v2-measurements\\A18.png"
+  },
+  {
+    "n": 19,
+    "name": "SHRED",
+    "source": "SHRED/oth_eu77x.png",
+    "time_s": null,
+    "state": "cardio timer",
+    "image": "v2-measurements\\A19.png"
+  },
+  {
+    "n": 20,
+    "name": "Symmetry",
+    "source": "Symmetry/oth_n4psi.png",
+    "time_s": null,
+    "state": "set log",
+    "image": "v2-measurements\\A20.png"
+  },
+  {
+    "n": 21,
+    "name": "Gravl",
+    "source": "Gravl/oth_wxqk2.png",
+    "time_s": null,
+    "state": "dashboard, not active HUD",
+    "image": "v2-measurements\\A21.png"
+  },
+  {
+    "n": 22,
+    "name": "Peloton",
+    "source": "Peloton/pay_f5lz8.png",
+    "time_s": null,
+    "state": "paywall, not HUD",
+    "image": "v2-measurements\\A22.png"
+  },
+  {
+    "n": 23,
+    "name": "MCI",
+    "source": "V12",
+    "time_s": 1166,
+    "state": "cardio session",
+    "image": "v2-measurements\\A23.png"
+  }
+]

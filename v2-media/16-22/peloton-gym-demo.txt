@@ -1,0 +1,155 @@
+Title: New Peloton Gym feature for the Peloton App (Guided Strength Workouts): First look demo & review of Peloton Gym - Peloton Buddy
+
+URL Source: https://www.pelobuddy.com/peloton-gym-demo-review/
+
+Published Time: 2023-05-23T14:18:46+00:00
+
+Markdown Content:
+This morning, Peloton announced their newest feature for the Peloton App: Peloton Gym. Peloton Gym describes itself as a way to “Follow step-by-step workout plans in the gym, at home, or wherever you are”
+
+### MY LATEST VIDEOS
+
+[Video 3](https://cdn.jwplayer.com/videos/mvr2Hxre-yWnf2nfn.mp4)
+Video Paused
+
+More plainly: Peloton Gym is a way to take a traditionally structured strength training workout which you might do in a gym without an app; but now you can track it through the Peloton app. You’ll get credit for streaks, challenges, and blue dots just like you would any other Peloton workout as well. Note that you can not build your own workouts – you are picking from a set of pre-programmed workouts created by the Peloton instructors.
+
+[![Image 1: The new Peloton Gym feature & section of the Peloton App.](https://www.pelobuddy.com/wp-content/uploads/2023/05/GymOverview-510x1024.jpg)](https://www.pelobuddy.com/wp-content/uploads/2023/05/GymOverview.jpg)
+
+The new Peloton Gym feature & section of the Peloton App.
+
+In a press release today (which you can read in full [here](https://www.pelobuddy.com/peloton-brand-relaunch/)), which also covered the [new Peloton App Tiers](https://www.pelobuddy.com/app-tiers-launch/), [rowing classes being available in the app](https://www.pelobuddy.com/peloton-row-classes-app/) now, and the [Peloton brand relaunch](https://www.pelobuddy.com/peloton-brand-relaunch/), the company had this to say about the new Peloton Gym feature:
+
+> _With the launch of Peloton Gym, available across all membership tiers, Peloton gives Members what they need to meet their strength goals anywhere they want to work out. This marks the brand’s first offering in which workouts are written-out, demoed in a supporting video, and designed to be done at the user’s own pace. With this new content feature, Peloton Instructors offer Members a series of floor-based routines, allowing them to time their workout and choose between different strength class types so they can personalize for their specific needs at any time. Much like all App features, Peloton Gym will leverage unparalleled Instructor expertise and Member feedback to develop and add functionality to enrich the Strength modality experience over time._
+
+Peloton Gym will start rolling out to all members today, although with nearly 7 million Peloton members, might not show up immediately to everyone. It is available to all Peloton members, no matter what tier of the Peloton App you are on – Peloton App Free, Peloton App One, or Peloton App+ (if these terms are new to you, see the [news this morning that Peloton officially announced their new app tiers](https://www.pelobuddy.com/app-tiers-launch/)). It is also available to Guide members and All-Access members through their apps. However, at this time, you can only find the Peloton Gym workouts in the Peloton App itself, and not on the Guide, Bike, Tread or Row hardware.
+
+In addition to being available on the Peloton iOS App for iPhones and the Peloton Android app, we’re told Peloton Gym should also be available on other versions of the Peloton App, like Apple TV, Roku, Amazon, and more.
+
+### Peloton Gym Demo & Overview
+
+We’ve had the chance to try out a few Peloton Gym workouts on the Peloton iOS app. The new Peloton Gym workouts are very different than anything Peloton members have seen to date (with the exception of Just Work Out). There is no soundtrack, and no coach working out along with you. Instead – it is simply an interface guiding you through the specific workout structure you picked.
+
+[![Image 2: You get a 3 second countdown once you click start to begin your Gym workout.](https://www.pelobuddy.com/wp-content/uploads/2023/05/GymBeginning-472x1024.jpg)](https://www.pelobuddy.com/wp-content/uploads/2023/05/GymBeginning.jpg)
+
+You get a 3 second countdown once you click start to begin your Gym workout.
+
+Peloton positions that as “You get the same intelligent workout programming from Peloton instructors that you would in any other Peloton class without the need to listen in to cues.”
+
+Of course, that doesn’t mean you can’t listen to music while you workout – the overview for Peloton Gym points out you can “Listen to your own music from other apps like Spotify or Apple Music”. It will just be up to you to start the other app, and pick your own soundtrack, before you start your Peloton Gym workout.
+
+Like other parts of the Peloton App, you can use a bluetooth heart rate monitor, Peloton Heart Rate Band, or the Peloton Watch app, to track your heart rate as you are doing a gym workout. If you do this, you’ll receive a strive score at the end of your workout. In addition, you’ll see your heart rate at the bottom of the screen as you progress through your workout
+
+[![Image 3: A Peloton Gym workout in progress. You can see heart rate at the bottom, and that Spotify is playing in the background thanks to the iPhone Dynamic Island.](https://www.pelobuddy.com/wp-content/uploads/2023/05/GymHRMusic-472x1024.jpg)](https://www.pelobuddy.com/wp-content/uploads/2023/05/GymHRMusic.jpg)
+
+A Peloton Gym workout in progress. You can see heart rate at the bottom, and that Spotify is playing in the background thanks to the iPhone Dynamic Island.
+
+Besides the fact you pick your own music, the biggest difference current Peloton members should expect is there is no Peloton coach motivating you through the workout, or working out along with you. A Peloton Gym workout is simply a timer keeping track of how long you are taking to complete the workout, and a way to swipe to move on to the next block. There is no video as you go along – and no video or voice intro from the coach who created the workout either.
+
+However, if you are not familiar with a move, or need some additional guidance on proper form, you are able to click on any movement that is part of the workout, and it will open a quick 5-15 second video demo – which shows one of the Peloton instructors providing a quick demo of that move.
+
+Once the demo ends, it goes back to the Peloton Gym screen and your workout continues. One nice part of this is that the workout timer automatically pauses behind the scenes while the video demo plays, and resumes once the demo is over. However, if you don’t click on any video demos in your workout – you’ll never see any coach or video at all.
+
+You are able to see the demo both before the workouts, when viewing the class plan, or in the middle of your workouts.
+
+[![Image 4: Ability to see demos of the moves in Peloton Gym.](https://www.pelobuddy.com/wp-content/uploads/2023/05/DemoMove-1024x1024.jpg)](https://www.pelobuddy.com/wp-content/uploads/2023/05/DemoMove.jpg)
+
+Ability to see demos of the moves in Peloton Gym.
+
+Peloton had this to say about how the app works:
+
+> _With Peloton Gym, you get non-video style strength workouts designed by Peloton instructors. You’ll find a mix of full-body, lower-body, upper-body, and core workouts. Each workout follows a similar style to Peloton strength classes, with a warm-up and blocks of exercises. For each exercise, you have the option to watch a tutorial video and read a quick description of how to do the move. Perform the recommended reps and sets of each exercise and swipe to complete each block, moving at your own pace._
+
+Peloton Gym classes are divided into blocks. Within each block, you are assigned a certain number of reps (or certain amount of time). Sometimes you’ll just do the workouts in the block once, while other times, you will repeat that block 2x, 3x, or more before moving onto the next block.
+
+There are a variety of different structures that one of the blocks within a Gym workout might be. Every workout begins with a warmup. From there, you might have circuits, EMOMs, AMRAPs, supersets, tabatas, sets, and more. Peloton mentions that you might some some moves you aren’t as familiar with from traditional Peloton classes, saying:
+
+> _Expect some of your favorite strength exercises like split squats, flat bench dumbbell chest presses, dumbbell sumo deadlifts, and barbell back squats, programmed using circuits, EMOMs, and supersets. You might see more traditional weightlifting moves that aren’t often used in Peloton’s instructor-led classes, giving you a new way to challenge yourself. We’re just getting started with Peloton Gym—stay tuned for even more coming soon._
+
+If you aren’t familiar with what one of the terms means for a block, you can click the help icon next to it, and it will give you a description of that block type.
+
+[![Image 5: You can click any block name to see what that block type is and what you should do.](https://www.pelobuddy.com/wp-content/uploads/2023/05/SuperSetWhatIs-472x1024.jpg)](https://www.pelobuddy.com/wp-content/uploads/2023/05/SuperSetWhatIs.jpg)
+
+You can click any block name to see what that block type is and what you should do.
+
+Once you have finished your block (or repeated it as many times as you are supposed to), there is a slider for you to slide. This marks the block as complete, and moves you to the next block of your workout.
+
+There is no fanfair when you do this – the next block is shown and you continue with your workout. Of course, this is a self-paced workout so you can take as much rest as you want – it will not move on to the next block until you swipe the slider to mark it as complete.
+
+You are also able to pause the timer at any point you want during the workout, or end the workout early.
+
+[![Image 6: Here, the first block has been completed (a one minute warmup) and work on the second block has just begun.](https://www.pelobuddy.com/wp-content/uploads/2023/05/SecondBlock-472x1024.jpg)](https://www.pelobuddy.com/wp-content/uploads/2023/05/SecondBlock.jpg)
+
+Here, the first block has been completed (a one minute warmup) and work on the second block has just begun.
+
+The timer continually runs throughout the workout – it is your cumulative workout time. There isn’t a way to see how long you’ve been in your current block unless you keep track of it in your head.
+
+When your workout is complete, you’ll get the familiar completed workout screen you are used to.
+
+At the top of the screen, it will tell if you completed all the blocks, and your overall time. It doesn’t currently break down the amount of time per block.
+
+[![Image 7: A completed Gym workout.](https://www.pelobuddy.com/wp-content/uploads/2023/05/FinishedGym1-551x1024.jpg)](https://www.pelobuddy.com/wp-content/uploads/2023/05/FinishedGym1.jpg)
+
+A completed Gym workout.
+
+### How to Take & Start a Peloton Gym Workout in the Peloton App on an iPhone or Android
+
+The Peloton Gym feature can be found in the Peloton App under the “Workouts” tab. At the top of the screen should be a new tab for “Gym” (with a temporarily helpful “New” label to make it more obvious). It is on the line where tabs for Classes, Programs, and Collections have previously existed.
+
+[![Image 8: The new Peloton Gym feature & section of the Peloton App.](https://www.pelobuddy.com/wp-content/uploads/2023/05/GymOverview-510x1024.jpg)](https://www.pelobuddy.com/wp-content/uploads/2023/05/GymOverview.jpg)
+
+Peloton Gym is found on the Workouts tab of the Peloton app.
+
+The first time you click into it, you’ll get a quick overview screen giving you some of the highlights of Peloton Gym workouts (which we covered above). You’re then presented with the on-demand library of Gym workouts. You can either scroll through the list of workouts, or you can filter based on focus area of the workouts. The current filters include All, Full Body, Upper Body, Lower Body, and Core.
+
+There is currently no other way to filter the list of Peloton Gym workouts (like by instructor, suggested workout time, or by individual moves).
+
+When you click into a Gym workout, you’ll get an overview description of the workout, followed by the detailed class plan. You can again click into any movement name for a text description about that workout, as well as a video demo if you wish.
+
+[![Image 9: Overview of a Peloton Gym workout.](https://www.pelobuddy.com/wp-content/uploads/2023/05/WorkoutOverview-472x1024.jpg)](https://www.pelobuddy.com/wp-content/uploads/2023/05/WorkoutOverview.jpg)
+
+Overview of a Peloton Gym workout.
+
+There are currently 20 Peloton Gym workouts available in the app – and it is not yet clear how often new workouts will be added. Below is a list of which Peloton instructors have Gym workouts available, and how many by each one:
+
+#### Peloton Gym Workouts by Instructor
+
+*   Adrian Williams (2)
+*   Andy Speer (2)
+*   Ben Alldis (2)
+*   Callie Gullickson (2)
+*   Erik Jager (2)
+*   Jermaine Johnson (1)
+*   Jess Sims (2)
+*   Logan Aldridge (2)
+*   Matty Maggiacomo (1)
+*   Rad Lopez (2)
+*   Tunde Oyeneyin (2)
+
+Note that although the workouts are “by” an instructor, there is no video or audio in the workout of that instructor. However, if you’re familiar with the coaches and have taken their other strength workouts, it’s clear the coaches were involved in the programming of the workouts that are tied to their names on the platform.
+
+### More Thoughts on Peloton Gym
+
+For Peloton members who love the motivation the Peloton coaches provide, or whatever banter happens during class, or not having to think about the playlist – Peloton Gym might not be for you.
+
+But, if you’re just focused on getting the best strength workout you can – then this might be another workout type to consider. You can decide how much rest time you need between sets, and move through the workout at exactly whatever own speed you want to. There is clearly a large part of the Peloton community interested in strength workouts, based on the growth of groups like #HardCoreOnTheFloor over the years, and the fact strength is the most popular workout type on the Peloton app.
+
+Peloton also positions it as a helpful tool for those who might need guidance in the Gym, saying “If you’ve ever walked into a crowded weight room and felt gym anxiety, we know the feeling. Which weights should you use? How does that machine work? How many reps should you do? Is everyone staring at you? Peloton Gym takes out the guesswork of what to do at the gym. You’ll know exactly which exercises to do, what equipment to use, and how much time to spend.”
+
+One thing to keep in mind is that we can likely see improvements & additions to Peloton Gym in the coming months. Peloton hinted at that in their press release, saying “Much like all App features, Peloton Gym will leverage unparalleled Instructor expertise and Member feedback to develop and add functionality to enrich the Strength modality experience over time.”
+
+There are a couple of easy areas that we can see being added soon. For one: more filters in the Peloton Gym class library.
+
+Second is that the Gym workouts seem like a natural fit to be grouped into programs. Even if they aren’t the rigid programs that don’t give you flexibility, even just a suggested combination of workouts each week would be valuable to those members first venturing into strength workouts.
+
+Another small tweak would be to let you record the weights you used for each movement, or to record how many rounds of an AMRAP you were able to complete. Unfortunately, there is no way to denote anything like that currently.
+
+A bigger change, but one that seems like a natural progression to us, would be to allow members to program their own Gym workouts. Letting members create their own custom Peloton Gym structures and follow along with it in the app using the framework Peloton Gym provides would be a big power tool for advanced users, while keeping them engaged in the Peloton platform. We see this one as being a longer term addition (if it ever happens) due to all the custom work and UI that would be required to let members build their own workouts for themselves.
+
+Let us know what you think about Peloton Gym once you’ve had a chance to try it out.
+
+* * *
+
+**Support the site!** Enjoy the news & guides we provide? Help us keep bringing you the news. Pelo Buddy is completely free, but you can help support the site with a one-time or monthly donation that will go to our writers, editors, and more. Find out [more details here](https://www.pelobuddy.com/membership-levels/).
+
+**Get Our Newsletter** Want to be sure to never miss any Peloton news? Sign up for [our newsletter](https://newsletter.pelobuddy.com/) and get all the latest Peloton updates & Peloton rumors sent directly to your inbox.

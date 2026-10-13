@@ -1,0 +1,110 @@
+[
+  {
+    "id": "V01",
+    "file": "ScreenRecording_10-10-2026 15-01-54_1.mp4",
+    "duration": 554.36,
+    "width": 1290,
+    "height": 2796,
+    "avg_frame_rate": "9848400/166313",
+    "codec": "hevc"
+  },
+  {
+    "id": "V02",
+    "file": "ScreenRecording_10-10-2026 15-37-51_1.mp4",
+    "duration": 1675.708333,
+    "width": 1290,
+    "height": 2796,
+    "avg_frame_rate": "615200/22343",
+    "codec": "hevc"
+  },
+  {
+    "id": "V03",
+    "file": "ScreenRecording_10-10-2026 18-39-27_1.mp4",
+    "duration": 526.738333,
+    "width": 1290,
+    "height": 2796,
+    "avg_frame_rate": "4928800/105361",
+    "codec": "hevc"
+  },
+  {
+    "id": "V04",
+    "file": "ScreenRecording_10-10-2026 22-56-29_1.mp4",
+    "duration": 1087.886667,
+    "width": 1290,
+    "height": 2796,
+    "avg_frame_rate": "6489000/326371",
+    "codec": "hevc"
+  },
+  {
+    "id": "V05",
+    "file": "ScreenRecording_10-10-2026 23-42-23_1.mp4",
+    "duration": 437.887801,
+    "width": 1290,
+    "height": 2796,
+    "avg_frame_rate": "153330/4379",
+    "codec": "hevc"
+  },
+  {
+    "id": "V06",
+    "file": "ScreenRecording_10-11-2026 00-03-29_1.mp4",
+    "duration": 601.577461,
+    "width": 1290,
+    "height": 2796,
+    "avg_frame_rate": "6592800/120313",
+    "codec": "hevc"
+  },
+  {
+    "id": "V07",
+    "file": "ScreenRecording_10-11-2026 01-19-42_1.mp4",
+    "duration": 732.959955,
+    "width": 1290,
+    "height": 2796,
+    "avg_frame_rate": "5132250/109943",
+    "codec": "hevc"
+  },
+  {
+    "id": "V08",
+    "file": "ScreenRecording_10-11-2026 14-57-59_1.mp4",
+    "duration": 630.124558,
+    "width": 1290,
+    "height": 2796,
+    "avg_frame_rate": "16045200/378083",
+    "codec": "hevc"
+  },
+  {
+    "id": "V09",
+    "file": "ScreenRecording_10-11-2026 15-11-09_1.mp4",
+    "duration": 331.915,
+    "width": 1290,
+    "height": 2796,
+    "avg_frame_rate": "9461400/199159",
+    "codec": "hevc"
+  },
+  {
+    "id": "V10",
+    "file": "ScreenRecording_10-11-2026 15-37-12_1.mp4",
+    "duration": 1198.443333,
+    "width": 1290,
+    "height": 2796,
+    "avg_frame_rate": "2951550/59923",
+    "codec": "hevc"
+  },
+  {
+    "id": "V11",
+    "file": "ScreenRecording_10-11-2026 16-16-57_1.mp4",
+    "duration": 1052.491667,
+    "width": 1290,
+    "height": 2796,
+    "avg_frame_rate": "746280/18043",
+    "codec": "hevc"
+  },
+  {
+    "id": "V12",
+    "file": "ScreenRecording_10-11-2026 17-46-36_1.mp4",
+    "duration": 1285.559501,
+    "width": 1290,
+    "height": 2796,
+    "avg_frame_rate": "7607000/128557",
+    "codec": "hevc"
+  }
+]

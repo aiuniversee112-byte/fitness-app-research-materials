@@ -1,0 +1,17 @@
+{
+  "revision": 2,
+  "apps": 23,
+  "required_sections": 138,
+  "matrix_rows": 23,
+  "word_count": 27344,
+  "characters": 221522,
+  "app_screens": 1064,
+  "app_catalog_videos": 36,
+  "unknown_screen_ids": 0,
+  "missing_local_links": 0,
+  "unique_screen_ids_cited": 214,
+  "personal_email_matches": 0,
+  "matrix_is_last": true,
+  "web_citation_count": 73,
+  "documentary_app_rows": 23
+}

@@ -1,0 +1,623 @@
+Title: Gravl: AI Personal Trainer for Strength Training
+
+URL Source: https://gravl.ai/
+
+Markdown Content:
+[![Image 12](https://gravl.ai/brand-icon.webp)](https://gravl.ai/)
+
+[![Image 13](https://gravl.ai/brand-icon.webp)](https://gravl.ai/)[![Image 14](https://gravl.ai/brand-icon-blue.webp)Macros](https://gravl.ai/macros)
+
+*   [Features](https://gravl.ai/#features)
+*   [Macros](https://gravl.ai/macros)
+*   [Blog](https://gravl.ai/blog)
+*   [Developers](https://gravl.ai/developers)
+*   [Help Center](https://gravl.ai/help)
+*   en English Deutsch Español Français Italiano Português Čeština Polski  
+
+[Sign in](https://app.gravl.ai/)[Get started free](https://quiz.gravl.ai/onboarding?variant=trial&utm_source=landing-page&utm_medium=organic)
+
+*   [Features](https://gravl.ai/#features)
+*   [Macros](https://gravl.ai/macros)
+*   [Blog](https://gravl.ai/blog)
+*   [Developers](https://gravl.ai/developers)
+*   [Help Center](https://gravl.ai/help)
+*   [Sign in](https://app.gravl.ai/)
+*   Language en
+
+# The gym app that plans every workout for you
+
+Get stronger with a personalized strength training plan adapted to your goals, equipment and schedule. Dialed by AI, backed by real coaches.
+
+4.9/5·4.9/5
+
+50K+ App ratings
+
+Hit #1
+
+in Fitness Apps
+
+## Automatic progressive overload. Gravl tracks every set and adjusts next week’s weights for you. No spreadsheets, no guessing.
+
+## Clear how-to videos for every exercise. Easy-to-follow form, on demand.
+
+[Video 6](https://gravl.ai/exercises/shoulder-press.mp4)
+
+![Image 15](https://gravl.ai/mock-iphone-17.webp)
+
+[Video 7](https://gravl.ai/exercises/barbell-squat.mp4)
+
+![Image 16](https://gravl.ai/mock-iphone-17.webp)
+
+![Image 17: The GRAVL coaching team](https://gravl.ai/coach-team-v2.webp)
+## Coaching support. Get support from our coaches anytime. Whether it’s app tips or workout advice, just message us in-app.
+
+![Image 18](https://gravl.ai/phone-frames/poster.webp)
+
+![Image 19](https://gravl.ai/screen-train.webp)[Video 8](https://gravl.ai/screen-log.mp4)[Video 9](https://gravl.ai/)![Image 20](https://gravl.ai/screen-back-squat.webp)
+
+Train
+
+Train. With a plan tailored to you.Every session’s exercises and weights, already planned so you can stop guessing your workouts.
+
+Log
+
+Log. In one tap.Every set comes prefilled with reps and weight. Tap when it’s done and the rest timer starts.
+
+Progress
+
+Progress. Every session.Gravl analyzes your training and adapts as you improve, so you never stop seeing results.
+
+1 of 4 done this week
+
+Chest & Back up next · 53 min
+
+Rest recommended
+
+15 kg warmup · logged
+
+40 kg × 6 up next
+
+0:14 rest timer
+
+260 Strength Score
+
++1 this week
+
+40 to Olympic
+
+Train Log Progress
+
+Train. With a plan tailored to you.
+
+[Get started free](https://quiz.gravl.ai/onboarding?variant=trial&utm_source=landing-page&utm_medium=organic)
+
+[Get started free](https://quiz.gravl.ai/onboarding?variant=trial&utm_source=landing-page&utm_medium=organic)
+
+## Everything you need to keep progressing.
+
+Gravl tracks your recovery, plans your week, and adapts every workout to the gym you are in. It takes care of the details that stall progress, so you can just enjoy lifting.
+
+### Gravl already planned your whole week.
+
+While your coach is still typing, Gravl has your week built: every set, every rep, every kilo, progressive overload included, recalculated after every workout you log. No guessing, no walls of text, no questions left on read.
+
+![Image 21](https://gravl.ai/photo-notes-pile.webp)
+
+10:21
+
+Coach Mike online
+
+Today
+
+yo 🔥 next week go heavier, you had more in the tank 09:41
+
+heavier how much? 😅 bench got stuck at 80x7, deload or push?09:42
+
+MONDAY push. bench 4x8 rpe 8 then incline db 3x10-12 slow negatives, lateral raises 4x15 drop set on the last one, rope pushdowns 3x12 to failure. TUESDAY pull. deadlift work up to a heavy 5 but not too heavy, rows 4x10 squeeze hard at the top, lat pulldown 3x12, db curls superset hammer curls 3x12 each. THURSDAY legs. squat 5x5 add weight when it feels light, rdl 3x8, leg press 4x12 close stance, calves 5x20. weights depend on how you feel that day, adjust rpe accordingly, dont fail reps unless last set 💪💪 Would you like me to adjust the weights based on your client's recent logs, or keep the plan general?09:58
+
+didnt understand that last part?? …so how much on bench monday?10:01
+
+Message
+
+![Image 22](https://gravl.ai/mock-iphone-17.webp)
+
+Before
+
+![Image 23: Gravl workout screen with exact weight and rep targets](https://gravl.ai/screen-shoulder-press.webp)
+
+![Image 24](https://gravl.ai/mock-iphone-17.webp)
+
+Gravl
+
+**Muscle recovery tracking.**Gravl connects with Apple Health, Health Connect, Garmin, and Strava and shows you which muscles need a rest, so you can train hard without overtraining.
+
+![Image 25: Apple Health](https://gravl.ai/logo-apple-health.webp)![Image 26: Health Connect](https://gravl.ai/logo-health-connect.webp)![Image 27: Garmin Connect](https://gravl.ai/logo-garmin.webp)![Image 28: Strava](https://gravl.ai/logo-strava.webp)
+
+![Image 29: Muscle Recovery screen showing recovery percentage per muscle](https://gravl.ai/screen-muscle-recovery.webp)
+
+![Image 30](https://gravl.ai/mock-iphone-17.webp)
+
+**Import workouts from anywhere.**Got a routine on Instagram or TikTok, a photo of a whiteboard, or a PDF from your coach? Drop it into Gravl and AI turns it into a real workout: every set, rep and weight ready to track in your next session.
+
+AI
+
+![Image 31](https://gravl.ai/isotipo.svg)
+
+**Made to go wherever you go.**Run the whole workout from your Apple Watch, Wear OS watch, or Garmin: log sets, skip rests, and see what comes next without touching your phone. Gravl also reads your heart rate from your watch or AirPods Pro 3.
+
+![Image 32: An Apple Watch running the Gravl rest timer next to a Wear OS watch mid-workout](https://gravl.ai/apple-watch.webp)![Image 33](https://gravl.ai/wearos-watch.webp)
+
+**Workouts built around your gym.**Pick your gym and Gravl adapts every workout to the equipment it actually has. Switch gyms or travel and your plan rebuilds around what is available.
+
+[Video 10](https://gravl.ai/)
+
+Search your gym
+
+Gold’s Gym Venice![Image 34](https://gravl.ai/verified-badge-gold.svg)
+
+360 Hampton Dr, Venice Beach
+
+Metroflex Gym![Image 35](https://gravl.ai/verified-badge-gold.svg)
+
+2921 S Cooper St, Arlington
+
+## Exercise substitutions. On the fly.
+
+![Image 36](https://gravl.ai/brand-icon.webp)
+Pull Day
+
+![Image 37](https://cdn.gravl.ai/mobile/images/FbEKttdQu9V5hTDAfz9qeG6di7f2-20260301115442-thumbnail.jpeg)
+
+Deadlift
+
+3 series · 5 reps
+
+![Image 38](https://cdn.gravl.ai/mobile/images/FbEKttdQu9V5hTDAfz9qeG6di7f2-20260301143428-thumbnail.jpeg)
+
+Barbell Row
+
+3 series · 8-10 reps
+
+![Image 39](https://cdn.gravl.ai/mobile/images/FbEKttdQu9V5hTDAfz9qeG6di7f2-20260301113057-thumbnail.jpeg)
+
+Barbell Curl
+
+3 series · 10-12 reps
+
+![Image 40](https://cdn.gravl.ai/mobile/images/back-extension-portrait-thumbnail.jpg)
+
+Back Extension
+
+3 series · 12 reps
+
+Swap exercise
+
+![Image 41](https://cdn.gravl.ai/mobile/images/FbEKttdQu9V5hTDAfz9qeG6di7f2-20260301143428-thumbnail.jpeg)
+
+Barbell Row
+
+3 series · 8-10 reps · 60/70 kg
+
+Same muscle · Back
+
+![Image 42](https://cdn.gravl.ai/mobile/images/FbEKttdQu9V5hTDAfz9qeG6di7f2-20260301130949-thumbnail.jpeg)
+
+Pull Up
+
+3 series · 8-10 reps · bodyweight
+
+![Image 43](https://cdn.gravl.ai/mobile/images/FbEKttdQu9V5hTDAfz9qeG6di7f2-20260301142419-thumbnail.jpeg)
+
+Dumbbell Row
+
+3 series · 10-12 reps · 30/34 kg
+
+![Image 44](https://cdn.gravl.ai/mobile/images/FbEKttdQu9V5hTDAfz9qeG6di7f2-20260301131121-thumbnail.jpeg)
+
+Chin Up
+
+3 series · 6-8 reps · bodyweight
+
+![Image 45](https://cdn.gravl.ai/mobile/images/FbEKttdQu9V5hTDAfz9qeG6di7f2-20260301112853-thumbnail.jpeg)
+
+Barbell Row Reverse Grip
+
+3 series · 8-10 reps · 60/65 kg
+
+Swap exercise
+
+Machine taken?Swap any exercise in one tap. Gravl finds a same-muscle match and recalculates sets, reps and weights instantly.
+
+Features
+
+*   SAME-MUSCLE MATCHES
+*   INSTANT RECALCULATION
+*   ONE-TAP SWAP
+*   FULL EXERCISE LIBRARY
+
+## Join over a million lifters getting stronger with Gravl
+
+![Image 46: Instagram story from @cesarclementegarcia showing a workout logged with Gravl](https://gravl.ai/stories/story-cesar.webp)
+
+![Image 47: Instagram story from @emiletrojani showing a workout logged with Gravl](https://gravl.ai/stories/story-emile.webp)
+
+![Image 48: Instagram story from @martamarinpr showing a workout logged with Gravl](https://gravl.ai/stories/story-marta.webp)
+
+![Image 49: Instagram story from @stefanwessels showing a workout logged with Gravl](https://gravl.ai/stories/story-stefan.webp)
+
+![Image 50: Instagram story [EMAIL REDACTED] showing a workout logged with Gravl](https://gravl.ai/stories/story-goran.webp)
+
+![Image 51: Instagram story from @chrysanthos_c14 showing a workout logged with Gravl](https://gravl.ai/stories/story-chrysanthos-tuesday.webp)
+
+![Image 52: Instagram story [EMAIL REDACTED] showing a workout logged with Gravl](https://gravl.ai/stories/story-bruno.webp)
+
+![Image 53: Instagram story from @2jz_ftw showing a workout logged with Gravl](https://gravl.ai/stories/story-2jz.webp)
+
+![Image 54: Instagram story from @chrysanthos_c14 showing a workout logged with Gravl](https://gravl.ai/stories/story-chrysanthos-upper.webp)
+
+![Image 55: Instagram story from @subi_wan showing a workout logged with Gravl](https://gravl.ai/stories/story-subi.webp)
+
+![Image 56: Instagram story showing a workout logged with Gravl](https://gravl.ai/stories/story-checklist.webp)
+
+![Image 57: Instagram story from @cesarclementegarcia showing a workout logged with Gravl](https://gravl.ai/stories/story-cesar.webp)
+
+![Image 58: Instagram story from @emiletrojani showing a workout logged with Gravl](https://gravl.ai/stories/story-emile.webp)
+
+![Image 59: Instagram story from @martamarinpr showing a workout logged with Gravl](https://gravl.ai/stories/story-marta.webp)
+
+![Image 60: Instagram story from @stefanwessels showing a workout logged with Gravl](https://gravl.ai/stories/story-stefan.webp)
+
+![Image 61: Instagram story [EMAIL REDACTED] showing a workout logged with Gravl](https://gravl.ai/stories/story-goran.webp)
+
+![Image 62: Instagram story from @chrysanthos_c14 showing a workout logged with Gravl](https://gravl.ai/stories/story-chrysanthos-tuesday.webp)
+
+![Image 63: Instagram story [EMAIL REDACTED] showing a workout logged with Gravl](https://gravl.ai/stories/story-bruno.webp)
+
+![Image 64: Instagram story from @2jz_ftw showing a workout logged with Gravl](https://gravl.ai/stories/story-2jz.webp)
+
+![Image 65: Instagram story from @chrysanthos_c14 showing a workout logged with Gravl](https://gravl.ai/stories/story-chrysanthos-upper.webp)
+
+![Image 66: Instagram story from @subi_wan showing a workout logged with Gravl](https://gravl.ai/stories/story-subi.webp)
+
+![Image 67: Instagram story showing a workout logged with Gravl](https://gravl.ai/stories/story-checklist.webp)
+
+*    kg![Image 68](https://gravl.ai/emoji/1f3cb-fe0f.png)lifted
+*   ![Image 69](https://gravl.ai/emoji/1f4aa.png)workouts completed
+*   ![Image 70](https://gravl.ai/emoji/1f3c6.png)records broken
+
+## Training is better with friends.
+
+See your friends' workouts in your feed as they finish them. Clap their records, compare progress, and compete on the Strength Score leaderboard.
+
+[Start training with friends](https://quiz.gravl.ai/onboarding?variant=trial&utm_source=landing-page&utm_medium=organic)
+
+![Image 71: Friends feed with logged workouts](https://gravl.ai/screen-social-feed.webp)
+
+![Image 72](https://gravl.ai/mock-iphone-17.webp)
+
+![Image 73: A friend's workout: duration, volume and records](https://gravl.ai/screen-social-workout.webp)
+
+![Image 74](https://gravl.ai/mock-iphone-17.webp)
+
+![Image 75: Strength Score screen with weekly progress](https://gravl.ai/screen-social-leaderboard.webp)
+
+![Image 76](https://gravl.ai/mock-iphone-17.webp)
+
+![Image 77: Strength Score leaderboard among friends](https://gravl.ai/screen-social-progress.webp)
+
+![Image 78](https://gravl.ai/mock-iphone-17.webp)
+
+**Share your workouts.**Finish a workout and turn it into a story: pick a template, pick a backdrop, and post it straight from the app.
+
+![Image 79](https://gravl.ai/stickers/share-exercise-list.png)
+
+![Image 80](https://gravl.ai/stickers/share-exercise-list.png)
+
+![Image 81](https://gravl.ai/stickers/share-workout-summary.png)
+
+![Image 82](https://gravl.ai/stickers/share-workout-summary.png)
+
+![Image 83](https://gravl.ai/stickers/share-workout-player.png)
+
+![Image 84](https://gravl.ai/stickers/share-workout-player.png)
+
+![Image 85](https://gravl.ai/stickers/share-workout-message.png)
+
+![Image 86](https://gravl.ai/stickers/share-workout-message.png)
+
+![Image 87](https://gravl.ai/stickers/share-gravl-logo.png)
+
+![Image 88](https://gravl.ai/stickers/share-gravl-logo.png)
+
+![Image 89: Julián](https://gravl.ai/avatars/julian.webp)
+julian 2h
+
+workout  
+done
+
+1h 12m Jul 9
+
+volume 12,480 kg
+
+energy 654 kcal
+
+exercises 8
+
+records 3
+
+![Image 90: Gravl](https://gravl.ai/logo.svg)
+
+Send message
+
+![Image 91](https://gravl.ai/story-hermes.webp)
+
+![Image 92](https://gravl.ai/avatars/hermes.webp)
+hermes 45m
+
+workout  
+done
+
+1h 24m 09.07.26
+
+4 x Deadlift
+
+4 x Pull ups
+
+4 x Barbell row
+
+3 x Lat pulldown
+
+3 x Face pull
+
+3 x Barbell curl
+
+![Image 93: Gravl](https://gravl.ai/logo.svg)
+
+Send message
+
+9:41
+
+![Image 94](https://gravl.ai/mock-iphone-17.webp)
+
+**Strength Score.**Everything you lift, turned into a single number. It updates as soon as you log a workout, so you always know where you stand among friends.
+
+Strength Score Friends
+
+*   #1![Image 95: Julián](https://gravl.ai/avatars/julian.webp)Julián Last trained 2h ago+3 this week 287
+*   #2![Image 96: Tash](https://gravl.ai/avatars/tash.webp)Tash Last trained yesterday 243
+*   #3![Image 97: Fran](https://gravl.ai/avatars/fran.webp)Fran You Last trained just now+1 this week 206
+*   #4![Image 98: Matías](https://gravl.ai/avatars/nacho.webp)Matías Last trained 5h ago-1 this week 205
+*   #5![Image 99: Aaron](https://gravl.ai/avatars/aaron.webp)Aaron Last trained 3 days ago+1 this week 176
+*   #6![Image 100: Sofi](https://gravl.ai/avatars/sofi.webp)Sofi Last trained yesterday+2 this week 121
+*   #7![Image 101: Lucas](https://gravl.ai/avatars/lucas.webp)Lucas Last trained 4 days ago 96
+
+### Gravl Macros. Calories by camera.
+
+Point your camera at your food and Gravl estimates calories, protein, carbs, and fats in seconds. Nutrition finally lives beside your workouts, without weighing every bite.
+
+[Explore Gravl Macros](https://gravl.ai/macros)
+
+![Image 102: Gravl Macros camera scanning a bowl of food to measure calories and macros](https://gravl.ai/macros.webp)
+
+Detected foods
+
+Calories
+
+405
+
+18 g
+
+Protein
+
+46 g
+
+Carbs
+
+18 g
+
+Fat
+
+![Image 103](https://gravl.ai/emoji/1f951.png)Avocado 120 kcal · 1 P 6 C 11 F ½ pc![Image 104](https://gravl.ai/emoji/1f33e.png)Tri-color quinoa 160 kcal · 6 P 28 C 3 F 145 g![Image 105](https://gravl.ai/emoji/1fadb.png)Edamame 98 kcal · 9 P 7 C 4 F 80 g![Image 106](https://gravl.ai/emoji/1f345.png)Cherry tomatoes 18 kcal · 1 P 4 C 0 F 100 g![Image 107](https://gravl.ai/emoji/1f96c.png)Baby spinach 9 kcal · 1 P 1 C 0 F 40 g
+
+Save as Recipe
+
+Add Food
+
+![Image 108](https://gravl.ai/laurel.webp)![Image 109](https://gravl.ai/laurel.webp)
+
+![Image 110](https://gravl.ai/emoji/2b50.png)![Image 111](https://gravl.ai/emoji/2b50.png)![Image 112](https://gravl.ai/emoji/2b50.png)![Image 113](https://gravl.ai/emoji/2b50.png)![Image 114](https://gravl.ai/emoji/2b50.png)
+
+## Over 50k 5-star ratings
+
+4.9/5·4.9/5
+
+![Image 115](https://gravl.ai/avatars/tae.webp)
+
+tae_ themain
+
+Jul 2026
+
+> **Phenomenal app that has gotten me back and consistent in the gym.**I love that everything has walk-throughs and even alternatives to suggestions that can offer the same result. and I can adjust the weight, reps, or sets as needed.
+
+![Image 116](https://gravl.ai/avatars/camila.webp)
+
+Camila Reis
+
+Jul 2026
+
+> **So far, this is the best workout app I've ever used.**It's very complete, the workouts adjust to the gym I'm at, and besides showing the execution, it also shows which muscle is being worked.
+
+![Image 117](https://gravl.ai/avatars/sean.webp)
+
+Sean Sturgeon
+
+Jul 2026
+
+> **I love that it customizes my workout.**It takes the guess work out. Just open the app and go.
+
+![Image 118](https://gravl.ai/avatars/kalin.webp)
+
+Kalin
+
+Dec 2025
+
+> **Easily the best fitness app I've used.**I see people online compare it to fitbod frequently. I've used both and I like this one a lot better. Also the devs are awesome and I can tell they actually care about their users. I only wish that I found out about Gravl sooner!
+
+![Image 119](https://gravl.ai/avatars/alisha.webp)
+
+Alisha Young
+
+Jun 2026
+
+> **This app is worth every penny!**I have never been so consistent with lifting and I just got a new pr for lateral because of this app in the workouts it generates for me!
+
+![Image 120](https://gravl.ai/avatars/pierre.webp)
+
+Pierre Px
+
+Jul 2026
+
+> **The app is absolutely perfect,**it's like having a personal trainer in your pocket!
+
+![Image 121](https://gravl.ai/avatars/david.webp)
+
+David Carey
+
+Jan 2026
+
+> **This app is fantastic.**After very much review for an AI aided tool to keep lifts difficult, progressively overloaded and varied all while having great analysis and visualizing, this one comes through. I tried fitbod, gymrun, jefit, bodbot and many other trials.
+
+![Image 122](https://gravl.ai/avatars/andres.webp)
+
+Andres Navarro
+
+Jul 2026
+
+> **never have to guess what to do**perfect progressive overload
+
+![Image 123](https://gravl.ai/avatars/christian.webp)
+
+Christian Ayala
+
+Jul 2026
+
+> **great for learning how to workout.**definitely makes it easier to go to the gym and have a plan. sometimes you have to modify the weight but it's very easy to do. especially easy to use if you sync your gym to the app
+
+![Image 124](https://gravl.ai/avatars/jorge.webp)
+
+Jorge Homero
+
+Jun 2026
+
+> **Since I started using it, I've been able to focus more on completing the exercises in each routine**and not waste time thinking about which exercise to do next or trying to remember the weight to use. I've recommended it to my friends several times.
+
+![Image 125](https://gravl.ai/avatars/daniel.webp)
+
+Daniel Chan
+
+Jul 2026
+
+> **I feel it helps me a lot**because I don't know what exercises to do, or progressions, and I don't have a coach.
+
+![Image 126](https://gravl.ai/avatars/brian.webp)
+
+Brian K
+
+Jul 2026
+
+> **very first workout pushed me.**I thought I was in decent shape! thanks Gravl!
+
+![Image 127](https://gravl.ai/avatars/louis.webp)
+
+louis lassave
+
+Jul 2026
+
+> **A huge thank you!**I'm really making progress and I no longer have to worry about how to structure my session
+
+![Image 128](https://gravl.ai/avatars/luke.webp)
+
+Luke Sparks
+
+Jul 2026
+
+> **First week so far so good,**freemium features are very nice, hope it stays this way!
+
+![Image 129](https://gravl.ai/avatars/darren.webp)
+
+Darren Kingston-Smith
+
+Jul 2026
+
+> **yeah, I am finding it good.**easy to follow and it adjusts with my progress.
+
+![Image 130](https://gravl.ai/avatars/thiago.webp)
+
+Thiago Oliveira
+
+Jun 2026
+
+> **The app has grown a lot**and is very clever in relation to certain aspects of loads, exercises, combinations, and increasing effort.
+
+![Image 131](https://gravl.ai/avatars/chioma.webp)
+
+Chioma Vanessa
+
+Jul 2026
+
+> **I just started using it and I love it,**hope it continues to live up to my expectations.
+
+![Image 132](https://gravl.ai/avatars/justin.webp)
+
+Justin Burke
+
+Jul 2026
+
+> **Awesome app!**
+
+![Image 133](https://gravl.ai/avatars/john.webp)
+
+John Maldonado
+
+Jul 2026
+
+> **love it grate workouts**
+
+![Image 134](https://gravl.ai/avatars/jonas.webp)
+
+Jonas Albuquerque
+
+Jun 2026
+
+> **excellent**
+
+View more
+
+[![Image 135](https://gravl.ai/live-globe-bg.webp) ![Image 136](https://gravl.ai/brand-icon.webp) Gravl Live Globe Workouts happening right now Live 15 workouts right now Countries United States (3)United Kingdom (2)Spain (2) Gyms 14 active 11 countries Recent workouts * ![Image 137](https://gravl.ai/workout-avatars/workout-avatar-9.svg)![Image 138](https://gravl.ai/workout-avatars/workout-avatar-20.svg)2 workouts at rapid flare United Kingdom · a few minutes ago * ![Image 139](https://gravl.ai/workout-avatars/workout-avatar-2.svg)1 workout at lunar spark Brazil · a few minutes ago Open live globe](https://gravl.ai/globe)
+
+[![Image 140](https://gravl.ai/brand-icon.webp)](https://gravl.ai/)
+
+Product
+
+*   [iPhone Download](https://apps.apple.com/us/app/personal-trainer-gravl/id6450921637)
+*   [Android Download](https://play.google.com/store/apps/details?id=com.liteup.getgains)
+
+Company
+
+*   [About](https://gravl.ai/about)
+*   [Careers](https://gravl.ai/careers)
+*   [Privacy Policy](https://gravl.ai/privacy)
+*   [Terms of Service](https://gravl.ai/terms)
+
+Support
+
+*   [Help Center](https://gravl.ai/help)
+*   [Contact](https://gravl.ai/support)
+*   [Developers](https://gravl.ai/developers)
+
+*   [](https://www.instagram.com/gravl.en/)
+*   [](https://www.linkedin.com/company/joingravl/)
+*   [](https://x.com/gravl_ai)
+*   [](https://www.facebook.com/gravlapp)
+
+Over 1 million users around the world.We'd love to add one more in United States.

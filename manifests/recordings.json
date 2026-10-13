@@ -1,0 +1,526 @@
+[
+  {
+    "audit_id": "V01",
+    "onboarding_id": "U07",
+    "app": "MacroFactor",
+    "filename": "ScreenRecording_10-10-2026 15-01-54_1.mp4",
+    "duration_s": 554.36,
+    "width": 1290,
+    "height": 2796,
+    "public_bytes": 167956725,
+    "public_sha256": "1f5660e387eb76e793223e750bd11bad2772ed894920eb83804e1b5f1feee5ea",
+    "public_duration_s": 554.3538,
+    "privacy_intervals_s": [
+      [
+        261.0,
+        290.5
+      ],
+      [
+        300.0,
+        310.5
+      ],
+      [
+        368.0,
+        374.0
+      ],
+      [
+        457.5,
+        463.5
+      ],
+      [
+        497.0,
+        504.5
+      ],
+      [
+        536.5,
+        544.0
+      ]
+    ],
+    "privacy_masked_seconds": 67.0,
+    "audio_included": false,
+    "codec": "hevc",
+    "frame_timestamps_preserved": true,
+    "source_dimensions_preserved": true,
+    "review_missing_ocr_frames_masked": 0,
+    "download_url": "https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-10-2026%2015-01-54_1.mp4"
+  },
+  {
+    "audit_id": "V02",
+    "onboarding_id": "U11",
+    "app": "BeFit",
+    "filename": "ScreenRecording_10-10-2026 15-37-51_1.mp4",
+    "duration_s": 1675.708333,
+    "width": 1290,
+    "height": 2796,
+    "public_bytes": 177083379,
+    "public_sha256": "62af5fd221edda4f911b16143032772de18d9c865a12cc8ed857a8edee4aa176",
+    "public_duration_s": 1675.707367,
+    "privacy_intervals_s": [
+      [
+        210.5,
+        223.0
+      ],
+      [
+        250,
+        307
+      ],
+      [
+        437.5,
+        447.0
+      ],
+      [
+        595.5,
+        616.0
+      ],
+      [
+        626.5,
+        655.5
+      ],
+      [
+        677.0,
+        684.5
+      ],
+      [
+        706.0,
+        714.0
+      ],
+      [
+        737.5,
+        744.5
+      ],
+      [
+        1012.0,
+        1021.0
+      ],
+      [
+        1037.0,
+        1045.0
+      ],
+      [
+        1184.0,
+        1192.0
+      ],
+      [
+        1197.0,
+        1229.0
+      ],
+      [
+        1237.5,
+        1288.5
+      ],
+      [
+        1398.0,
+        1409.0
+      ],
+      [
+        1422.5,
+        1485.0
+      ],
+      [
+        1662.0,
+        1669.0
+      ]
+    ],
+    "privacy_masked_seconds": 339.5,
+    "audio_included": false,
+    "codec": "hevc",
+    "frame_timestamps_preserved": true,
+    "source_dimensions_preserved": true,
+    "review_missing_ocr_frames_masked": 0,
+    "download_url": "https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-10-2026%2015-37-51_1.mp4"
+  },
+  {
+    "audit_id": "V03",
+    "onboarding_id": "U01",
+    "app": "Fitbod",
+    "filename": "ScreenRecording_10-10-2026 18-39-27_1.mp4",
+    "duration_s": 526.738333,
+    "width": 1290,
+    "height": 2796,
+    "public_bytes": 108354857,
+    "public_sha256": "048708a8a3162fb533d3a2a141a635474b90856fa04e8e886af98765b8484c6a",
+    "public_duration_s": 526.741667,
+    "privacy_intervals_s": [
+      [
+        42.0,
+        48.5
+      ],
+      [
+        189.5,
+        232.0
+      ],
+      [
+        279.5,
+        290.5
+      ]
+    ],
+    "privacy_masked_seconds": 60.0,
+    "audio_included": false,
+    "codec": "hevc",
+    "frame_timestamps_preserved": true,
+    "source_dimensions_preserved": true,
+    "review_missing_ocr_frames_masked": 0,
+    "download_url": "https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-10-2026%2018-39-27_1.mp4"
+  },
+  {
+    "audit_id": "V04",
+    "onboarding_id": "U08",
+    "app": "Planfit",
+    "filename": "ScreenRecording_10-10-2026 22-56-29_1.mp4",
+    "duration_s": 1087.886667,
+    "width": 1290,
+    "height": 2796,
+    "public_bytes": 92795905,
+    "public_sha256": "d5b4ac099bacd182fb9daae5bce8dae084573a334a578d34bf509b0108f5740e",
+    "public_duration_s": 1087.883333,
+    "privacy_intervals_s": [
+      [
+        4,
+        30
+      ],
+      [
+        332.5,
+        356.5
+      ],
+      [
+        501.0,
+        521.0
+      ],
+      [
+        525.5,
+        555.5
+      ],
+      [
+        566.0,
+        572.0
+      ],
+      [
+        619.5,
+        632.5
+      ],
+      [
+        913.5,
+        927.0
+      ],
+      [
+        1074.0,
+        1082.0
+      ]
+    ],
+    "privacy_masked_seconds": 140.5,
+    "audio_included": false,
+    "codec": "hevc",
+    "frame_timestamps_preserved": true,
+    "source_dimensions_preserved": true,
+    "review_missing_ocr_frames_masked": 0,
+    "download_url": "https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-10-2026%2022-56-29_1.mp4"
+  },
+  {
+    "audit_id": "V05",
+    "onboarding_id": "U02",
+    "app": "TRX",
+    "filename": "ScreenRecording_10-10-2026 23-42-23_1.mp4",
+    "duration_s": 437.887801,
+    "width": 1290,
+    "height": 2796,
+    "public_bytes": 45481768,
+    "public_sha256": "8efbffce09604d6d5adf6e23da623240ec70b11e1d4e479eb6247491beec81f2",
+    "public_duration_s": 437.883333,
+    "privacy_intervals_s": [
+      [
+        0,
+        44
+      ],
+      [
+        48,
+        137.5
+      ],
+      [
+        179.5,
+        186.5
+      ],
+      [
+        422.0,
+        428.0
+      ]
+    ],
+    "privacy_masked_seconds": 146.5,
+    "audio_included": false,
+    "codec": "hevc",
+    "frame_timestamps_preserved": true,
+    "source_dimensions_preserved": true,
+    "review_missing_ocr_frames_masked": 0,
+    "download_url": "https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-10-2026%2023-42-23_1.mp4"
+  },
+  {
+    "audit_id": "V06",
+    "onboarding_id": "U05",
+    "app": "Muscle Booster",
+    "filename": "ScreenRecording_10-11-2026 00-03-29_1.mp4",
+    "duration_s": 601.577461,
+    "width": 1290,
+    "height": 2796,
+    "public_bytes": 54779560,
+    "public_sha256": "b976b710ed94316f2d337528c63363ad3d80c2fa9a68906aca1b3302ac26b00f",
+    "public_duration_s": 601.55095,
+    "privacy_intervals_s": [
+      [
+        574.5,
+        581.5
+      ],
+      [
+        595.5,
+        601.5
+      ]
+    ],
+    "privacy_masked_seconds": 13.0,
+    "audio_included": false,
+    "codec": "hevc",
+    "frame_timestamps_preserved": true,
+    "source_dimensions_preserved": true,
+    "review_missing_ocr_frames_masked": 0,
+    "download_url": "https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-11-2026%2000-03-29_1.mp4"
+  },
+  {
+    "audit_id": "V07",
+    "onboarding_id": "U04",
+    "app": "SmartWorkout",
+    "filename": "ScreenRecording_10-11-2026 01-19-42_1.mp4",
+    "duration_s": 732.959955,
+    "width": 1290,
+    "height": 2796,
+    "public_bytes": 92841464,
+    "public_sha256": "cb82fcb2511852fc32a2311e287bd2a571c9c6d57f825421dd6799accafc19a4",
+    "public_duration_s": 732.9322,
+    "privacy_intervals_s": [
+      [
+        253.0,
+        290.5
+      ],
+      [
+        303.0,
+        329.5
+      ],
+      [
+        356.5,
+        369.0
+      ],
+      [
+        521.5,
+        528.0
+      ],
+      [
+        548.0,
+        554.0
+      ],
+      [
+        638.0,
+        644.0
+      ],
+      [
+        680,
+        732.96
+      ]
+    ],
+    "privacy_masked_seconds": 147.96,
+    "audio_included": false,
+    "codec": "hevc",
+    "frame_timestamps_preserved": true,
+    "source_dimensions_preserved": true,
+    "review_missing_ocr_frames_masked": 0,
+    "download_url": "https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-11-2026%2001-19-42_1.mp4"
+  },
+  {
+    "audit_id": "V08",
+    "onboarding_id": "U06",
+    "app": "Gymdone",
+    "filename": "ScreenRecording_10-11-2026 14-57-59_1.mp4",
+    "duration_s": 630.124558,
+    "width": 1290,
+    "height": 2796,
+    "public_bytes": 67212751,
+    "public_sha256": "5f6873e465d5091e9559307e92846e285a04cf2fd90f47d675d64f725ce0b00e",
+    "public_duration_s": 630.125,
+    "privacy_intervals_s": [
+      [
+        104.5,
+        169
+      ],
+      [
+        194.0,
+        202.0
+      ],
+      [
+        552.5,
+        563.5
+      ]
+    ],
+    "privacy_masked_seconds": 83.5,
+    "audio_included": false,
+    "codec": "hevc",
+    "frame_timestamps_preserved": true,
+    "source_dimensions_preserved": true,
+    "review_missing_ocr_frames_masked": 0,
+    "download_url": "https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-11-2026%2014-57-59_1.mp4"
+  },
+  {
+    "audit_id": "V09",
+    "onboarding_id": "U09",
+    "app": "iFIT",
+    "filename": "ScreenRecording_10-11-2026 15-11-09_1.mp4",
+    "duration_s": 331.915,
+    "width": 1290,
+    "height": 2796,
+    "public_bytes": 68389260,
+    "public_sha256": "0766b5741698d4057deafc71e57bc567ab07a4454addd297490b752b6a8b2588",
+    "public_duration_s": 331.914917,
+    "privacy_intervals_s": [
+      [
+        4.0,
+        146
+      ],
+      [
+        149.5,
+        217.5
+      ],
+      [
+        271.5,
+        286.5
+      ],
+      [
+        317.0,
+        331.915
+      ]
+    ],
+    "privacy_masked_seconds": 239.92,
+    "audio_included": false,
+    "codec": "hevc",
+    "frame_timestamps_preserved": true,
+    "source_dimensions_preserved": true,
+    "review_missing_ocr_frames_masked": 0,
+    "download_url": "https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-11-2026%2015-11-09_1.mp4"
+  },
+  {
+    "audit_id": "V10",
+    "onboarding_id": "U12",
+    "app": "Technogym",
+    "filename": "ScreenRecording_10-11-2026 15-37-12_1.mp4",
+    "duration_s": 1198.443333,
+    "width": 1290,
+    "height": 2796,
+    "public_bytes": 186261988,
+    "public_sha256": "ea4dff053f501db8dafdf2362ff599edaac1b2f78fb244ca1d6dffb7a623c790",
+    "public_duration_s": 1198.441667,
+    "privacy_intervals_s": [
+      [
+        0,
+        157.0
+      ],
+      [
+        177.0,
+        190.0
+      ],
+      [
+        1135.0,
+        1193.0
+      ]
+    ],
+    "privacy_masked_seconds": 228.0,
+    "audio_included": false,
+    "codec": "hevc",
+    "frame_timestamps_preserved": true,
+    "source_dimensions_preserved": true,
+    "review_missing_ocr_frames_masked": 0,
+    "download_url": "https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-11-2026%2015-37-12_1.mp4"
+  },
+  {
+    "audit_id": "V11",
+    "onboarding_id": "U03",
+    "app": "Buddyfit",
+    "filename": "ScreenRecording_10-11-2026 16-16-57_1.mp4",
+    "duration_s": 1052.491667,
+    "width": 1290,
+    "height": 2796,
+    "public_bytes": 283658152,
+    "public_sha256": "bf4e3a2745c2980f16c018db37dbde6dffe3398f8cc75333e777b6059d903fb5",
+    "public_duration_s": 1052.484767,
+    "privacy_intervals_s": [
+      [
+        35.5,
+        171.5
+      ],
+      [
+        241.0,
+        266.5
+      ],
+      [
+        412.5,
+        418.5
+      ],
+      [
+        732.5,
+        739.0
+      ],
+      [
+        743.0,
+        751.0
+      ],
+      [
+        756.0,
+        802.0
+      ],
+      [
+        1015.5,
+        1024.5
+      ],
+      [
+        1046.0,
+        1052.492
+      ]
+    ],
+    "privacy_masked_seconds": 243.49,
+    "audio_included": false,
+    "codec": "hevc",
+    "frame_timestamps_preserved": true,
+    "source_dimensions_preserved": true,
+    "review_missing_ocr_frames_masked": 0,
+    "download_url": "https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-11-2026%2016-16-57_1.mp4"
+  },
+  {
+    "audit_id": "V12",
+    "onboarding_id": "U10",
+    "app": "MCI",
+    "filename": "ScreenRecording_10-11-2026 17-46-36_1.mp4",
+    "duration_s": 1285.559501,
+    "width": 1290,
+    "height": 2796,
+    "public_bytes": 194278445,
+    "public_sha256": "153e44a0105681bf14169f08d247fa70db4de4a3721d22149029062cf26a0339",
+    "public_duration_s": 1285.550933,
+    "privacy_intervals_s": [
+      [
+        215.5,
+        289
+      ],
+      [
+        291.5,
+        298.5
+      ],
+      [
+        642.5,
+        650.5
+      ],
+      [
+        1280.5,
+        1285.56
+      ]
+    ],
+    "privacy_masked_seconds": 93.56,
+    "audio_included": false,
+    "codec": "hevc",
+    "frame_timestamps_preserved": true,
+    "source_dimensions_preserved": true,
+    "review_missing_ocr_frames_masked": 0,
+    "download_url": "https://github.com/aiuniversee112-byte/fitness-app-research-materials/releases/download/materials-v1/ScreenRecording_10-11-2026%2017-46-36_1.mp4"
+  }
+]

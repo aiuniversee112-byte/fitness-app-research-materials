@@ -1,0 +1,107 @@
+[
+  {
+    "id": "A16-onb_6y1p3",
+    "duration": 22.0,
+    "flow": "Onboarding",
+    "file": "[LOCAL]/research\\fitness-audit-2026-10-11\\16-22-media\\A16-onb_6y1p3.mp4",
+    "frames": 5
+  },
+  {
+    "id": "A17-spl_ypswf",
+    "duration": 3.033333333333333,
+    "flow": "Welcome Screen",
+    "file": "[LOCAL]/research\\fitness-audit-2026-10-11\\16-22-media\\A17-spl_ypswf.mp4",
+    "frames": 1
+  },
+  {
+    "id": "A17-onb_6swxj",
+    "duration": 150.4,
+    "flow": "Onboarding",
+    "file": "[LOCAL]/research\\fitness-audit-2026-10-11\\16-22-media\\A17-onb_6swxj.mp4",
+    "frames": 31
+  },
+  {
+    "id": "A18-spl_rpn7g",
+    "duration": 4.2,
+    "flow": "Welcome Screen",
+    "file": "[LOCAL]/research\\fitness-audit-2026-10-11\\16-22-media\\A18-spl_rpn7g.mp4",
+    "frames": 1
+  },
+  {
+    "id": "A18-onb_urj0o",
+    "duration": 142.66666666666666,
+    "flow": "Onboarding",
+    "file": "[LOCAL]/research\\fitness-audit-2026-10-11\\16-22-media\\A18-onb_urj0o.mp4",
+    "frames": 29
+  },
+  {
+    "id": "A19-spl_qpznf",
+    "duration": 2.433333333333333,
+    "flow": "Welcome Screen",
+    "file": "[LOCAL]/research\\fitness-audit-2026-10-11\\16-22-media\\A19-spl_qpznf.mp4",
+    "frames": 1
+  },
+  {
+    "id": "A19-onb_ygbmx",
+    "duration": 105.73333333333333,
+    "flow": "Onboarding",
+    "file": "[LOCAL]/research\\fitness-audit-2026-10-11\\16-22-media\\A19-onb_ygbmx.mp4",
+    "frames": 22
+  },
+  {
+    "id": "A20-spl_ytnsc",
+    "duration": 2.6,
+    "flow": "Welcome Screen",
+    "file": "[LOCAL]/research\\fitness-audit-2026-10-11\\16-22-media\\A20-spl_ytnsc.mp4",
+    "frames": 1
+  },
+  {
+    "id": "A20-onb_tyza6",
+    "duration": 185.93333333333334,
+    "flow": "Onboarding",
+    "file": "[LOCAL]/research\\fitness-audit-2026-10-11\\16-22-media\\A20-onb_tyza6.mp4",
+    "frames": 38
+  },
+  {
+    "id": "A21-spl_bvw1p",
+    "duration": 2.2,
+    "flow": "Welcome Screen",
+    "file": "[LOCAL]/research\\fitness-audit-2026-10-11\\16-22-media\\A21-spl_bvw1p.mp4",
+    "frames": 1
+  },
+  {
+    "id": "A21-onb_dt7pt",
+    "duration": 168.36666666666667,
+    "flow": "Onboarding",
+    "file": "[LOCAL]/research\\fitness-audit-2026-10-11\\16-22-media\\A21-onb_dt7pt.mp4",
+    "frames": 34
+  },
+  {
+    "id": "A22-spl_myn5r",
+    "duration": 3.6,
+    "flow": "Welcome Screen",
+    "file": "[LOCAL]/research\\fitness-audit-2026-10-11\\16-22-media\\A22-spl_myn5r.mp4",
+    "frames": 1
+  },
+  {
+    "id": "A22-onb_8ki1d",
+    "duration": 61.56666666666667,
+    "flow": "Onboarding",
+    "file": "[LOCAL]/research\\fitness-audit-2026-10-11\\16-22-media\\A22-onb_8ki1d.mp4",
+    "frames": 13
+  },
+  {
+    "id": "A23-spl_qpr9u",
+    "duration": 1.1666666666666667,
+    "flow": "Welcome Screen",
+    "file": "[LOCAL]/research\\fitness-audit-2026-10-11\\16-22-media\\A23-spl_qpr9u.mp4",
+    "frames": 1
+  },
+  {
+    "id": "A23-onb_bh4bf",
+    "duration": 99.66666666666667,
+    "flow": "Onboarding",
+    "file": "[LOCAL]/research\\fitness-audit-2026-10-11\\16-22-media\\A23-onb_bh4bf.mp4",
+    "frames": 20
+  }
+]

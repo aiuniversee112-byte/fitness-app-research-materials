@@ -1,0 +1,230 @@
+[
+  {
+    "number": 1,
+    "app": "BeFit",
+    "role": "reps",
+    "background_sample_rgb": [
+      19.0,
+      33.0,
+      36.0
+    ],
+    "foreground_sample_rgb": [
+      158.0,
+      166.3,
+      169.6
+    ],
+    "contrast_ratio": 6.69,
+    "source": "V02",
+    "time_s": 540,
+    "scope": "single raster state, not app compliance"
+  },
+  {
+    "number": 3,
+    "app": "Fitbod",
+    "role": "hold timer",
+    "background_sample_rgb": [
+      25.0,
+      24.0,
+      32.0
+    ],
+    "foreground_sample_rgb": [
+      255.0,
+      254.8,
+      254.9
+    ],
+    "contrast_ratio": 17.58,
+    "source": "V03",
+    "time_s": 481,
+    "scope": "single raster state, not app compliance"
+  },
+  {
+    "number": 4,
+    "app": "Gymverse",
+    "role": "set seconds",
+    "background_sample_rgb": [
+      167.0,
+      150.0,
+      24.0
+    ],
+    "foreground_sample_rgb": [
+      24.0,
+      30.0,
+      40.0
+    ],
+    "contrast_ratio": 5.59,
+    "source": "Gymverse/oth_b7685.png",
+    "time_s": null,
+    "scope": "single raster state, not app compliance"
+  },
+  {
+    "number": 7,
+    "app": "Strava",
+    "role": "speed",
+    "background_sample_rgb": [
+      255.0,
+      255.0,
+      255.0
+    ],
+    "foreground_sample_rgb": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "contrast_ratio": 21.0,
+    "source": "Strava/oth_veib4.png",
+    "time_s": null,
+    "scope": "single raster state, not app compliance"
+  },
+  {
+    "number": 8,
+    "app": "Lyfta",
+    "role": "rest pill",
+    "background_sample_rgb": [
+      0.0,
+      136.0,
+      255.0
+    ],
+    "foreground_sample_rgb": [
+      254.9,
+      255.0,
+      255.0
+    ],
+    "contrast_ratio": 3.52,
+    "source": "Lyfta/oth_bk1t8.png",
+    "time_s": null,
+    "scope": "single raster state, not app compliance"
+  },
+  {
+    "number": 9,
+    "app": "Fitify",
+    "role": "interval seconds",
+    "background_sample_rgb": [
+      255.0,
+      255.0,
+      255.0
+    ],
+    "foreground_sample_rgb": [
+      4.0,
+      30.0,
+      66.0
+    ],
+    "contrast_ratio": 16.54,
+    "source": "Fitify-Home-Workout-AI-Coach/oth_nar2c.png",
+    "time_s": null,
+    "scope": "single raster state, not app compliance"
+  },
+  {
+    "number": 11,
+    "app": "SmartGym",
+    "role": "rest timer",
+    "background_sample_rgb": [
+      37.0,
+      38.0,
+      48.9
+    ],
+    "foreground_sample_rgb": [
+      164.8,
+      249.8,
+      1.6
+    ],
+    "contrast_ratio": 11.6,
+    "source": "SmartGym/oth_bzwhb.png",
+    "time_s": null,
+    "scope": "single raster state, not app compliance"
+  },
+  {
+    "number": 13,
+    "app": "Gymdone",
+    "role": "kg reps",
+    "background_sample_rgb": [
+      22.0,
+      31.0,
+      52.0
+    ],
+    "foreground_sample_rgb": [
+      254.6,
+      254.7,
+      254.9
+    ],
+    "contrast_ratio": 16.36,
+    "source": "V08",
+    "time_s": 270,
+    "scope": "single raster state, not app compliance"
+  },
+  {
+    "number": 16,
+    "app": "Strong",
+    "role": "elapsed",
+    "background_sample_rgb": [
+      255.0,
+      255.0,
+      255.0
+    ],
+    "foreground_sample_rgb": [
+      205.0,
+      207.0,
+      208.0
+    ],
+    "contrast_ratio": 1.56,
+    "source": "Strong/oth_h8pxa.png",
+    "time_s": null,
+    "scope": "single raster state, not app compliance"
+  },
+  {
+    "number": 17,
+    "app": "JEFIT",
+    "role": "rest timer",
+    "background_sample_rgb": [
+      90.0,
+      148.0,
+      255.0
+    ],
+    "foreground_sample_rgb": [
+      255.0,
+      255.0,
+      255.0
+    ],
+    "contrast_ratio": 2.95,
+    "source": "JEFIT/oth_1nak1.png",
+    "time_s": null,
+    "scope": "single raster state, not app compliance"
+  },
+  {
+    "number": 20,
+    "app": "Symmetry",
+    "role": "elapsed",
+    "background_sample_rgb": [
+      0.4,
+      0.4,
+      0.4
+    ],
+    "foreground_sample_rgb": [
+      248.8,
+      249.2,
+      250.2
+    ],
+    "contrast_ratio": 19.93,
+    "source": "Symmetry/oth_n4psi.png",
+    "time_s": null,
+    "scope": "single raster state, not app compliance"
+  },
+  {
+    "number": 23,
+    "app": "MCI",
+    "role": "elapsed",
+    "background_sample_rgb": [
+      17.0,
+      17.0,
+      17.0
+    ],
+    "foreground_sample_rgb": [
+      241.1,
+      241.1,
+      241.1
+    ],
+    "contrast_ratio": 16.73,
+    "source": "V12",
+    "time_s": 1166,
+    "scope": "single raster state, not app compliance"
+  }
+]
